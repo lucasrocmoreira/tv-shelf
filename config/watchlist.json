@@ -287,6 +287,15 @@
    "added": "2026-10-07",
    "interest": 0,
    "watched": null
+  },
+  "tmdb:69740": {
+   "tmdb": 69740,
+   "title": "Ozark",
+   "year": 2017,
+   "poster": "https://image.tmdb.org/t/p/w342/pCGyPVrI9Fzw6rE1Pvi4BIXF6ET.jpg",
+   "added": "2026-10-07",
+   "interest": 0,
+   "watched": null
   }
  }
 }
