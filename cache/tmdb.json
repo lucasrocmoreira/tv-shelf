@@ -9,7 +9,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-07T05:46:13+00:00",
+  "fetched": "2026-10-07T05:46:42+00:00",
   "genres": [
    "Action & Adventure",
    "Sci-Fi & Fantasy",
@@ -69,7 +69,7 @@
   ],
   "end_year": null,
   "episodes": 30,
-  "fetched": "2026-10-07T05:46:13+00:00",
+  "fetched": "2026-10-07T05:46:42+00:00",
   "genres": [
    "Drama",
    "Mystery"
@@ -135,7 +135,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-07T05:46:13+00:00",
+  "fetched": "2026-10-07T05:46:42+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Mystery",
@@ -191,7 +191,7 @@
   ],
   "end_year": null,
   "episodes": 95,
-  "fetched": "2026-10-07T05:46:13+00:00",
+  "fetched": "2026-10-07T05:46:42+00:00",
   "genres": [
    "Comedy"
   ],
@@ -216,7 +216,7 @@
   "next_episode": "2026-10-07",
   "original_title": null,
   "overview": "In this workplace comedy, a group of dedicated, passionate teachers — and a slightly tone-deaf principal — are brought together in a Philadelphia public school where, despite the odds stacked against them, they are determined to help their students succeed in life. Though these incredible public servants may be outnumbered and underfunded, they love what they do — even if they don’t love the school district’s less-than-stellar attitude toward educating children.",
-  "popularity": 60.8,
+  "popularity": 60.9,
   "poster": "https://image.tmdb.org/t/p/w342/nBe1e3JJEZ6veGrVXNF0fRoLu56.jpg",
   "runtime": 22,
   "seasons": 6,
@@ -245,7 +245,7 @@
   ],
   "end_year": null,
   "episodes": 31,
-  "fetched": "2026-10-07T05:46:13+00:00",
+  "fetched": "2026-10-07T05:46:42+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama"
@@ -271,7 +271,7 @@
   "next_episode": "2027-07-08",
   "original_title": null,
   "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-  "popularity": 190.6,
+  "popularity": 172.2,
   "poster": "https://image.tmdb.org/t/p/w342/r2QXomqKjkKHVtYGGtkf2l2Y7go.jpg",
   "runtime": 61,
   "seasons": 4,
@@ -298,7 +298,7 @@
   ],
   "end_year": 2024,
   "episodes": 15,
-  "fetched": "2026-10-07T05:46:13+00:00",
+  "fetched": "2026-10-07T05:46:42+00:00",
   "genres": [
    "Drama",
    "Sci-Fi & Fantasy"
@@ -329,7 +329,7 @@
   "next_episode": null,
   "original_title": null,
   "overview": "A century-old vampire from New Orleans reunites with an ailing journalist to recount his life of bloodlust and his tumultuous relationship with the rakish Frenchman who turned him.",
-  "popularity": 22.7,
+  "popularity": 22.4,
   "poster": "https://image.tmdb.org/t/p/w342/mQ0fbfc5ELwb2zjFZM4uwAnN3ee.jpg",
   "runtime": 57,
   "seasons": 2,
@@ -363,7 +363,7 @@
   ],
   "end_year": 2026,
   "episodes": 46,
-  "fetched": "2026-10-07T05:46:13+00:00",
+  "fetched": "2026-10-07T05:46:42+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -422,7 +422,7 @@
   ],
   "end_year": 2024,
   "episodes": 9,
-  "fetched": "2026-10-07T05:46:13+00:00",
+  "fetched": "2026-10-07T05:46:42+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Mystery"
@@ -466,6 +466,71 @@
   "wikidata_id": "Q108837156",
   "year": 2024
  },
+ "1427": {
+  "countries": [
+   "GB"
+  ],
+  "creators": [
+   "Chris Chibnall"
+  ],
+  "end_year": 2017,
+  "episodes": 24,
+  "fetched": "2026-10-07T05:46:41+00:00",
+  "genres": [
+   "Crime",
+   "Drama",
+   "Mystery"
+  ],
+  "hours": 19,
+  "imdb_id": "tt2249364",
+  "keywords": [
+   "hotel",
+   "newspaper",
+   "beach",
+   "small town",
+   "child murder",
+   "investigation",
+   "media",
+   "grief",
+   "priest",
+   "police detective",
+   "murder investigation",
+   "seaside town",
+   "procedural",
+   "thoughtful",
+   "dorset"
+  ],
+  "language": "en",
+  "networks": [
+   "ITV1"
+  ],
+  "next_episode": null,
+  "original_title": null,
+  "overview": "The murder of a young boy in a small coastal town brings a media frenzy, which threatens to tear the community apart.",
+  "popularity": 28.7,
+  "poster": "https://image.tmdb.org/t/p/w342/2NhBFUTg5KVBmGwafxtLwVdsqrr.jpg",
+  "runtime": 47,
+  "seasons": 3,
+  "status": "Ended",
+  "streaming": [
+   "Netflix",
+   "Peacock Premium",
+   "PBS",
+   "PBS Masterpiece Amazon Channel",
+   "Netflix Standard with Ads",
+   "Peacock Premium Plus",
+   "Thirteen",
+   "WETA+"
+  ],
+  "title": "Broadchurch",
+  "tmdb": 1427,
+  "tmdb_score": 79,
+  "tmdb_votes": 1051,
+  "type": "Scripted",
+  "watch_link": "https://www.themoviedb.org/tv/1427-broadchurch/watch?locale=US",
+  "wikidata_id": "Q4972159",
+  "year": 2013
+ },
  "154385": {
   "countries": [
    "US"
@@ -475,7 +540,7 @@
   ],
   "end_year": null,
   "episodes": 18,
-  "fetched": "2026-10-07T05:46:13+00:00",
+  "fetched": "2026-10-07T05:46:42+00:00",
   "genres": [
    "Comedy",
    "Drama"
@@ -533,7 +598,7 @@
   ],
   "end_year": 2024,
   "episodes": 8,
-  "fetched": "2026-10-07T05:46:13+00:00",
+  "fetched": "2026-10-07T05:46:42+00:00",
   "genres": [
    "Drama",
    "Crime"
@@ -592,7 +657,7 @@
   ],
   "end_year": null,
   "episodes": 12,
-  "fetched": "2026-10-07T05:46:13+00:00",
+  "fetched": "2026-10-07T05:46:42+00:00",
   "genres": [
    "Comedy",
    "Documentary"
@@ -644,7 +709,7 @@
   ],
   "end_year": 2026,
   "episodes": 8,
-  "fetched": "2026-10-07T05:46:14+00:00",
+  "fetched": "2026-10-07T05:46:42+00:00",
   "genres": [
    "Drama",
    "Mystery",
@@ -704,7 +769,7 @@
   ],
   "end_year": 2026,
   "episodes": 8,
-  "fetched": "2026-10-07T05:46:14+00:00",
+  "fetched": "2026-10-07T05:46:43+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Mystery"
@@ -752,7 +817,7 @@
   ],
   "end_year": 2023,
   "episodes": 7,
-  "fetched": "2026-10-07T05:46:14+00:00",
+  "fetched": "2026-10-07T05:46:43+00:00",
   "genres": [
    "Documentary"
   ],
@@ -797,7 +862,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-07T05:46:14+00:00",
+  "fetched": "2026-10-07T05:46:43+00:00",
   "genres": [
    "Comedy"
   ],
@@ -841,7 +906,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-10-07T05:46:14+00:00",
+  "fetched": "2026-10-07T05:46:43+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -890,7 +955,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-07T05:46:14+00:00",
+  "fetched": "2026-10-07T05:46:43+00:00",
   "genres": [
    "Crime",
    "Drama"
@@ -915,7 +980,7 @@
   "next_episode": null,
   "original_title": null,
   "overview": "The tranquility in a serene, wealthy community inhabited by some of the world's most prominent individuals explodes when a shocking murder occurs and a high stakes investigation unfolds.",
-  "popularity": 44.1,
+  "popularity": 41.3,
   "poster": "https://image.tmdb.org/t/p/w342/l8RqfhqEk04W5sSOjQ9zeWU1DyM.jpg",
   "runtime": 53,
   "seasons": 2,
@@ -941,7 +1006,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-10-07T05:46:14+00:00",
+  "fetched": "2026-10-07T05:46:43+00:00",
   "genres": [
    "Drama",
    "Mystery"
@@ -999,7 +1064,7 @@
   ],
   "end_year": null,
   "episodes": 17,
-  "fetched": "2026-10-07T05:46:14+00:00",
+  "fetched": "2026-10-07T05:46:43+00:00",
   "genres": [
    "Comedy"
   ],
@@ -1047,7 +1112,7 @@
   ],
   "end_year": 2025,
   "episodes": 8,
-  "fetched": "2026-10-07T05:46:14+00:00",
+  "fetched": "2026-10-07T05:46:43+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -1096,7 +1161,7 @@
   ],
   "end_year": null,
   "episodes": 10,
-  "fetched": "2026-10-07T05:46:14+00:00",
+  "fetched": "2026-10-07T05:46:43+00:00",
   "genres": [
    "Comedy"
   ],
@@ -1146,7 +1211,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-10-07T05:46:14+00:00",
+  "fetched": "2026-10-07T05:46:43+00:00",
   "genres": [
    "Drama",
    "Crime"
@@ -1193,7 +1258,7 @@
   ],
   "end_year": 2026,
   "episodes": 5,
-  "fetched": "2026-10-07T05:46:14+00:00",
+  "fetched": "2026-10-07T05:46:43+00:00",
   "genres": [
    "Documentary"
   ],
@@ -1237,7 +1302,7 @@
   ],
   "end_year": null,
   "episodes": 33,
-  "fetched": "2026-10-07T05:46:12+00:00",
+  "fetched": "2026-10-07T05:46:41+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama",
@@ -1298,7 +1363,7 @@
   ],
   "end_year": 2017,
   "episodes": 31,
-  "fetched": "2026-10-07T05:46:12+00:00",
+  "fetched": "2026-10-07T05:46:42+00:00",
   "genres": [
    "Comedy",
    "Documentary"
@@ -1350,7 +1415,7 @@
   ],
   "end_year": 2022,
   "episodes": 63,
-  "fetched": "2026-10-07T05:46:12+00:00",
+  "fetched": "2026-10-07T05:46:42+00:00",
   "genres": [
    "Crime",
    "Drama"
@@ -1399,6 +1464,64 @@
   "wikidata_id": "Q14925221",
   "year": 2015
  },
+ "65494": {
+  "countries": [
+   "GB",
+   "US"
+  ],
+  "creators": [
+   "Peter Morgan"
+  ],
+  "end_year": 2023,
+  "episodes": 60,
+  "fetched": "2026-10-07T05:46:42+00:00",
+  "genres": [
+   "Drama"
+  ],
+  "hours": 73,
+  "imdb_id": "tt4786824",
+  "keywords": [
+   "england",
+   "queen",
+   "prince",
+   "dynasty",
+   "royal family",
+   "princess",
+   "based on true story",
+   "royalty",
+   "based on play or musical",
+   "british politics",
+   "british history",
+   "palace intrigue",
+   "historical drama",
+   "thoughtful",
+   "british royal family"
+  ],
+  "language": "en",
+  "networks": [
+   "Netflix"
+  ],
+  "next_episode": null,
+  "original_title": null,
+  "overview": "The gripping, decades-spanning inside story of Her Majesty Queen Elizabeth II and the Prime Ministers who shaped Britain's post-war destiny. \n\nThe Crown tells the inside story of two of the most famous addresses in the world – Buckingham Palace and 10 Downing Street – and the intrigues, love lives and machinations behind the great events that shaped the second half of the 20th century. Two houses, two courts, one Crown.",
+  "popularity": 77.4,
+  "poster": "https://image.tmdb.org/t/p/w342/1M876KPjulVwppEpldhdc8V4o68.jpg",
+  "runtime": 73,
+  "seasons": 6,
+  "status": "Ended",
+  "streaming": [
+   "Netflix",
+   "Netflix Standard with Ads"
+  ],
+  "title": "The Crown",
+  "tmdb": 65494,
+  "tmdb_score": 82,
+  "tmdb_votes": 2440,
+  "type": "Scripted",
+  "watch_link": "https://www.themoviedb.org/tv/65494-the-crown/watch?locale=US",
+  "wikidata_id": "Q20707362",
+  "year": 2016
+ },
  "76331": {
   "countries": [
    "US"
@@ -1408,7 +1531,7 @@
   ],
   "end_year": 2023,
   "episodes": 39,
-  "fetched": "2026-10-07T05:46:12+00:00",
+  "fetched": "2026-10-07T05:46:42+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -1466,7 +1589,7 @@
   ],
   "end_year": null,
   "episodes": 15,
-  "fetched": "2026-10-07T05:46:12+00:00",
+  "fetched": "2026-10-07T05:46:42+00:00",
   "genres": [
    "Action & Adventure",
    "Sci-Fi & Fantasy",
@@ -1521,7 +1644,7 @@
   ],
   "end_year": null,
   "episodes": 30,
-  "fetched": "2026-10-07T05:46:13+00:00",
+  "fetched": "2026-10-07T05:46:42+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama"
@@ -1577,7 +1700,7 @@
   ],
   "end_year": null,
   "episodes": 44,
-  "fetched": "2026-10-07T05:46:13+00:00",
+  "fetched": "2026-10-07T05:46:42+00:00",
   "genres": [
    "Drama",
    "Comedy"
