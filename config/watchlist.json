@@ -1,3 +1,13 @@
 {
- "shows": {}
+ "shows": {
+  "tmdb:125935": {
+   "tmdb": 125935,
+   "title": "Abbott Elementary",
+   "year": 2021,
+   "poster": "https://image.tmdb.org/t/p/w342/nBe1e3JJEZ6veGrVXNF0fRoLu56.jpg",
+   "added": "2026-10-06",
+   "interest": 0,
+   "watched": null
+  }
+ }
 }
