@@ -170,6 +170,15 @@
    "added": "2026-10-06",
    "interest": 0,
    "watched": null
+  },
+  "tmdb:119051": {
+   "tmdb": 119051,
+   "title": "Wednesday",
+   "year": 2022,
+   "poster": "https://image.tmdb.org/t/p/w342/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
+   "added": "2026-10-06",
+   "interest": 0,
+   "watched": null
   }
  }
 }
