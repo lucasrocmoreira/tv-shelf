@@ -1,4 +1,14 @@
 {
+ "tt0804484": {
+  "checked": "2026-10-07T01:56:15+00:00",
+  "mc": "tv/foundation",
+  "rt": "tv/foundation"
+ },
+ "tt10802170": {
+  "checked": "2026-10-07T01:56:15+00:00",
+  "mc": "tv/the-rehearsal",
+  "rt": "tv/the_rehearsal_2022"
+ },
  "tt12637874": {
   "checked": "2026-10-07T01:55:01+00:00",
   "mc": "tv/fallout",
@@ -9,10 +19,25 @@
   "mc": null,
   "rt": "tv/abbott_elementary"
  },
+ "tt14452776": {
+  "checked": "2026-10-07T01:56:15+00:00",
+  "mc": "tv/the-bear",
+  "rt": "tv/the_bear"
+ },
+ "tt15435876": {
+  "checked": "2026-10-07T01:56:15+00:00",
+  "mc": "tv/the-penguin",
+  "rt": "tv/the_penguin"
+ },
  "tt2085059": {
   "checked": "2026-10-07T01:55:01+00:00",
   "mc": "tv/black-mirror",
   "rt": "tv/black_mirror"
+ },
+ "tt2297757": {
+  "checked": "2026-10-07T01:56:15+00:00",
+  "mc": "tv/nathan-for-you",
+  "rt": "tv/nathan-for-you"
  },
  "tt30460310": {
   "checked": "2026-10-07T01:55:01+00:00",

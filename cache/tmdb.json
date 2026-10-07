@@ -9,7 +9,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-07T01:55:00+00:00",
+  "fetched": "2026-10-07T01:56:14+00:00",
   "genres": [
    "Action & Adventure",
    "Sci-Fi & Fantasy",
@@ -68,7 +68,7 @@
   ],
   "end_year": null,
   "episodes": 95,
-  "fetched": "2026-10-07T01:55:00+00:00",
+  "fetched": "2026-10-07T01:56:14+00:00",
   "genres": [
    "Comedy"
   ],
@@ -113,6 +113,176 @@
   "wikidata_id": "Q107072019",
   "year": 2021
  },
+ "136315": {
+  "countries": [
+   "US"
+  ],
+  "creators": [
+   "Christopher Storer"
+  ],
+  "end_year": 2026,
+  "episodes": 46,
+  "fetched": "2026-10-07T01:56:14+00:00",
+  "genres": [
+   "Drama",
+   "Comedy"
+  ],
+  "hours": 48,
+  "imdb_id": "tt14452776",
+  "keywords": [
+   "suicide",
+   "chicago, illinois",
+   "restaurant",
+   "group therapy",
+   "family business ",
+   "community",
+   "workplace",
+   "grief",
+   "food industry",
+   "chef",
+   "death of brother",
+   "small business",
+   "culinary arts",
+   "fine dining",
+   "panic attack"
+  ],
+  "language": "en",
+  "networks": [
+   "Hulu"
+  ],
+  "next_episode": null,
+  "original_title": null,
+  "overview": "Carmy, a young fine-dining chef, comes home to Chicago to run his family sandwich shop. As he fights to transform the shop and himself, he works alongside a rough-around-the-edges crew that ultimately reveal themselves as his chosen family.",
+  "popularity": 64.7,
+  "poster": "https://image.tmdb.org/t/p/w342/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
+  "runtime": 62,
+  "seasons": 5,
+  "status": "Ended",
+  "streaming": [
+   "Disney Plus",
+   "Hulu",
+   "YouTube TV"
+  ],
+  "title": "The Bear",
+  "tmdb": 136315,
+  "tmdb_score": 82,
+  "tmdb_votes": 1959,
+  "type": "Scripted",
+  "watch_link": "https://www.themoviedb.org/tv/136315-the-bear/watch?locale=US",
+  "wikidata_id": "Q112761982",
+  "year": 2022
+ },
+ "194764": {
+  "countries": [
+   "US"
+  ],
+  "creators": [
+   "Lauren LeFranc"
+  ],
+  "end_year": 2024,
+  "episodes": 8,
+  "fetched": "2026-10-07T01:56:14+00:00",
+  "genres": [
+   "Drama",
+   "Crime"
+  ],
+  "hours": 9,
+  "imdb_id": "tt15435876",
+  "keywords": [
+   "drug trafficking",
+   "gangster",
+   "villain",
+   "based on comic",
+   "crime boss",
+   "betrayal",
+   "organized crime",
+   "miniseries",
+   "criminal",
+   "spin off",
+   "mob family",
+   "mother son relationship",
+   "violence",
+   "amused",
+   "bold"
+  ],
+  "language": "en",
+  "networks": [
+   "HBO"
+  ],
+  "next_episode": null,
+  "original_title": null,
+  "overview": "With the city in peril following the seawall's collapse, Oswald \"Oz\" Cobb seeks to fill the power vacuum left by the death of Carmine Falcone and finally give his mother Francis the life he's always promised. But first, Oz must confront his enemies and his own demoralizing reputation as \"the Penguin.\"",
+  "popularity": 29.8,
+  "poster": "https://image.tmdb.org/t/p/w342/vOWcqC4oDQws1doDWLO7d3dh5qc.jpg",
+  "runtime": 70,
+  "seasons": 1,
+  "status": "Ended",
+  "streaming": [
+   "HBO Max Amazon Channel",
+   "Spectrum On Demand",
+   "HBO Max"
+  ],
+  "title": "The Penguin",
+  "tmdb": 194764,
+  "tmdb_score": 84,
+  "tmdb_votes": 1515,
+  "type": "Miniseries",
+  "watch_link": "https://www.themoviedb.org/tv/194764-the-penguin/watch?locale=US",
+  "wikidata_id": "Q111189743",
+  "year": 2024
+ },
+ "204284": {
+  "countries": [
+   "US"
+  ],
+  "creators": [
+   "Nathan Fielder"
+  ],
+  "end_year": null,
+  "episodes": 12,
+  "fetched": "2026-10-07T01:56:14+00:00",
+  "genres": [
+   "Comedy",
+   "Documentary"
+  ],
+  "hours": 12,
+  "imdb_id": "tt10802170",
+  "keywords": [
+   "interview",
+   "parenthood",
+   "mockumentary",
+   "rehearsal",
+   "pilot error",
+   "comedy of errors",
+   "absurd",
+   "past mistakes",
+   "social error"
+  ],
+  "language": "en",
+  "networks": [
+   "HBO"
+  ],
+  "next_episode": null,
+  "original_title": null,
+  "overview": "With a construction crew, a legion of actors, and seemingly unlimited resources, Nathan Fielder allows ordinary people to prepare for life's biggest moments by \"rehearsing\" them in carefully crafted simulations of his own design. When a single misstep could shatter your entire world, why leave life to chance?",
+  "popularity": 9.4,
+  "poster": "https://image.tmdb.org/t/p/w342/mIevNYxovnH4sR22qkUmAgS5vdv.jpg",
+  "runtime": 59,
+  "seasons": 2,
+  "status": "Ongoing",
+  "streaming": [
+   "HBO Max Amazon Channel",
+   "HBO Max"
+  ],
+  "title": "The Rehearsal",
+  "tmdb": 204284,
+  "tmdb_score": 80,
+  "tmdb_votes": 278,
+  "type": "Documentary",
+  "watch_link": "https://www.themoviedb.org/tv/204284-the-rehearsal/watch?locale=US",
+  "wikidata_id": "Q112915576",
+  "year": 2022
+ },
  "220102": {
   "countries": [
    "US"
@@ -122,7 +292,7 @@
   ],
   "end_year": 2026,
   "episodes": 8,
-  "fetched": "2026-10-07T01:55:00+00:00",
+  "fetched": "2026-10-07T01:56:14+00:00",
   "genres": [
    "Drama",
    "Mystery",
@@ -181,7 +351,7 @@
   ],
   "end_year": null,
   "episodes": 33,
-  "fetched": "2026-10-07T01:55:00+00:00",
+  "fetched": "2026-10-07T01:56:14+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama",
@@ -232,6 +402,58 @@
   "wikidata_id": "Q558112",
   "year": 2011
  },
+ "58957": {
+  "countries": [
+   "US"
+  ],
+  "creators": [
+   "Nathan Fielder",
+   "Michael Koman"
+  ],
+  "end_year": 2017,
+  "episodes": 31,
+  "fetched": "2026-10-07T01:56:14+00:00",
+  "genres": [
+   "Comedy",
+   "Documentary"
+  ],
+  "hours": 11,
+  "imdb_id": "tt2297757",
+  "keywords": [
+   "prank",
+   "mockumentary",
+   "cringe"
+  ],
+  "language": "en",
+  "networks": [
+   "Comedy Central"
+  ],
+  "next_episode": null,
+  "original_title": null,
+  "overview": "Self-proclaimed business expert, writer, director and comedian Nathan Fielder helps real small businesses turn a profit with marketing tactics that no ordinary consultant would dare to attempt. From driving foot traffic to an off-the-strip souvenir shop by using Hollywood flair and a Johnny Depp impersonator, to creating a rebate that can only be redeemed by climbing a mountain, to founding a coffee shop called \"Dumb Starbucks,” Nathan has always gone to the limit to make his ideas come to life. With his unorthodox approach to problem solving, Nathan’s genuine efforts to do good often draw the real people he encounters into an experience far beyond what they signed up for.",
+  "popularity": 10.2,
+  "poster": "https://image.tmdb.org/t/p/w342/6tGXlz61c44onUg6EdRkbhjcaPA.jpg",
+  "runtime": 21,
+  "seasons": 4,
+  "status": "Ended",
+  "streaming": [
+   "HBO Max Amazon Channel",
+   "Paramount Plus Premium",
+   "Paramount Plus Essential",
+   "Paramount Plus Apple TV channel",
+   "Paramount+ Amazon Channel",
+   "Paramount+ Roku Premium Channel",
+   "HBO Max"
+  ],
+  "title": "Nathan for You",
+  "tmdb": 58957,
+  "tmdb_score": 82,
+  "tmdb_votes": 330,
+  "type": "Reality",
+  "watch_link": "https://www.themoviedb.org/tv/58957-nathan-for-you/watch?locale=US",
+  "wikidata_id": "Q10935299",
+  "year": 2013
+ },
  "76331": {
   "countries": [
    "US"
@@ -241,7 +463,7 @@
   ],
   "end_year": 2023,
   "episodes": 39,
-  "fetched": "2026-10-07T01:55:00+00:00",
+  "fetched": "2026-10-07T01:56:14+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -289,5 +511,59 @@
   "watch_link": "https://www.themoviedb.org/tv/76331-succession/watch?locale=US",
   "wikidata_id": "Q30599007",
   "year": 2018
+ },
+ "93740": {
+  "countries": [
+   "US"
+  ],
+  "creators": [
+   "David S. Goyer",
+   "Josh Friedman"
+  ],
+  "end_year": null,
+  "episodes": 30,
+  "fetched": "2026-10-07T01:56:14+00:00",
+  "genres": [
+   "Sci-Fi & Fantasy",
+   "Drama"
+  ],
+  "hours": 26,
+  "imdb_id": "tt0804484",
+  "keywords": [
+   "prophecy",
+   "based on novel or book",
+   "empire",
+   "distant future",
+   "space opera",
+   "aggressive",
+   "domineering",
+   "human clone",
+   "wonder",
+   "tense"
+  ],
+  "language": "en",
+  "networks": [
+   "Apple TV"
+  ],
+  "next_episode": null,
+  "original_title": null,
+  "overview": "Follow a band of exiles on their monumental journey to save humanity and rebuild civilization amid the fall of the Galactic Empire.",
+  "popularity": 57.0,
+  "poster": "https://image.tmdb.org/t/p/w342/tg9I5pOY4M9CKj8U0cxVBTsm5eh.jpg",
+  "runtime": 52,
+  "seasons": 3,
+  "status": "Ongoing",
+  "streaming": [
+   "Apple TV",
+   "Apple TV Amazon Channel"
+  ],
+  "title": "Foundation",
+  "tmdb": 93740,
+  "tmdb_score": 77,
+  "tmdb_votes": 1836,
+  "type": "Scripted",
+  "watch_link": "https://www.themoviedb.org/tv/93740-foundation/watch?locale=US",
+  "wikidata_id": "Q56281007",
+  "year": 2021
  }
 }

@@ -1,4 +1,28 @@
 {
+ "tt0804484": {
+  "checked": "2026-10-07T01:56:18+00:00",
+  "mc_guessed": false,
+  "mc_path": "tv/foundation",
+  "metacritic": 68,
+  "metacritic_user": 5.7,
+  "rt_audience": 73,
+  "rt_critics": 87,
+  "rt_guessed": false,
+  "rt_path": "tv/foundation",
+  "v": 1
+ },
+ "tt10802170": {
+  "checked": "2026-10-07T01:56:24+00:00",
+  "mc_guessed": false,
+  "mc_path": "tv/the-rehearsal",
+  "metacritic": 87,
+  "metacritic_user": 8.4,
+  "rt_audience": 89,
+  "rt_critics": 96,
+  "rt_guessed": false,
+  "rt_path": "tv/the_rehearsal_2022",
+  "v": 1
+ },
  "tt12637874": {
   "checked": "2026-10-07T01:55:07+00:00",
   "mc_guessed": false,
@@ -19,6 +43,30 @@
   "rt_path": "tv/abbott_elementary",
   "v": 1
  },
+ "tt14452776": {
+  "checked": "2026-10-07T01:56:22+00:00",
+  "mc_guessed": false,
+  "mc_path": "tv/the-bear",
+  "metacritic": 83,
+  "metacritic_user": 7.7,
+  "rt_audience": 78,
+  "rt_critics": 93,
+  "rt_guessed": false,
+  "rt_path": "tv/the_bear",
+  "v": 1
+ },
+ "tt15435876": {
+  "checked": "2026-10-07T01:56:16+00:00",
+  "mc_guessed": false,
+  "mc_path": "tv/the-penguin",
+  "metacritic": 72,
+  "metacritic_user": 8.2,
+  "rt_audience": 85,
+  "rt_critics": 95,
+  "rt_guessed": false,
+  "rt_path": "tv/the_penguin",
+  "v": 1
+ },
  "tt2085059": {
   "checked": "2026-10-07T01:55:11+00:00",
   "mc_guessed": false,
@@ -29,6 +77,18 @@
   "rt_critics": 83,
   "rt_guessed": false,
   "rt_path": "tv/black_mirror",
+  "v": 1
+ },
+ "tt2297757": {
+  "checked": "2026-10-07T01:56:19+00:00",
+  "mc_guessed": false,
+  "mc_path": "tv/nathan-for-you",
+  "metacritic": 90,
+  "metacritic_user": 8.8,
+  "rt_audience": 92,
+  "rt_critics": 97,
+  "rt_guessed": false,
+  "rt_path": "tv/nathan-for-you",
   "v": 1
  },
  "tt30460310": {
