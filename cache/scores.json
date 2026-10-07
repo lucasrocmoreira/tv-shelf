@@ -359,6 +359,18 @@
   "rt_path": "tv/ozark",
   "v": 1
  },
+ "tt6037988": {
+  "checked": "2026-10-07T22:36:28+00:00",
+  "mc_guessed": false,
+  "mc_path": "tv/last-seen",
+  "metacritic": 78,
+  "metacritic_user": 4.9,
+  "rt_audience": 71,
+  "rt_critics": 88,
+  "rt_guessed": false,
+  "rt_path": "tv/last_seen",
+  "v": 1
+ },
  "tt7660850": {
   "checked": "2026-10-07T01:55:04+00:00",
   "mc_guessed": false,
