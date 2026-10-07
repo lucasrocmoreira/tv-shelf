@@ -9,7 +9,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-07T05:44:45+00:00",
+  "fetched": "2026-10-07T05:45:12+00:00",
   "genres": [
    "Action & Adventure",
    "Sci-Fi & Fantasy",
@@ -69,7 +69,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-07T05:44:46+00:00",
+  "fetched": "2026-10-07T05:45:12+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Mystery",
@@ -125,7 +125,7 @@
   ],
   "end_year": null,
   "episodes": 95,
-  "fetched": "2026-10-07T05:44:46+00:00",
+  "fetched": "2026-10-07T05:45:12+00:00",
   "genres": [
    "Comedy"
   ],
@@ -179,7 +179,7 @@
   ],
   "end_year": null,
   "episodes": 31,
-  "fetched": "2026-10-07T05:44:46+00:00",
+  "fetched": "2026-10-07T05:45:12+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama"
@@ -232,7 +232,7 @@
   ],
   "end_year": 2024,
   "episodes": 15,
-  "fetched": "2026-10-07T05:44:46+00:00",
+  "fetched": "2026-10-07T05:45:12+00:00",
   "genres": [
    "Drama",
    "Sci-Fi & Fantasy"
@@ -297,7 +297,7 @@
   ],
   "end_year": 2026,
   "episodes": 46,
-  "fetched": "2026-10-07T05:44:46+00:00",
+  "fetched": "2026-10-07T05:45:12+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -356,7 +356,7 @@
   ],
   "end_year": 2024,
   "episodes": 9,
-  "fetched": "2026-10-07T05:44:46+00:00",
+  "fetched": "2026-10-07T05:45:12+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Mystery"
@@ -409,7 +409,7 @@
   ],
   "end_year": null,
   "episodes": 18,
-  "fetched": "2026-10-07T05:44:46+00:00",
+  "fetched": "2026-10-07T05:45:12+00:00",
   "genres": [
    "Comedy",
    "Drama"
@@ -467,7 +467,7 @@
   ],
   "end_year": 2024,
   "episodes": 8,
-  "fetched": "2026-10-07T05:44:46+00:00",
+  "fetched": "2026-10-07T05:45:12+00:00",
   "genres": [
    "Drama",
    "Crime"
@@ -526,7 +526,7 @@
   ],
   "end_year": null,
   "episodes": 12,
-  "fetched": "2026-10-07T05:44:46+00:00",
+  "fetched": "2026-10-07T05:45:12+00:00",
   "genres": [
    "Comedy",
    "Documentary"
@@ -578,7 +578,7 @@
   ],
   "end_year": 2026,
   "episodes": 8,
-  "fetched": "2026-10-07T05:44:46+00:00",
+  "fetched": "2026-10-07T05:45:12+00:00",
   "genres": [
    "Drama",
    "Mystery",
@@ -638,7 +638,7 @@
   ],
   "end_year": 2026,
   "episodes": 8,
-  "fetched": "2026-10-07T05:44:46+00:00",
+  "fetched": "2026-10-07T05:45:12+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Mystery"
@@ -686,7 +686,7 @@
   ],
   "end_year": 2023,
   "episodes": 7,
-  "fetched": "2026-10-07T05:44:46+00:00",
+  "fetched": "2026-10-07T05:45:12+00:00",
   "genres": [
    "Documentary"
   ],
@@ -729,7 +729,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-10-07T05:44:46+00:00",
+  "fetched": "2026-10-07T05:45:12+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -778,7 +778,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-07T05:44:46+00:00",
+  "fetched": "2026-10-07T05:45:12+00:00",
   "genres": [
    "Crime",
    "Drama"
@@ -803,7 +803,7 @@
   "next_episode": null,
   "original_title": null,
   "overview": "The tranquility in a serene, wealthy community inhabited by some of the world's most prominent individuals explodes when a shocking murder occurs and a high stakes investigation unfolds.",
-  "popularity": 41.3,
+  "popularity": 44.1,
   "poster": "https://image.tmdb.org/t/p/w342/l8RqfhqEk04W5sSOjQ9zeWU1DyM.jpg",
   "runtime": 53,
   "seasons": 2,
@@ -820,6 +820,63 @@
   "wikidata_id": "Q126126253",
   "year": 2025
  },
+ "250504": {
+  "countries": [
+   "US"
+  ],
+  "creators": [
+   "Gabe Rotter"
+  ],
+  "end_year": null,
+  "episodes": 8,
+  "fetched": "2026-10-07T05:45:13+00:00",
+  "genres": [
+   "Drama",
+   "Mystery"
+  ],
+  "hours": 7,
+  "imdb_id": "tt31974367",
+  "keywords": [
+   "writer's block",
+   "lesbian relationship",
+   "disappearance",
+   "writer",
+   "death",
+   "ex-wife",
+   "philosophical",
+   "death of a loved one",
+   "fbi agent",
+   "secret",
+   "thriller",
+   "powerful",
+   "neighbors",
+   "real estate mogul"
+  ],
+  "language": "en",
+  "networks": [
+   "Netflix"
+  ],
+  "next_episode": null,
+  "original_title": null,
+  "overview": "A famous author is pulled into a twisted mind game with her rich, powerful new neighbor — who might be a murderer.",
+  "popularity": 22.0,
+  "poster": "https://image.tmdb.org/t/p/w342/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
+  "runtime": 54,
+  "seasons": 1,
+  "status": "Ongoing",
+  "streaming": [
+   "Netflix",
+   "Netflix Standard with Ads"
+  ],
+  "title": "The Beast in Me",
+  "tmdb": 250504,
+  "tmdb_score": 70,
+  "tmdb_votes": 320,
+  "type": "Scripted",
+  "watch_link": "https://www.themoviedb.org/tv/250504-the-beast-in-me/watch?locale=US",
+  "wikidata_id": "Q130342708",
+  "year": 2025
+ },
  "260458": {
   "countries": [
    "US"
@@ -830,7 +887,7 @@
   ],
   "end_year": null,
   "episodes": 17,
-  "fetched": "2026-10-07T05:44:46+00:00",
+  "fetched": "2026-10-07T05:45:13+00:00",
   "genres": [
    "Comedy"
   ],
@@ -878,7 +935,7 @@
   ],
   "end_year": 2025,
   "episodes": 8,
-  "fetched": "2026-10-07T05:44:46+00:00",
+  "fetched": "2026-10-07T05:45:13+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -927,7 +984,7 @@
   ],
   "end_year": null,
   "episodes": 10,
-  "fetched": "2026-10-07T05:44:46+00:00",
+  "fetched": "2026-10-07T05:45:13+00:00",
   "genres": [
    "Comedy"
   ],
@@ -977,7 +1034,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-10-07T05:44:46+00:00",
+  "fetched": "2026-10-07T05:45:13+00:00",
   "genres": [
    "Drama",
    "Crime"
@@ -1024,7 +1081,7 @@
   ],
   "end_year": 2026,
   "episodes": 5,
-  "fetched": "2026-10-07T05:44:47+00:00",
+  "fetched": "2026-10-07T05:45:13+00:00",
   "genres": [
    "Documentary"
   ],
@@ -1068,7 +1125,7 @@
   ],
   "end_year": null,
   "episodes": 33,
-  "fetched": "2026-10-07T05:44:45+00:00",
+  "fetched": "2026-10-07T05:45:11+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama",
@@ -1129,7 +1186,7 @@
   ],
   "end_year": 2017,
   "episodes": 31,
-  "fetched": "2026-10-07T05:44:45+00:00",
+  "fetched": "2026-10-07T05:45:12+00:00",
   "genres": [
    "Comedy",
    "Documentary"
@@ -1180,7 +1237,7 @@
   ],
   "end_year": 2023,
   "episodes": 39,
-  "fetched": "2026-10-07T05:44:45+00:00",
+  "fetched": "2026-10-07T05:45:12+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -1238,7 +1295,7 @@
   ],
   "end_year": null,
   "episodes": 15,
-  "fetched": "2026-10-07T05:44:45+00:00",
+  "fetched": "2026-10-07T05:45:12+00:00",
   "genres": [
    "Action & Adventure",
    "Sci-Fi & Fantasy",
@@ -1293,7 +1350,7 @@
   ],
   "end_year": null,
   "episodes": 30,
-  "fetched": "2026-10-07T05:44:45+00:00",
+  "fetched": "2026-10-07T05:45:12+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama"
@@ -1349,7 +1406,7 @@
   ],
   "end_year": null,
   "episodes": 44,
-  "fetched": "2026-10-07T05:44:45+00:00",
+  "fetched": "2026-10-07T05:45:12+00:00",
   "genres": [
    "Drama",
    "Comedy"

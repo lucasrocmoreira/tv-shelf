@@ -164,7 +164,7 @@
   "v": 1
  },
  "tt27557289": {
-  "checked": "2026-10-07T05:44:49+00:00",
+  "checked": "2026-10-07T05:45:16+00:00",
   "mc_guessed": false,
   "mc_path": "tv/the-boroughs",
   "metacritic": 71,
@@ -201,6 +201,18 @@
   "rt_critics": 96,
   "rt_guessed": false,
   "rt_path": "tv/margos_got_money_troubles",
+  "v": 1
+ },
+ "tt31974367": {
+  "checked": "2026-10-07T05:45:15+00:00",
+  "mc_guessed": false,
+  "mc_path": "tv/the-beast-in-me",
+  "metacritic": 71,
+  "metacritic_user": 7.1,
+  "rt_audience": 75,
+  "rt_critics": 85,
+  "rt_guessed": false,
+  "rt_path": "tv/the_beast_in_me",
   "v": 1
  },
  "tt33049767": {
