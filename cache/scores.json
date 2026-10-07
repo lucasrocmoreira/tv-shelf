@@ -23,6 +23,18 @@
   "rt_path": "tv/the_rehearsal_2022",
   "v": 1
  },
+ "tt10986410": {
+  "checked": "2026-10-07T01:56:53+00:00",
+  "mc_guessed": false,
+  "mc_path": "tv/ted-lasso",
+  "metacritic": 74,
+  "metacritic_user": 7.4,
+  "rt_audience": 81,
+  "rt_critics": 89,
+  "rt_guessed": false,
+  "rt_path": "tv/ted_lasso",
+  "v": 1
+ },
  "tt12637874": {
   "checked": "2026-10-07T01:55:07+00:00",
   "mc_guessed": false,
@@ -67,6 +79,18 @@
   "rt_path": "tv/the_penguin",
   "v": 1
  },
+ "tt15571732": {
+  "checked": "2026-10-07T01:56:51+00:00",
+  "mc_guessed": false,
+  "mc_path": "tv/agatha-all-along",
+  "metacritic": 66,
+  "metacritic_user": 5.7,
+  "rt_audience": 82,
+  "rt_critics": 84,
+  "rt_guessed": false,
+  "rt_path": "tv/agatha_all_along",
+  "v": 1
+ },
  "tt2085059": {
   "checked": "2026-10-07T01:55:11+00:00",
   "mc_guessed": false,
@@ -101,6 +125,14 @@
   "rt_critics": 92,
   "rt_guessed": false,
   "rt_path": "tv/spider_noir",
+  "v": 1
+ },
+ "tt34755671": {
+  "checked": "2026-10-07T01:56:54+00:00",
+  "rt_audience": 69,
+  "rt_critics": 69,
+  "rt_guessed": false,
+  "rt_path": "tv/chespirito_not_really_on_purpose",
   "v": 1
  },
  "tt7660850": {

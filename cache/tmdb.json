@@ -9,7 +9,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-07T01:56:14+00:00",
+  "fetched": "2026-10-07T01:56:48+00:00",
   "genres": [
    "Action & Adventure",
    "Sci-Fi & Fantasy",
@@ -68,7 +68,7 @@
   ],
   "end_year": null,
   "episodes": 95,
-  "fetched": "2026-10-07T01:56:14+00:00",
+  "fetched": "2026-10-07T01:56:48+00:00",
   "genres": [
    "Comedy"
   ],
@@ -122,7 +122,7 @@
   ],
   "end_year": 2026,
   "episodes": 46,
-  "fetched": "2026-10-07T01:56:14+00:00",
+  "fetched": "2026-10-07T01:56:48+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -172,6 +172,59 @@
   "wikidata_id": "Q112761982",
   "year": 2022
  },
+ "138501": {
+  "countries": [
+   "US"
+  ],
+  "creators": [
+   "Jac Schaeffer"
+  ],
+  "end_year": 2024,
+  "episodes": 9,
+  "fetched": "2026-10-07T01:56:48+00:00",
+  "genres": [
+   "Sci-Fi & Fantasy",
+   "Mystery"
+  ],
+  "hours": 6,
+  "imdb_id": "tt15571732",
+  "keywords": [
+   "witch",
+   "magic",
+   "based on comic",
+   "dark comedy",
+   "spin off",
+   "witchcraft",
+   "lgbt",
+   "coven (akelarre)",
+   "dark fantasy",
+   "marvel cinematic universe (mcu)",
+   "sardonic"
+  ],
+  "language": "en",
+  "networks": [
+   "Disney+"
+  ],
+  "next_episode": null,
+  "original_title": null,
+  "overview": "Agatha Harkness gathers a coven of witches and sets off down, down, down The Witches' Road.",
+  "popularity": 23.8,
+  "poster": "https://image.tmdb.org/t/p/w342/mGsxKwXUjojitRv2E9qMTbxbBRd.jpg",
+  "runtime": 42,
+  "seasons": 1,
+  "status": "Ended",
+  "streaming": [
+   "Disney Plus"
+  ],
+  "title": "Agatha All Along",
+  "tmdb": 138501,
+  "tmdb_score": 74,
+  "tmdb_votes": 1051,
+  "type": "Miniseries",
+  "watch_link": "https://www.themoviedb.org/tv/138501-agatha-all-along/watch?locale=US",
+  "wikidata_id": "Q108837156",
+  "year": 2024
+ },
  "194764": {
   "countries": [
    "US"
@@ -181,7 +234,7 @@
   ],
   "end_year": 2024,
   "episodes": 8,
-  "fetched": "2026-10-07T01:56:14+00:00",
+  "fetched": "2026-10-07T01:56:48+00:00",
   "genres": [
    "Drama",
    "Crime"
@@ -240,7 +293,7 @@
   ],
   "end_year": null,
   "episodes": 12,
-  "fetched": "2026-10-07T01:56:14+00:00",
+  "fetched": "2026-10-07T01:56:48+00:00",
   "genres": [
    "Comedy",
    "Documentary"
@@ -292,7 +345,7 @@
   ],
   "end_year": 2026,
   "episodes": 8,
-  "fetched": "2026-10-07T01:56:14+00:00",
+  "fetched": "2026-10-07T01:56:48+00:00",
   "genres": [
    "Drama",
    "Mystery",
@@ -342,6 +395,55 @@
   "wikidata_id": "Q123956515",
   "year": 2026
  },
+ "279060": {
+  "countries": [
+   "MX"
+  ],
+  "creators": [
+   "Roberto Gómez Fernández"
+  ],
+  "end_year": 2025,
+  "episodes": 8,
+  "fetched": "2026-10-07T01:56:49+00:00",
+  "genres": [
+   "Drama",
+   "Comedy"
+  ],
+  "hours": 6,
+  "imdb_id": "tt34755671",
+  "keywords": [
+   "mexico",
+   "biography",
+   "historical figure",
+   "historical drama",
+   "mexican history"
+  ],
+  "language": "es",
+  "networks": [
+   "Max",
+   "HBO Max"
+  ],
+  "next_episode": null,
+  "original_title": "Chespirito: Sin querer queriendo",
+  "overview": "Miniseries that follow the life and career of Mexican actor, comedian and producer Roberto Gómez Bolaños, known for being the creator of El Chavo del 8, El Chapulín Colorado and Chespirito.",
+  "popularity": 7.2,
+  "poster": "https://image.tmdb.org/t/p/w342/mwsuIxLL84wfJGWhN7oOrFfpZ6d.jpg",
+  "runtime": 45,
+  "seasons": 1,
+  "status": "Ended",
+  "streaming": [
+   "HBO Max Amazon Channel",
+   "HBO Max"
+  ],
+  "title": "Chespirito: Not Really on Purpose",
+  "tmdb": 279060,
+  "tmdb_score": 80,
+  "tmdb_votes": 472,
+  "type": "Miniseries",
+  "watch_link": "https://www.themoviedb.org/tv/279060-chespirito-sin-querer-queriendo/watch?locale=US",
+  "wikidata_id": "Q119742991",
+  "year": 2025
+ },
  "42009": {
   "countries": [
    "GB"
@@ -351,7 +453,7 @@
   ],
   "end_year": null,
   "episodes": 33,
-  "fetched": "2026-10-07T01:56:14+00:00",
+  "fetched": "2026-10-07T01:56:48+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama",
@@ -412,7 +514,7 @@
   ],
   "end_year": 2017,
   "episodes": 31,
-  "fetched": "2026-10-07T01:56:14+00:00",
+  "fetched": "2026-10-07T01:56:48+00:00",
   "genres": [
    "Comedy",
    "Documentary"
@@ -463,7 +565,7 @@
   ],
   "end_year": 2023,
   "episodes": 39,
-  "fetched": "2026-10-07T01:56:14+00:00",
+  "fetched": "2026-10-07T01:56:48+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -522,7 +624,7 @@
   ],
   "end_year": null,
   "episodes": 30,
-  "fetched": "2026-10-07T01:56:14+00:00",
+  "fetched": "2026-10-07T01:56:48+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama"
@@ -565,5 +667,66 @@
   "watch_link": "https://www.themoviedb.org/tv/93740-foundation/watch?locale=US",
   "wikidata_id": "Q56281007",
   "year": 2021
+ },
+ "97546": {
+  "countries": [
+   "US"
+  ],
+  "creators": [
+   "Bill Lawrence",
+   "Jason Sudeikis",
+   "Joe Kelly",
+   "Brendan Hunt"
+  ],
+  "end_year": null,
+  "episodes": 44,
+  "fetched": "2026-10-07T01:56:48+00:00",
+  "genres": [
+   "Drama",
+   "Comedy"
+  ],
+  "hours": 32,
+  "imdb_id": "tt10986410",
+  "keywords": [
+   "england",
+   "male friendship",
+   "friendship",
+   "fish out of water",
+   "football (soccer)",
+   "american abroad",
+   "teammate",
+   "professional sports",
+   "football (soccer) team",
+   "workplace comedy",
+   "team owner",
+   "football (soccer) coach",
+   "reflective",
+   "optimist",
+   "coaching"
+  ],
+  "language": "en",
+  "networks": [
+   "Apple TV"
+  ],
+  "next_episode": "2026-10-06",
+  "original_title": null,
+  "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+  "popularity": 228.9,
+  "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+  "runtime": 43,
+  "seasons": 4,
+  "status": "Ongoing",
+  "streaming": [
+   "Apple TV",
+   "Apple TV Amazon Channel"
+  ],
+  "title": "Ted Lasso",
+  "tmdb": 97546,
+  "tmdb_score": 84,
+  "tmdb_votes": 2717,
+  "type": "Scripted",
+  "watch_link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=US",
+  "wikidata_id": "Q96407897",
+  "year": 2020
  }
 }
