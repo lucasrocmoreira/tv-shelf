@@ -24,7 +24,7 @@
   "v": 1
  },
  "tt10986410": {
-  "checked": "2026-10-07T01:56:53+00:00",
+  "checked": "2026-10-07T01:57:55+00:00",
   "mc_guessed": false,
   "mc_path": "tv/ted-lasso",
   "metacritic": 74,
@@ -55,18 +55,6 @@
   "rt_path": "tv/abbott_elementary",
   "v": 1
  },
- "tt14403178": {
-  "checked": "2026-10-07T01:57:27+00:00",
-  "mc_guessed": false,
-  "mc_path": "tv/beef",
-  "metacritic": 82,
-  "metacritic_user": 7.6,
-  "rt_audience": 76,
-  "rt_critics": 93,
-  "rt_guessed": false,
-  "rt_path": "tv/beef",
-  "v": 1
- },
  "tt14452776": {
   "checked": "2026-10-07T01:56:22+00:00",
   "mc_guessed": false,
@@ -77,18 +65,6 @@
   "rt_critics": 93,
   "rt_guessed": false,
   "rt_path": "tv/the_bear",
-  "v": 1
- },
- "tt14688458": {
-  "checked": "2026-10-07T01:57:25+00:00",
-  "mc_guessed": false,
-  "mc_path": "tv/silo",
-  "metacritic": 77,
-  "metacritic_user": 6.9,
-  "rt_audience": 70,
-  "rt_critics": 92,
-  "rt_guessed": false,
-  "rt_path": "tv/silo",
   "v": 1
  },
  "tt15435876": {
@@ -104,7 +80,7 @@
   "v": 1
  },
  "tt15571732": {
-  "checked": "2026-10-07T01:56:51+00:00",
+  "checked": "2026-10-07T01:57:54+00:00",
   "mc_guessed": false,
   "mc_path": "tv/agatha-all-along",
   "metacritic": 66,
@@ -152,23 +128,11 @@
   "v": 1
  },
  "tt34755671": {
-  "checked": "2026-10-07T01:56:54+00:00",
+  "checked": "2026-10-07T01:57:56+00:00",
   "rt_audience": 69,
   "rt_critics": 69,
   "rt_guessed": false,
   "rt_path": "tv/chespirito_not_really_on_purpose",
-  "v": 1
- },
- "tt35946742": {
-  "checked": "2026-10-07T01:57:22+00:00",
-  "mc_guessed": false,
-  "mc_path": "tv/maximum-pleasure-guaranteed",
-  "metacritic": 72,
-  "metacritic_user": 7.0,
-  "rt_audience": 84,
-  "rt_critics": 93,
-  "rt_guessed": false,
-  "rt_path": "tv/maximum_pleasure_guaranteed",
   "v": 1
  },
  "tt7660850": {
@@ -184,7 +148,7 @@
   "v": 1
  },
  "tt9018736": {
-  "checked": "2026-10-07T01:57:27+00:00",
+  "checked": "2026-10-07T01:57:59+00:00",
   "mc_guessed": false,
   "mc_path": "tv/avatar-the-last-airbender-2024",
   "metacritic": 57,

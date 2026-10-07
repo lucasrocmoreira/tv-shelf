@@ -10,7 +10,7 @@
   "rt": "tv/the_rehearsal_2022"
  },
  "tt10986410": {
-  "checked": "2026-10-07T01:56:50+00:00",
+  "checked": "2026-10-07T01:57:53+00:00",
   "mc": "tv/ted-lasso",
   "rt": "tv/ted_lasso"
  },
@@ -24,20 +24,10 @@
   "mc": null,
   "rt": "tv/abbott_elementary"
  },
- "tt14403178": {
-  "checked": "2026-10-07T01:57:21+00:00",
-  "mc": "tv/beef",
-  "rt": "tv/beef"
- },
  "tt14452776": {
   "checked": "2026-10-07T01:56:15+00:00",
   "mc": "tv/the-bear",
   "rt": "tv/the_bear"
- },
- "tt14688458": {
-  "checked": "2026-10-07T01:57:21+00:00",
-  "mc": "tv/silo",
-  "rt": "tv/silo"
  },
  "tt15435876": {
   "checked": "2026-10-07T01:56:15+00:00",
@@ -45,7 +35,7 @@
   "rt": "tv/the_penguin"
  },
  "tt15571732": {
-  "checked": "2026-10-07T01:56:50+00:00",
+  "checked": "2026-10-07T01:57:53+00:00",
   "mc": "tv/agatha-all-along",
   "rt": "tv/agatha_all_along"
  },
@@ -65,14 +55,9 @@
   "rt": "tv/spider_noir"
  },
  "tt34755671": {
-  "checked": "2026-10-07T01:56:50+00:00",
+  "checked": "2026-10-07T01:57:53+00:00",
   "mc": null,
   "rt": "tv/chespirito_not_really_on_purpose"
- },
- "tt35946742": {
-  "checked": "2026-10-07T01:57:21+00:00",
-  "mc": "tv/maximum-pleasure-guaranteed",
-  "rt": "tv/maximum_pleasure_guaranteed"
  },
  "tt7660850": {
   "checked": "2026-10-07T01:55:01+00:00",
@@ -80,7 +65,7 @@
   "rt": "tv/succession"
  },
  "tt9018736": {
-  "checked": "2026-10-07T01:57:21+00:00",
+  "checked": "2026-10-07T01:57:53+00:00",
   "mc": "tv/avatar-the-last-airbender-2024",
   "rt": "tv/avatar_the_last_airbender_2024"
  }
