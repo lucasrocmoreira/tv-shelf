@@ -260,6 +260,15 @@
    "added": "2026-10-07",
    "interest": 0,
    "watched": null
+  },
+  "tmdb:60059": {
+   "tmdb": 60059,
+   "title": "Better Call Saul",
+   "year": 2015,
+   "poster": "https://image.tmdb.org/t/p/w342/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg",
+   "added": "2026-10-07",
+   "interest": 0,
+   "watched": null
   }
  }
 }
