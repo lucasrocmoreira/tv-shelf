@@ -116,6 +116,15 @@
    "added": "2026-10-06",
    "interest": 0,
    "watched": null
+  },
+  "tmdb:82452": {
+   "tmdb": 82452,
+   "title": "Avatar: The Last Airbender",
+   "year": 2024,
+   "poster": "https://image.tmdb.org/t/p/w342/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
+   "added": "2026-10-06",
+   "interest": 0,
+   "watched": null
   }
  }
 }
