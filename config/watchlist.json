@@ -53,6 +53,15 @@
    "added": "2026-10-06",
    "interest": 0,
    "watched": null
+  },
+  "tmdb:93740": {
+   "tmdb": 93740,
+   "title": "Foundation",
+   "year": 2021,
+   "poster": "https://image.tmdb.org/t/p/w342/tg9I5pOY4M9CKj8U0cxVBTsm5eh.jpg",
+   "added": "2026-10-06",
+   "interest": 0,
+   "watched": null
   }
  }
 }
