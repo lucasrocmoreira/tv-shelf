@@ -44,6 +44,15 @@
    "added": "2026-10-06",
    "interest": 0,
    "watched": null
+  },
+  "tmdb:194764": {
+   "tmdb": 194764,
+   "title": "The Penguin",
+   "year": 2024,
+   "poster": "https://image.tmdb.org/t/p/w342/vOWcqC4oDQws1doDWLO7d3dh5qc.jpg",
+   "added": "2026-10-06",
+   "interest": 0,
+   "watched": null
   }
  }
 }
