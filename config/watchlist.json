@@ -80,6 +80,15 @@
    "added": "2026-10-06",
    "interest": 0,
    "watched": null
+  },
+  "tmdb:204284": {
+   "tmdb": 204284,
+   "title": "The Rehearsal",
+   "year": 2022,
+   "poster": "https://image.tmdb.org/t/p/w342/mIevNYxovnH4sR22qkUmAgS5vdv.jpg",
+   "added": "2026-10-06",
+   "interest": 0,
+   "watched": null
   }
  }
 }
