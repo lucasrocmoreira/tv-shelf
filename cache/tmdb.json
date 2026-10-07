@@ -1,1 +1,56 @@
-{}
+{
+ "125935": {
+  "countries": [
+   "US"
+  ],
+  "creators": [
+   "Quinta Brunson"
+  ],
+  "end_year": null,
+  "episodes": 95,
+  "fetched": "2026-10-07T01:54:32+00:00",
+  "genres": [
+   "Comedy"
+  ],
+  "hours": 35,
+  "imdb_id": "tt14218830",
+  "keywords": [
+   "philadelphia, pennsylvania",
+   "elementary school",
+   "school",
+   "mockumentary",
+   "public school",
+   "sitcom",
+   "thoughtful",
+   "workplace comedy",
+   "elementary school teacher",
+   "amused"
+  ],
+  "language": "en",
+  "networks": [
+   "ABC"
+  ],
+  "next_episode": "2026-10-07",
+  "original_title": null,
+  "overview": "In this workplace comedy, a group of dedicated, passionate teachers — and a slightly tone-deaf principal — are brought together in a Philadelphia public school where, despite the odds stacked against them, they are determined to help their students succeed in life. Though these incredible public servants may be outnumbered and underfunded, they love what they do — even if they don’t love the school district’s less-than-stellar attitude toward educating children.",
+  "popularity": 60.8,
+  "poster": "https://image.tmdb.org/t/p/w342/nBe1e3JJEZ6veGrVXNF0fRoLu56.jpg",
+  "runtime": 22,
+  "seasons": 6,
+  "status": "Ongoing",
+  "streaming": [
+   "Hulu",
+   "fuboTV",
+   "YouTube TV",
+   "HBO Max"
+  ],
+  "title": "Abbott Elementary",
+  "tmdb": 125935,
+  "tmdb_score": 75,
+  "tmdb_votes": 339,
+  "type": "Scripted",
+  "watch_link": "https://www.themoviedb.org/tv/125935-abbott-elementary/watch?locale=US",
+  "wikidata_id": "Q107072019",
+  "year": 2021
+ }
+}
