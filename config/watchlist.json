@@ -251,6 +251,15 @@
    "added": "2026-10-07",
    "interest": 0,
    "watched": null
+  },
+  "tmdb:117488": {
+   "tmdb": 117488,
+   "title": "Yellowjackets",
+   "year": 2021,
+   "poster": "https://image.tmdb.org/t/p/w342/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
+   "added": "2026-10-07",
+   "interest": 0,
+   "watched": null
   }
  }
 }
