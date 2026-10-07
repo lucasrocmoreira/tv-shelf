@@ -179,6 +179,15 @@
    "added": "2026-10-06",
    "interest": 0,
    "watched": null
+  },
+  "tmdb:128098": {
+   "tmdb": 128098,
+   "title": "Interview with the Vampire",
+   "year": 2022,
+   "poster": "https://image.tmdb.org/t/p/w342/mQ0fbfc5ELwb2zjFZM4uwAnN3ee.jpg",
+   "added": "2026-10-06",
+   "interest": 0,
+   "watched": null
   }
  }
 }
