@@ -152,7 +152,7 @@
   "v": 1
  },
  "tt2249364": {
-  "checked": "2026-10-07T05:46:45+00:00",
+  "checked": "2026-10-07T05:47:17+00:00",
   "mc_guessed": false,
   "mc_path": "tv/broadchurch",
   "metacritic": 84,
@@ -324,7 +324,7 @@
   "v": 1
  },
  "tt4786824": {
-  "checked": "2026-10-07T05:46:48+00:00",
+  "checked": "2026-10-07T05:47:18+00:00",
   "mc_guessed": false,
   "mc_path": "tv/the-crown",
   "metacritic": 78,
@@ -333,6 +333,18 @@
   "rt_critics": 81,
   "rt_guessed": false,
   "rt_path": "tv/the_crown",
+  "v": 1
+ },
+ "tt5071412": {
+  "checked": "2026-10-07T05:47:20+00:00",
+  "mc_guessed": false,
+  "mc_path": "tv/ozark",
+  "metacritic": 69,
+  "metacritic_user": 8.1,
+  "rt_audience": 86,
+  "rt_critics": 82,
+  "rt_guessed": false,
+  "rt_path": "tv/ozark",
   "v": 1
  },
  "tt7660850": {
