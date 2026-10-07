@@ -35,6 +35,18 @@
   "rt_path": "tv/ted_lasso",
   "v": 1
  },
+ "tt11041332": {
+  "checked": "2026-10-07T05:45:44+00:00",
+  "mc_guessed": false,
+  "mc_path": "tv/yellowjackets",
+  "metacritic": 74,
+  "metacritic_user": 6.8,
+  "rt_audience": 65,
+  "rt_critics": 92,
+  "rt_guessed": false,
+  "rt_path": "tv/yellowjackets",
+  "v": 1
+ },
  "tt12637874": {
   "checked": "2026-10-07T01:55:07+00:00",
   "mc_guessed": false,
@@ -164,7 +176,7 @@
   "v": 1
  },
  "tt27557289": {
-  "checked": "2026-10-07T05:45:16+00:00",
+  "checked": "2026-10-07T05:44:49+00:00",
   "mc_guessed": false,
   "mc_path": "tv/the-boroughs",
   "metacritic": 71,
@@ -191,6 +203,18 @@
   "rt_path": "tv/spider_noir",
   "v": 1
  },
+ "tt30826447": {
+  "checked": "2026-10-07T05:45:46+00:00",
+  "mc_guessed": false,
+  "mc_path": "tv/the-four-seasons",
+  "metacritic": 65,
+  "metacritic_user": 6.2,
+  "rt_audience": 69,
+  "rt_critics": 81,
+  "rt_guessed": false,
+  "rt_path": "tv/the_four_seasons_2025",
+  "v": 1
+ },
  "tt31137273": {
   "checked": "2026-10-07T01:58:30+00:00",
   "mc_guessed": false,
@@ -204,7 +228,7 @@
   "v": 1
  },
  "tt31974367": {
-  "checked": "2026-10-07T05:45:15+00:00",
+  "checked": "2026-10-07T05:45:42+00:00",
   "mc_guessed": false,
   "mc_path": "tv/the-beast-in-me",
   "metacritic": 71,

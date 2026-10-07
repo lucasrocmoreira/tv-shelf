@@ -9,7 +9,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-07T05:45:12+00:00",
+  "fetched": "2026-10-07T05:45:39+00:00",
   "genres": [
    "Action & Adventure",
    "Sci-Fi & Fantasy",
@@ -59,6 +59,72 @@
   "wikidata_id": "Q113127312",
   "year": 2024
  },
+ "117488": {
+  "countries": [
+   "US"
+  ],
+  "creators": [
+   "Ashley Lyle",
+   "Bart Nickerson"
+  ],
+  "end_year": null,
+  "episodes": 30,
+  "fetched": "2026-10-07T05:45:39+00:00",
+  "genres": [
+   "Drama",
+   "Mystery"
+  ],
+  "hours": 30,
+  "imdb_id": "tt11041332",
+  "keywords": [
+   "women's football (soccer)",
+   "wilderness",
+   "stranded",
+   "flashback",
+   "survival",
+   "female protagonist",
+   "psychological thriller",
+   "lgbt",
+   "football (soccer) team",
+   "1990s",
+   "plane crash",
+   "cannibalism",
+   "crazy",
+   "absurd",
+   "horror"
+  ],
+  "language": "en",
+  "networks": [
+   "Showtime",
+   "Paramount+ with Showtime"
+  ],
+  "next_episode": "2026-11-22",
+  "original_title": null,
+  "overview": "This equal parts survival epic, psychological horror story and coming-of-age drama tells the saga of a team of wildly talented high school girls soccer players who become the (un)lucky survivors of a plane crash deep in the remote northern wilderness. The series chronicles their descent from a complicated but thriving team to savage clans, while also tracking the lives they’ve attempted to piece back together nearly 25 years later.",
+  "popularity": 38.9,
+  "poster": "https://image.tmdb.org/t/p/w342/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
+  "runtime": 60,
+  "seasons": 4,
+  "status": "Ongoing",
+  "streaming": [
+   "Netflix",
+   "fuboTV",
+   "Paramount Plus Premium",
+   "Paramount Plus Apple TV channel",
+   "Paramount+ Amazon Channel",
+   "Paramount+ Roku Premium Channel",
+   "Spectrum On Demand",
+   "Netflix Standard with Ads"
+  ],
+  "title": "Yellowjackets",
+  "tmdb": 117488,
+  "tmdb_score": 74,
+  "tmdb_votes": 1045,
+  "type": "Scripted",
+  "watch_link": "https://www.themoviedb.org/tv/117488-yellowjackets/watch?locale=US",
+  "wikidata_id": "Q106830311",
+  "year": 2021
+ },
  "119051": {
   "countries": [
    "US"
@@ -69,7 +135,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-07T05:45:12+00:00",
+  "fetched": "2026-10-07T05:45:39+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Mystery",
@@ -125,7 +191,7 @@
   ],
   "end_year": null,
   "episodes": 95,
-  "fetched": "2026-10-07T05:45:12+00:00",
+  "fetched": "2026-10-07T05:45:39+00:00",
   "genres": [
    "Comedy"
   ],
@@ -179,7 +245,7 @@
   ],
   "end_year": null,
   "episodes": 31,
-  "fetched": "2026-10-07T05:45:12+00:00",
+  "fetched": "2026-10-07T05:45:39+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama"
@@ -232,7 +298,7 @@
   ],
   "end_year": 2024,
   "episodes": 15,
-  "fetched": "2026-10-07T05:45:12+00:00",
+  "fetched": "2026-10-07T05:45:39+00:00",
   "genres": [
    "Drama",
    "Sci-Fi & Fantasy"
@@ -297,7 +363,7 @@
   ],
   "end_year": 2026,
   "episodes": 46,
-  "fetched": "2026-10-07T05:45:12+00:00",
+  "fetched": "2026-10-07T05:45:39+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -356,7 +422,7 @@
   ],
   "end_year": 2024,
   "episodes": 9,
-  "fetched": "2026-10-07T05:45:12+00:00",
+  "fetched": "2026-10-07T05:45:39+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Mystery"
@@ -409,7 +475,7 @@
   ],
   "end_year": null,
   "episodes": 18,
-  "fetched": "2026-10-07T05:45:12+00:00",
+  "fetched": "2026-10-07T05:45:39+00:00",
   "genres": [
    "Comedy",
    "Drama"
@@ -467,7 +533,7 @@
   ],
   "end_year": 2024,
   "episodes": 8,
-  "fetched": "2026-10-07T05:45:12+00:00",
+  "fetched": "2026-10-07T05:45:39+00:00",
   "genres": [
    "Drama",
    "Crime"
@@ -526,7 +592,7 @@
   ],
   "end_year": null,
   "episodes": 12,
-  "fetched": "2026-10-07T05:45:12+00:00",
+  "fetched": "2026-10-07T05:45:39+00:00",
   "genres": [
    "Comedy",
    "Documentary"
@@ -578,7 +644,7 @@
   ],
   "end_year": 2026,
   "episodes": 8,
-  "fetched": "2026-10-07T05:45:12+00:00",
+  "fetched": "2026-10-07T05:45:39+00:00",
   "genres": [
    "Drama",
    "Mystery",
@@ -638,7 +704,7 @@
   ],
   "end_year": 2026,
   "episodes": 8,
-  "fetched": "2026-10-07T05:45:12+00:00",
+  "fetched": "2026-10-07T05:45:39+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Mystery"
@@ -686,7 +752,7 @@
   ],
   "end_year": 2023,
   "episodes": 7,
-  "fetched": "2026-10-07T05:45:12+00:00",
+  "fetched": "2026-10-07T05:45:39+00:00",
   "genres": [
    "Documentary"
   ],
@@ -720,6 +786,52 @@
   "wikidata_id": null,
   "year": 2023
  },
+ "243316": {
+  "countries": [
+   "US"
+  ],
+  "creators": [
+   "Lang Fisher",
+   "Tracey Wigfield",
+   "Tina Fey"
+  ],
+  "end_year": null,
+  "episodes": 16,
+  "fetched": "2026-10-07T05:45:39+00:00",
+  "genres": [
+   "Comedy"
+  ],
+  "hours": 9,
+  "imdb_id": "tt30826447",
+  "keywords": [
+   "friendship",
+   "based on movie"
+  ],
+  "language": "en",
+  "networks": [
+   "Netflix"
+  ],
+  "next_episode": null,
+  "original_title": null,
+  "overview": "The decades-long friendship between three married couples is tested when one divorces, complicating their tradition of quarterly weekend getaways.",
+  "popularity": 17.1,
+  "poster": "https://image.tmdb.org/t/p/w342/w09XeYl096pwES8riRMZwEA9rnh.jpg",
+  "runtime": 35,
+  "seasons": 2,
+  "status": "Ongoing",
+  "streaming": [
+   "Netflix",
+   "Netflix Standard with Ads"
+  ],
+  "title": "The Four Seasons",
+  "tmdb": 243316,
+  "tmdb_score": 69,
+  "tmdb_votes": 194,
+  "type": "Scripted",
+  "watch_link": "https://www.themoviedb.org/tv/243316-the-four-seasons/watch?locale=US",
+  "wikidata_id": "Q131384557",
+  "year": 2025
+ },
  "245318": {
   "countries": [
    "US"
@@ -729,7 +841,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-10-07T05:45:12+00:00",
+  "fetched": "2026-10-07T05:45:40+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -778,7 +890,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-07T05:45:12+00:00",
+  "fetched": "2026-10-07T05:45:40+00:00",
   "genres": [
    "Crime",
    "Drama"
@@ -803,7 +915,7 @@
   "next_episode": null,
   "original_title": null,
   "overview": "The tranquility in a serene, wealthy community inhabited by some of the world's most prominent individuals explodes when a shocking murder occurs and a high stakes investigation unfolds.",
-  "popularity": 44.1,
+  "popularity": 41.3,
   "poster": "https://image.tmdb.org/t/p/w342/l8RqfhqEk04W5sSOjQ9zeWU1DyM.jpg",
   "runtime": 53,
   "seasons": 2,
@@ -829,7 +941,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-10-07T05:45:13+00:00",
+  "fetched": "2026-10-07T05:45:40+00:00",
   "genres": [
    "Drama",
    "Mystery"
@@ -887,7 +999,7 @@
   ],
   "end_year": null,
   "episodes": 17,
-  "fetched": "2026-10-07T05:45:13+00:00",
+  "fetched": "2026-10-07T05:45:40+00:00",
   "genres": [
    "Comedy"
   ],
@@ -935,7 +1047,7 @@
   ],
   "end_year": 2025,
   "episodes": 8,
-  "fetched": "2026-10-07T05:45:13+00:00",
+  "fetched": "2026-10-07T05:45:40+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -984,7 +1096,7 @@
   ],
   "end_year": null,
   "episodes": 10,
-  "fetched": "2026-10-07T05:45:13+00:00",
+  "fetched": "2026-10-07T05:45:40+00:00",
   "genres": [
    "Comedy"
   ],
@@ -1034,7 +1146,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-10-07T05:45:13+00:00",
+  "fetched": "2026-10-07T05:45:40+00:00",
   "genres": [
    "Drama",
    "Crime"
@@ -1081,7 +1193,7 @@
   ],
   "end_year": 2026,
   "episodes": 5,
-  "fetched": "2026-10-07T05:45:13+00:00",
+  "fetched": "2026-10-07T05:45:40+00:00",
   "genres": [
    "Documentary"
   ],
@@ -1125,7 +1237,7 @@
   ],
   "end_year": null,
   "episodes": 33,
-  "fetched": "2026-10-07T05:45:11+00:00",
+  "fetched": "2026-10-07T05:45:38+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama",
@@ -1186,7 +1298,7 @@
   ],
   "end_year": 2017,
   "episodes": 31,
-  "fetched": "2026-10-07T05:45:12+00:00",
+  "fetched": "2026-10-07T05:45:39+00:00",
   "genres": [
    "Comedy",
    "Documentary"
@@ -1237,7 +1349,7 @@
   ],
   "end_year": 2023,
   "episodes": 39,
-  "fetched": "2026-10-07T05:45:12+00:00",
+  "fetched": "2026-10-07T05:45:39+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -1295,7 +1407,7 @@
   ],
   "end_year": null,
   "episodes": 15,
-  "fetched": "2026-10-07T05:45:12+00:00",
+  "fetched": "2026-10-07T05:45:39+00:00",
   "genres": [
    "Action & Adventure",
    "Sci-Fi & Fantasy",
@@ -1350,7 +1462,7 @@
   ],
   "end_year": null,
   "episodes": 30,
-  "fetched": "2026-10-07T05:45:12+00:00",
+  "fetched": "2026-10-07T05:45:39+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama"
@@ -1406,7 +1518,7 @@
   ],
   "end_year": null,
   "episodes": 44,
-  "fetched": "2026-10-07T05:45:12+00:00",
+  "fetched": "2026-10-07T05:45:39+00:00",
   "genres": [
    "Drama",
    "Comedy"
