@@ -296,6 +296,15 @@
    "added": "2026-10-07",
    "interest": 2,
    "watched": null
+  },
+  "tmdb:253941": {
+   "tmdb": 253941,
+   "title": "The Paper",
+   "year": 2025,
+   "poster": "https://image.tmdb.org/t/p/w342/ySA5MvhoxTdezNUMe0ifPmhxH4w.jpg",
+   "added": "2026-10-07",
+   "interest": 0,
+   "watched": null
   }
  }
 }
