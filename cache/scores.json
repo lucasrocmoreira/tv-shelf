@@ -1,10 +1,58 @@
 {
+ "tt12637874": {
+  "checked": "2026-10-07T01:55:07+00:00",
+  "mc_guessed": false,
+  "mc_path": "tv/fallout",
+  "metacritic": 73,
+  "metacritic_user": 7.4,
+  "rt_audience": 96,
+  "rt_critics": 94,
+  "rt_guessed": false,
+  "rt_path": "tv/fallout",
+  "v": 1
+ },
  "tt14218830": {
-  "checked": "2026-10-07T01:54:34+00:00",
+  "checked": "2026-10-07T01:55:10+00:00",
   "rt_audience": 89,
   "rt_critics": 99,
   "rt_guessed": false,
   "rt_path": "tv/abbott_elementary",
+  "v": 1
+ },
+ "tt2085059": {
+  "checked": "2026-10-07T01:55:11+00:00",
+  "mc_guessed": false,
+  "mc_path": "tv/black-mirror",
+  "metacritic": 74,
+  "metacritic_user": 8.0,
+  "rt_audience": 80,
+  "rt_critics": 83,
+  "rt_guessed": false,
+  "rt_path": "tv/black_mirror",
+  "v": 1
+ },
+ "tt30460310": {
+  "checked": "2026-10-07T01:55:02+00:00",
+  "mc_guessed": false,
+  "mc_path": "tv/spider-noir",
+  "metacritic": 72,
+  "metacritic_user": 7.3,
+  "rt_audience": 90,
+  "rt_critics": 92,
+  "rt_guessed": false,
+  "rt_path": "tv/spider_noir",
+  "v": 1
+ },
+ "tt7660850": {
+  "checked": "2026-10-07T01:55:04+00:00",
+  "mc_guessed": false,
+  "mc_path": "tv/succession",
+  "metacritic": 86,
+  "metacritic_user": 8.6,
+  "rt_audience": 88,
+  "rt_critics": 95,
+  "rt_guessed": false,
+  "rt_path": "tv/succession",
   "v": 1
  }
 }

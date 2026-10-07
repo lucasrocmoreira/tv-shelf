@@ -1,4 +1,64 @@
 {
+ "106379": {
+  "countries": [
+   "US"
+  ],
+  "creators": [
+   "Graham Wagner",
+   "Geneva Robertson-Dworet"
+  ],
+  "end_year": null,
+  "episodes": 16,
+  "fetched": "2026-10-07T01:55:00+00:00",
+  "genres": [
+   "Action & Adventure",
+   "Sci-Fi & Fantasy",
+   "Drama"
+  ],
+  "hours": 15,
+  "imdb_id": "tt12637874",
+  "keywords": [
+   "capitalism",
+   "nuclear war",
+   "mutant",
+   "vault",
+   "bunker",
+   "post-apocalyptic future",
+   "drug use",
+   "alternate history",
+   "los angeles, california",
+   "robot",
+   "destruction",
+   "based on video game",
+   "nuclear fallout",
+   "corporate control",
+   "gun violence"
+  ],
+  "language": "en",
+  "networks": [
+   "Prime Video"
+  ],
+  "next_episode": null,
+  "original_title": null,
+  "overview": "The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them.",
+  "popularity": 44.0,
+  "poster": "https://image.tmdb.org/t/p/w342/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
+  "runtime": 57,
+  "seasons": 2,
+  "status": "Ongoing",
+  "streaming": [
+   "Amazon Prime Video",
+   "Amazon Prime Video with Ads"
+  ],
+  "title": "Fallout",
+  "tmdb": 106379,
+  "tmdb_score": 81,
+  "tmdb_votes": 3147,
+  "type": "Scripted",
+  "watch_link": "https://www.themoviedb.org/tv/106379-fallout/watch?locale=US",
+  "wikidata_id": "Q113127312",
+  "year": 2024
+ },
  "125935": {
   "countries": [
    "US"
@@ -8,7 +68,7 @@
   ],
   "end_year": null,
   "episodes": 95,
-  "fetched": "2026-10-07T01:54:32+00:00",
+  "fetched": "2026-10-07T01:55:00+00:00",
   "genres": [
    "Comedy"
   ],
@@ -52,5 +112,182 @@
   "watch_link": "https://www.themoviedb.org/tv/125935-abbott-elementary/watch?locale=US",
   "wikidata_id": "Q107072019",
   "year": 2021
+ },
+ "220102": {
+  "countries": [
+   "US"
+  ],
+  "creators": [
+   "Oren Uziel"
+  ],
+  "end_year": 2026,
+  "episodes": 8,
+  "fetched": "2026-10-07T01:55:00+00:00",
+  "genres": [
+   "Drama",
+   "Mystery",
+   "Crime"
+  ],
+  "hours": 6,
+  "imdb_id": "tt30460310",
+  "keywords": [
+   "new york city",
+   "detective",
+   "great depression",
+   "femme fatale",
+   "superhero",
+   "based on comic",
+   "film noir",
+   "private investigator",
+   "mobster",
+   "black and white",
+   "period drama",
+   "supervillain",
+   "mysterious",
+   "1930s",
+   "admiring"
+  ],
+  "language": "en",
+  "networks": [
+   "MGM+"
+  ],
+  "next_episode": null,
+  "original_title": null,
+  "overview": "Ben Reilly, an aging and down on his luck private investigator in 1930s New York, is forced to grapple with his past life as the city's one and only superhero.",
+  "popularity": 26.8,
+  "poster": "https://image.tmdb.org/t/p/w342/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
+  "runtime": 46,
+  "seasons": 1,
+  "status": "Canceled",
+  "streaming": [
+   "Amazon Prime Video",
+   "Amazon Prime Video with Ads"
+  ],
+  "title": "Spider-Noir",
+  "tmdb": 220102,
+  "tmdb_score": 83,
+  "tmdb_votes": 878,
+  "type": "Scripted",
+  "watch_link": "https://www.themoviedb.org/tv/220102-spider-noir/watch?locale=US",
+  "wikidata_id": "Q123956515",
+  "year": 2026
+ },
+ "42009": {
+  "countries": [
+   "GB"
+  ],
+  "creators": [
+   "Charlie Brooker"
+  ],
+  "end_year": null,
+  "episodes": 33,
+  "fetched": "2026-10-07T01:55:00+00:00",
+  "genres": [
+   "Sci-Fi & Fantasy",
+   "Drama",
+   "Mystery"
+  ],
+  "hours": 50,
+  "imdb_id": "tt2085059",
+  "keywords": [
+   "technology",
+   "dystopia",
+   "satire",
+   "anthology",
+   "dark comedy",
+   "punishment",
+   "social satire",
+   "alternative reality",
+   "disturbed",
+   "humanity",
+   "cyber thriller",
+   "near future",
+   "inspirational",
+   "social sci-fi",
+   "critical"
+  ],
+  "language": "en",
+  "networks": [
+   "Channel 4",
+   "Netflix"
+  ],
+  "next_episode": null,
+  "original_title": null,
+  "overview": "Twisted tales run wild in this mind-bending anthology series that reveals humanity's worst traits, greatest innovations and more.",
+  "popularity": 80.3,
+  "poster": "https://image.tmdb.org/t/p/w342/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
+  "runtime": 90,
+  "seasons": 7,
+  "status": "Ongoing",
+  "streaming": [
+   "Netflix",
+   "Netflix Standard with Ads"
+  ],
+  "title": "Black Mirror",
+  "tmdb": 42009,
+  "tmdb_score": 83,
+  "tmdb_votes": 6569,
+  "type": "Scripted",
+  "watch_link": "https://www.themoviedb.org/tv/42009-black-mirror/watch?locale=US",
+  "wikidata_id": "Q558112",
+  "year": 2011
+ },
+ "76331": {
+  "countries": [
+   "US"
+  ],
+  "creators": [
+   "Jesse Armstrong"
+  ],
+  "end_year": 2023,
+  "episodes": 39,
+  "fetched": "2026-10-07T01:55:00+00:00",
+  "genres": [
+   "Drama",
+   "Comedy"
+  ],
+  "hours": 58,
+  "imdb_id": "tt7660850",
+  "keywords": [
+   "new york city",
+   "sibling relationship",
+   "media tycoon",
+   "businessman",
+   "patriarch",
+   "family business ",
+   "dysfunctional family",
+   "wealth",
+   "sibling",
+   "succession",
+   "white collar criminal",
+   "failed marriage",
+   "baffled",
+   "commanding",
+   "media empire"
+  ],
+  "language": "en",
+  "networks": [
+   "HBO"
+  ],
+  "next_episode": null,
+  "original_title": null,
+  "overview": "Follow the lives of the Roy family as they contemplate their future once their aging father begins to step back from the media and entertainment conglomerate they control.",
+  "popularity": 51.4,
+  "poster": "https://image.tmdb.org/t/p/w342/z0XiwdrCQ9yVIr4O0pxzaAYRxdW.jpg",
+  "runtime": 89,
+  "seasons": 4,
+  "status": "Ended",
+  "streaming": [
+   "HBO Max Amazon Channel",
+   "HBO Max"
+  ],
+  "title": "Succession",
+  "tmdb": 76331,
+  "tmdb_score": 83,
+  "tmdb_votes": 1797,
+  "type": "Scripted",
+  "watch_link": "https://www.themoviedb.org/tv/76331-succession/watch?locale=US",
+  "wikidata_id": "Q30599007",
+  "year": 2018
  }
 }
