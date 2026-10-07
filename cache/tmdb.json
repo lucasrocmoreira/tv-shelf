@@ -9,7 +9,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-07T01:58:22+00:00",
+  "fetched": "2026-10-07T02:32:52+00:00",
   "genres": [
    "Action & Adventure",
    "Sci-Fi & Fantasy",
@@ -69,7 +69,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-07T01:58:22+00:00",
+  "fetched": "2026-10-07T02:32:52+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Mystery",
@@ -125,7 +125,7 @@
   ],
   "end_year": null,
   "episodes": 95,
-  "fetched": "2026-10-07T01:58:22+00:00",
+  "fetched": "2026-10-07T02:32:52+00:00",
   "genres": [
    "Comedy"
   ],
@@ -179,7 +179,7 @@
   ],
   "end_year": null,
   "episodes": 31,
-  "fetched": "2026-10-07T01:58:22+00:00",
+  "fetched": "2026-10-07T02:32:53+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama"
@@ -232,7 +232,7 @@
   ],
   "end_year": 2024,
   "episodes": 15,
-  "fetched": "2026-10-07T01:58:22+00:00",
+  "fetched": "2026-10-07T02:32:53+00:00",
   "genres": [
    "Drama",
    "Sci-Fi & Fantasy"
@@ -297,7 +297,7 @@
   ],
   "end_year": 2026,
   "episodes": 46,
-  "fetched": "2026-10-07T01:58:22+00:00",
+  "fetched": "2026-10-07T02:32:53+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -356,7 +356,7 @@
   ],
   "end_year": 2024,
   "episodes": 9,
-  "fetched": "2026-10-07T01:58:22+00:00",
+  "fetched": "2026-10-07T02:32:53+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Mystery"
@@ -409,7 +409,7 @@
   ],
   "end_year": null,
   "episodes": 18,
-  "fetched": "2026-10-07T01:58:22+00:00",
+  "fetched": "2026-10-07T02:32:53+00:00",
   "genres": [
    "Comedy",
    "Drama"
@@ -467,7 +467,7 @@
   ],
   "end_year": 2024,
   "episodes": 8,
-  "fetched": "2026-10-07T01:58:22+00:00",
+  "fetched": "2026-10-07T02:32:53+00:00",
   "genres": [
    "Drama",
    "Crime"
@@ -526,7 +526,7 @@
   ],
   "end_year": null,
   "episodes": 12,
-  "fetched": "2026-10-07T01:58:22+00:00",
+  "fetched": "2026-10-07T02:32:53+00:00",
   "genres": [
    "Comedy",
    "Documentary"
@@ -578,7 +578,7 @@
   ],
   "end_year": 2026,
   "episodes": 8,
-  "fetched": "2026-10-07T01:58:22+00:00",
+  "fetched": "2026-10-07T02:32:53+00:00",
   "genres": [
    "Drama",
    "Mystery",
@@ -628,6 +628,49 @@
   "wikidata_id": "Q123956515",
   "year": 2026
  },
+ "236267": {
+  "countries": [
+   "BR"
+  ],
+  "creators": [
+   "Fellipe Awi"
+  ],
+  "end_year": 2023,
+  "episodes": 7,
+  "fetched": "2026-10-07T02:32:53+00:00",
+  "genres": [
+   "Documentary"
+  ],
+  "hours": 6,
+  "imdb_id": "tt29719218",
+  "keywords": [
+   "gambling",
+   "rio de janeiro",
+   "crime family",
+   "crime lord"
+  ],
+  "language": "pt",
+  "networks": [
+   "Globoplay"
+  ],
+  "next_episode": null,
+  "original_title": null,
+  "overview": "The \"jogo do bicho\" (an illegal lottery of numbers) in Rio de Janeiro is controlled by families whose leaders are also patrons of samba schools. Two of these families are experiencing bloody wars of succession.",
+  "popularity": 1.8,
+  "poster": "https://image.tmdb.org/t/p/w342/qtlckAfiU6OLGTfSCTmtBoNxh1g.jpg",
+  "runtime": 49,
+  "seasons": 1,
+  "status": "Ended",
+  "streaming": [],
+  "title": "Vale o Escrito: A Guerra do Jogo do Bicho",
+  "tmdb": 236267,
+  "tmdb_score": null,
+  "tmdb_votes": 18,
+  "type": "Miniseries",
+  "watch_link": null,
+  "wikidata_id": null,
+  "year": 2023
+ },
  "245318": {
   "countries": [
    "US"
@@ -637,7 +680,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-10-07T01:58:23+00:00",
+  "fetched": "2026-10-07T02:32:53+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -686,7 +729,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-07T01:58:23+00:00",
+  "fetched": "2026-10-07T02:32:53+00:00",
   "genres": [
    "Crime",
    "Drama"
@@ -738,7 +781,7 @@
   ],
   "end_year": null,
   "episodes": 17,
-  "fetched": "2026-10-07T01:58:23+00:00",
+  "fetched": "2026-10-07T02:32:53+00:00",
   "genres": [
    "Comedy"
   ],
@@ -786,7 +829,7 @@
   ],
   "end_year": 2025,
   "episodes": 8,
-  "fetched": "2026-10-07T01:58:23+00:00",
+  "fetched": "2026-10-07T02:32:54+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -835,7 +878,7 @@
   ],
   "end_year": null,
   "episodes": 10,
-  "fetched": "2026-10-07T01:58:23+00:00",
+  "fetched": "2026-10-07T02:32:54+00:00",
   "genres": [
    "Comedy"
   ],
@@ -885,7 +928,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-10-07T01:58:23+00:00",
+  "fetched": "2026-10-07T02:32:54+00:00",
   "genres": [
    "Drama",
    "Crime"
@@ -932,7 +975,7 @@
   ],
   "end_year": null,
   "episodes": 33,
-  "fetched": "2026-10-07T01:58:22+00:00",
+  "fetched": "2026-10-07T02:32:52+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama",
@@ -993,7 +1036,7 @@
   ],
   "end_year": 2017,
   "episodes": 31,
-  "fetched": "2026-10-07T01:58:22+00:00",
+  "fetched": "2026-10-07T02:32:52+00:00",
   "genres": [
    "Comedy",
    "Documentary"
@@ -1044,7 +1087,7 @@
   ],
   "end_year": 2023,
   "episodes": 39,
-  "fetched": "2026-10-07T01:58:22+00:00",
+  "fetched": "2026-10-07T02:32:52+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -1102,7 +1145,7 @@
   ],
   "end_year": null,
   "episodes": 15,
-  "fetched": "2026-10-07T01:58:22+00:00",
+  "fetched": "2026-10-07T02:32:52+00:00",
   "genres": [
    "Action & Adventure",
    "Sci-Fi & Fantasy",
@@ -1157,7 +1200,7 @@
   ],
   "end_year": null,
   "episodes": 30,
-  "fetched": "2026-10-07T01:58:22+00:00",
+  "fetched": "2026-10-07T02:32:52+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama"
@@ -1213,7 +1256,7 @@
   ],
   "end_year": null,
   "episodes": 44,
-  "fetched": "2026-10-07T01:58:22+00:00",
+  "fetched": "2026-10-07T02:32:52+00:00",
   "genres": [
    "Drama",
    "Comedy"
