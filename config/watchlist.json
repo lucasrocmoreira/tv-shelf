@@ -278,6 +278,15 @@
    "added": "2026-10-07",
    "interest": 0,
    "watched": null
+  },
+  "tmdb:65494": {
+   "tmdb": 65494,
+   "title": "The Crown",
+   "year": 2016,
+   "poster": "https://image.tmdb.org/t/p/w342/1M876KPjulVwppEpldhdc8V4o68.jpg",
+   "added": "2026-10-07",
+   "interest": 0,
+   "watched": null
   }
  }
 }
