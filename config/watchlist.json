@@ -224,6 +224,15 @@
    "added": "2026-10-06",
    "interest": 0,
    "watched": null
+  },
+  "tmdb:224941": {
+   "tmdb": 224941,
+   "title": "The Boroughs",
+   "year": 2026,
+   "poster": "https://image.tmdb.org/t/p/w342/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg",
+   "added": "2026-10-07",
+   "interest": 0,
+   "watched": null
   }
  }
 }
