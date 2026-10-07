@@ -163,6 +163,18 @@
   "rt_path": "tv/paradise_2025",
   "v": 1
  },
+ "tt27557289": {
+  "checked": "2026-10-07T05:44:49+00:00",
+  "mc_guessed": false,
+  "mc_path": "tv/the-boroughs",
+  "metacritic": 71,
+  "metacritic_user": 6.8,
+  "rt_audience": 78,
+  "rt_critics": 96,
+  "rt_guessed": false,
+  "rt_path": "tv/the_boroughs",
+  "v": 1
+ },
  "tt29719218": {
   "checked": "2026-10-07T02:32:56+00:00",
   "v": 1
