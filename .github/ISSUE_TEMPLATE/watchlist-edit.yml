@@ -1,0 +1,26 @@
+name: Add or remove a show
+description: Change your watchlist without the app (handy on a phone without a GitHub token set up).
+title: "Watchlist edit"
+labels: ["watchlist-edit"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Show title
+      placeholder: Severance
+    validations:
+      required: true
+  - type: input
+    id: year
+    attributes:
+      label: First year (optional)
+      description: Helps when a title has remakes, e.g. The Office (2005)
+  - type: dropdown
+    id: action
+    attributes:
+      label: What to do
+      options:
+        - Add to watchlist
+        - Mark as watched
+        - Remove from shelf
+      default: 0
