@@ -9,7 +9,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-07T01:56:48+00:00",
+  "fetched": "2026-10-07T01:57:20+00:00",
   "genres": [
    "Action & Adventure",
    "Sci-Fi & Fantasy",
@@ -68,7 +68,7 @@
   ],
   "end_year": null,
   "episodes": 95,
-  "fetched": "2026-10-07T01:56:48+00:00",
+  "fetched": "2026-10-07T01:57:20+00:00",
   "genres": [
    "Comedy"
   ],
@@ -113,6 +113,59 @@
   "wikidata_id": "Q107072019",
   "year": 2021
  },
+ "125988": {
+  "countries": [
+   "US"
+  ],
+  "creators": [
+   "Graham Yost"
+  ],
+  "end_year": null,
+  "episodes": 31,
+  "fetched": "2026-10-07T01:57:20+00:00",
+  "genres": [
+   "Sci-Fi & Fantasy",
+   "Drama"
+  ],
+  "hours": 32,
+  "imdb_id": "tt14688458",
+  "keywords": [
+   "corruption",
+   "based on novel or book",
+   "post-apocalyptic future",
+   "dystopia",
+   "politics",
+   "disaster",
+   "hidden powers",
+   "silo",
+   "societal ignorance",
+   "systemic corruption"
+  ],
+  "language": "en",
+  "networks": [
+   "Apple TV"
+  ],
+  "next_episode": "2027-07-08",
+  "original_title": null,
+  "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+  "popularity": 190.6,
+  "poster": "https://image.tmdb.org/t/p/w342/r2QXomqKjkKHVtYGGtkf2l2Y7go.jpg",
+  "runtime": 61,
+  "seasons": 4,
+  "status": "Ongoing",
+  "streaming": [
+   "Apple TV",
+   "Apple TV Amazon Channel"
+  ],
+  "title": "Silo",
+  "tmdb": 125988,
+  "tmdb_score": 82,
+  "tmdb_votes": 2760,
+  "type": "Scripted",
+  "watch_link": "https://www.themoviedb.org/tv/125988-silo/watch?locale=US",
+  "wikidata_id": "Q108456738",
+  "year": 2023
+ },
  "136315": {
   "countries": [
    "US"
@@ -122,7 +175,7 @@
   ],
   "end_year": 2026,
   "episodes": 46,
-  "fetched": "2026-10-07T01:56:48+00:00",
+  "fetched": "2026-10-07T01:57:20+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -181,7 +234,7 @@
   ],
   "end_year": 2024,
   "episodes": 9,
-  "fetched": "2026-10-07T01:56:48+00:00",
+  "fetched": "2026-10-07T01:57:20+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Mystery"
@@ -225,6 +278,64 @@
   "wikidata_id": "Q108837156",
   "year": 2024
  },
+ "154385": {
+  "countries": [
+   "US"
+  ],
+  "creators": [
+   "Lee Sung Jin"
+  ],
+  "end_year": null,
+  "episodes": 18,
+  "fetched": "2026-10-07T01:57:20+00:00",
+  "genres": [
+   "Comedy",
+   "Drama"
+  ],
+  "hours": 16,
+  "imdb_id": "tt14403178",
+  "keywords": [
+   "husband wife relationship",
+   "midlife crisis",
+   "marriage",
+   "coercion",
+   "anthology",
+   "revenge",
+   "dark comedy",
+   "billionaire",
+   "los angeles, california",
+   "east asian lead",
+   "road rage",
+   "country club",
+   "art exhibition",
+   "unfaithful wife",
+   "asian american"
+  ],
+  "language": "en",
+  "networks": [
+   "Netflix"
+  ],
+  "next_episode": null,
+  "original_title": null,
+  "overview": "A road rage incident between two strangers — a failing contractor and an unfulfilled entrepreneur — sparks a feud that brings out their darkest impulses.",
+  "popularity": 35.2,
+  "poster": "https://image.tmdb.org/t/p/w342/25ih0Xq2zWbxhhKxwhvswKYQyEr.jpg",
+  "runtime": 55,
+  "seasons": 2,
+  "status": "Ongoing",
+  "streaming": [
+   "Netflix",
+   "Netflix Standard with Ads"
+  ],
+  "title": "BEEF",
+  "tmdb": 154385,
+  "tmdb_score": 78,
+  "tmdb_votes": 1050,
+  "type": "Scripted",
+  "watch_link": "https://www.themoviedb.org/tv/154385-beef/watch?locale=US",
+  "wikidata_id": "Q112168983",
+  "year": 2023
+ },
  "194764": {
   "countries": [
    "US"
@@ -234,7 +345,7 @@
   ],
   "end_year": 2024,
   "episodes": 8,
-  "fetched": "2026-10-07T01:56:48+00:00",
+  "fetched": "2026-10-07T01:57:20+00:00",
   "genres": [
    "Drama",
    "Crime"
@@ -293,7 +404,7 @@
   ],
   "end_year": null,
   "episodes": 12,
-  "fetched": "2026-10-07T01:56:48+00:00",
+  "fetched": "2026-10-07T01:57:20+00:00",
   "genres": [
    "Comedy",
    "Documentary"
@@ -345,7 +456,7 @@
   ],
   "end_year": 2026,
   "episodes": 8,
-  "fetched": "2026-10-07T01:56:48+00:00",
+  "fetched": "2026-10-07T01:57:20+00:00",
   "genres": [
    "Drama",
    "Mystery",
@@ -404,7 +515,7 @@
   ],
   "end_year": 2025,
   "episodes": 8,
-  "fetched": "2026-10-07T01:56:49+00:00",
+  "fetched": "2026-10-07T01:57:20+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -444,6 +555,56 @@
   "wikidata_id": "Q119742991",
   "year": 2025
  },
+ "285404": {
+  "countries": [
+   "US"
+  ],
+  "creators": [
+   "David Rosen"
+  ],
+  "end_year": null,
+  "episodes": 10,
+  "fetched": "2026-10-07T01:57:20+00:00",
+  "genres": [
+   "Comedy"
+  ],
+  "hours": 6,
+  "imdb_id": "tt35946742",
+  "keywords": [
+   "blackmail",
+   "murder",
+   "dark comedy",
+   "divorced mother",
+   "frantic",
+   "thriller",
+   "amused",
+   "audacious"
+  ],
+  "language": "en",
+  "networks": [
+   "Apple TV"
+  ],
+  "next_episode": null,
+  "original_title": null,
+  "overview": "A newly divorced mom falls down a dangerous rabbit hole of blackmail, murder, and youth soccer.",
+  "popularity": 15.0,
+  "poster": "https://image.tmdb.org/t/p/w342/oeD9rnfk7AohNiJTRoCx4SOKhXj.jpg",
+  "runtime": 38,
+  "seasons": 1,
+  "status": "Ongoing",
+  "streaming": [
+   "Apple TV",
+   "Apple TV Amazon Channel"
+  ],
+  "title": "Maximum Pleasure Guaranteed",
+  "tmdb": 285404,
+  "tmdb_score": 67,
+  "tmdb_votes": 82,
+  "type": "Scripted",
+  "watch_link": "https://www.themoviedb.org/tv/285404-maximum-pleasure-guaranteed/watch?locale=US",
+  "wikidata_id": "Q132852828",
+  "year": 2026
+ },
  "42009": {
   "countries": [
    "GB"
@@ -453,7 +614,7 @@
   ],
   "end_year": null,
   "episodes": 33,
-  "fetched": "2026-10-07T01:56:48+00:00",
+  "fetched": "2026-10-07T01:57:19+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama",
@@ -514,7 +675,7 @@
   ],
   "end_year": 2017,
   "episodes": 31,
-  "fetched": "2026-10-07T01:56:48+00:00",
+  "fetched": "2026-10-07T01:57:20+00:00",
   "genres": [
    "Comedy",
    "Documentary"
@@ -565,7 +726,7 @@
   ],
   "end_year": 2023,
   "episodes": 39,
-  "fetched": "2026-10-07T01:56:48+00:00",
+  "fetched": "2026-10-07T01:57:20+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -614,6 +775,60 @@
   "wikidata_id": "Q30599007",
   "year": 2018
  },
+ "82452": {
+  "countries": [
+   "US"
+  ],
+  "creators": [
+   "Albert Kim"
+  ],
+  "end_year": null,
+  "episodes": 15,
+  "fetched": "2026-10-07T01:57:20+00:00",
+  "genres": [
+   "Action & Adventure",
+   "Sci-Fi & Fantasy",
+   "Drama",
+   "Family"
+  ],
+  "hours": 17,
+  "imdb_id": "tt9018736",
+  "keywords": [
+   "saving the world",
+   "monk",
+   "child hero",
+   "reincarnation",
+   "based on cartoon",
+   "live action remake",
+   "arrogant",
+   "conceited",
+   "dubious"
+  ],
+  "language": "en",
+  "networks": [
+   "Netflix"
+  ],
+  "next_episode": null,
+  "original_title": null,
+  "overview": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enemy bent on stopping him.",
+  "popularity": 65.8,
+  "poster": "https://image.tmdb.org/t/p/w342/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
+  "runtime": 69,
+  "seasons": 2,
+  "status": "Ongoing",
+  "streaming": [
+   "Netflix",
+   "Netflix Standard with Ads"
+  ],
+  "title": "Avatar: The Last Airbender",
+  "tmdb": 82452,
+  "tmdb_score": 78,
+  "tmdb_votes": 1380,
+  "type": "Scripted",
+  "watch_link": "https://www.themoviedb.org/tv/82452-avatar-the-last-airbender/watch?locale=US",
+  "wikidata_id": "Q109608844",
+  "year": 2024
+ },
  "93740": {
   "countries": [
    "US"
@@ -624,7 +839,7 @@
   ],
   "end_year": null,
   "episodes": 30,
-  "fetched": "2026-10-07T01:56:48+00:00",
+  "fetched": "2026-10-07T01:57:20+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama"
@@ -680,7 +895,7 @@
   ],
   "end_year": null,
   "episodes": 44,
-  "fetched": "2026-10-07T01:56:48+00:00",
+  "fetched": "2026-10-07T01:57:20+00:00",
   "genres": [
    "Drama",
    "Comedy"
