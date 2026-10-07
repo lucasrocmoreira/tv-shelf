@@ -10,7 +10,7 @@
   "rt": "tv/the_rehearsal_2022"
  },
  "tt10986410": {
-  "checked": "2026-10-07T01:57:53+00:00",
+  "checked": "2026-10-07T01:56:50+00:00",
   "mc": "tv/ted-lasso",
   "rt": "tv/ted_lasso"
  },
@@ -19,15 +19,30 @@
   "mc": "tv/fallout",
   "rt": "tv/fallout"
  },
+ "tt13443470": {
+  "checked": "2026-10-07T01:58:24+00:00",
+  "mc": "tv/wednesday",
+  "rt": "tv/wednesday"
+ },
  "tt14218830": {
   "checked": "2026-10-07T01:55:01+00:00",
   "mc": null,
   "rt": "tv/abbott_elementary"
  },
+ "tt14403178": {
+  "checked": "2026-10-07T01:57:21+00:00",
+  "mc": "tv/beef",
+  "rt": "tv/beef"
+ },
  "tt14452776": {
   "checked": "2026-10-07T01:56:15+00:00",
   "mc": "tv/the-bear",
   "rt": "tv/the_bear"
+ },
+ "tt14688458": {
+  "checked": "2026-10-07T01:57:21+00:00",
+  "mc": "tv/silo",
+  "rt": "tv/silo"
  },
  "tt15435876": {
   "checked": "2026-10-07T01:56:15+00:00",
@@ -35,7 +50,7 @@
   "rt": "tv/the_penguin"
  },
  "tt15571732": {
-  "checked": "2026-10-07T01:57:53+00:00",
+  "checked": "2026-10-07T01:56:50+00:00",
   "mc": "tv/agatha-all-along",
   "rt": "tv/agatha_all_along"
  },
@@ -49,15 +64,45 @@
   "mc": "tv/nathan-for-you",
   "rt": "tv/nathan-for-you"
  },
+ "tt27444205": {
+  "checked": "2026-10-07T01:58:24+00:00",
+  "mc": "tv/paradise-2025",
+  "rt": "tv/paradise_2025"
+ },
  "tt30460310": {
   "checked": "2026-10-07T01:55:01+00:00",
   "mc": "tv/spider-noir",
   "rt": "tv/spider_noir"
  },
+ "tt31137273": {
+  "checked": "2026-10-07T01:58:24+00:00",
+  "mc": "tv/margos-got-money-troubles",
+  "rt": "tv/margos_got_money_troubles"
+ },
+ "tt33049767": {
+  "checked": "2026-10-07T01:58:24+00:00",
+  "mc": "tv/adults",
+  "rt": "tv/adults"
+ },
  "tt34755671": {
-  "checked": "2026-10-07T01:57:53+00:00",
+  "checked": "2026-10-07T01:56:50+00:00",
   "mc": null,
   "rt": "tv/chespirito_not_really_on_purpose"
+ },
+ "tt35946742": {
+  "checked": "2026-10-07T01:57:21+00:00",
+  "mc": "tv/maximum-pleasure-guaranteed",
+  "rt": "tv/maximum_pleasure_guaranteed"
+ },
+ "tt36303968": {
+  "checked": "2026-10-07T01:58:24+00:00",
+  "mc": "tv/furious-2026",
+  "rt": "tv/furious"
+ },
+ "tt3960394": {
+  "checked": "2026-10-07T01:58:24+00:00",
+  "mc": "tv/interview-with-the-vampire",
+  "rt": "tv/interview_with_the_vampire"
  },
  "tt7660850": {
   "checked": "2026-10-07T01:55:01+00:00",
@@ -65,7 +110,7 @@
   "rt": "tv/succession"
  },
  "tt9018736": {
-  "checked": "2026-10-07T01:57:53+00:00",
+  "checked": "2026-10-07T01:57:21+00:00",
   "mc": "tv/avatar-the-last-airbender-2024",
   "rt": "tv/avatar_the_last_airbender_2024"
  }
