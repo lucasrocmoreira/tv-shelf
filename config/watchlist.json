@@ -314,6 +314,15 @@
    "added": "2026-10-07",
    "interest": 0,
    "watched": null
+  },
+  "tmdb:615": {
+   "tmdb": 615,
+   "title": "Futurama",
+   "year": 1999,
+   "poster": "https://image.tmdb.org/t/p/w342/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+   "added": "2026-10-08",
+   "interest": 0,
+   "watched": null
   }
  }
 }
