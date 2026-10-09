@@ -9,7 +9,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-09T17:10:35+00:00",
+  "fetched": "2026-10-09T23:14:31+00:00",
   "genres": [
    "Action & Adventure",
    "Sci-Fi & Fantasy",
@@ -53,7 +53,7 @@
   "title": "Fallout",
   "tmdb": 106379,
   "tmdb_score": 81,
-  "tmdb_votes": 3156,
+  "tmdb_votes": 3158,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/106379-fallout/watch?locale=US",
   "wikidata_id": "Q113127312",
@@ -69,7 +69,7 @@
   ],
   "end_year": null,
   "episodes": 30,
-  "fetched": "2026-10-09T17:10:35+00:00",
+  "fetched": "2026-10-09T23:14:31+00:00",
   "genres": [
    "Drama",
    "Mystery"
@@ -135,7 +135,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-09T17:10:35+00:00",
+  "fetched": "2026-10-09T23:14:31+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Mystery",
@@ -176,7 +176,7 @@
   "title": "Wednesday",
   "tmdb": 119051,
   "tmdb_score": 83,
-  "tmdb_votes": 10864,
+  "tmdb_votes": 10866,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/119051-wednesday/watch?locale=US",
   "wikidata_id": "Q105553568",
@@ -190,8 +190,8 @@
    "Quinta Brunson"
   ],
   "end_year": null,
-  "episodes": 95,
-  "fetched": "2026-10-09T17:10:35+00:00",
+  "episodes": 96,
+  "fetched": "2026-10-09T23:14:31+00:00",
   "genres": [
    "Comedy"
   ],
@@ -245,7 +245,7 @@
   ],
   "end_year": null,
   "episodes": 31,
-  "fetched": "2026-10-09T17:10:35+00:00",
+  "fetched": "2026-10-09T23:14:32+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama"
@@ -283,7 +283,7 @@
   "title": "Silo",
   "tmdb": 125988,
   "tmdb_score": 82,
-  "tmdb_votes": 2774,
+  "tmdb_votes": 2776,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/125988-silo/watch?locale=US",
   "wikidata_id": "Q108456738",
@@ -298,7 +298,7 @@
   ],
   "end_year": 2024,
   "episodes": 15,
-  "fetched": "2026-10-09T17:10:35+00:00",
+  "fetched": "2026-10-09T23:14:32+00:00",
   "genres": [
    "Drama",
    "Sci-Fi & Fantasy"
@@ -363,7 +363,7 @@
   ],
   "end_year": 2026,
   "episodes": 46,
-  "fetched": "2026-10-09T17:10:35+00:00",
+  "fetched": "2026-10-09T23:14:32+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -407,7 +407,7 @@
   "title": "The Bear",
   "tmdb": 136315,
   "tmdb_score": 82,
-  "tmdb_votes": 1964,
+  "tmdb_votes": 1965,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/136315-the-bear/watch?locale=US",
   "wikidata_id": "Q112761982",
@@ -422,7 +422,7 @@
   ],
   "end_year": 2024,
   "episodes": 9,
-  "fetched": "2026-10-09T17:10:35+00:00",
+  "fetched": "2026-10-09T23:14:32+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Mystery"
@@ -460,7 +460,7 @@
   "title": "Agatha All Along",
   "tmdb": 138501,
   "tmdb_score": 74,
-  "tmdb_votes": 1053,
+  "tmdb_votes": 1054,
   "type": "Miniseries",
   "watch_link": "https://www.themoviedb.org/tv/138501-agatha-all-along/watch?locale=US",
   "wikidata_id": "Q108837156",
@@ -475,7 +475,7 @@
   ],
   "end_year": 2017,
   "episodes": 24,
-  "fetched": "2026-10-09T17:10:34+00:00",
+  "fetched": "2026-10-09T23:14:31+00:00",
   "genres": [
    "Crime",
    "Drama",
@@ -540,7 +540,7 @@
   ],
   "end_year": null,
   "episodes": 18,
-  "fetched": "2026-10-09T17:10:35+00:00",
+  "fetched": "2026-10-09T23:14:32+00:00",
   "genres": [
    "Comedy",
    "Drama"
@@ -598,7 +598,7 @@
   ],
   "end_year": 2024,
   "episodes": 8,
-  "fetched": "2026-10-09T17:10:36+00:00",
+  "fetched": "2026-10-09T23:14:32+00:00",
   "genres": [
    "Drama",
    "Crime"
@@ -657,7 +657,7 @@
   ],
   "end_year": null,
   "episodes": 12,
-  "fetched": "2026-10-09T17:10:36+00:00",
+  "fetched": "2026-10-09T23:14:32+00:00",
   "genres": [
    "Comedy",
    "Documentary"
@@ -694,7 +694,7 @@
   "title": "The Rehearsal",
   "tmdb": 204284,
   "tmdb_score": 80,
-  "tmdb_votes": 279,
+  "tmdb_votes": 281,
   "type": "Documentary",
   "watch_link": "https://www.themoviedb.org/tv/204284-the-rehearsal/watch?locale=US",
   "wikidata_id": "Q112915576",
@@ -709,7 +709,7 @@
   ],
   "end_year": 2026,
   "episodes": 8,
-  "fetched": "2026-10-09T17:10:36+00:00",
+  "fetched": "2026-10-09T23:14:32+00:00",
   "genres": [
    "Drama",
    "Mystery",
@@ -753,7 +753,7 @@
   "title": "Spider-Noir",
   "tmdb": 220102,
   "tmdb_score": 83,
-  "tmdb_votes": 883,
+  "tmdb_votes": 884,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/220102-spider-noir/watch?locale=US",
   "wikidata_id": "Q123956515",
@@ -769,7 +769,7 @@
   ],
   "end_year": 2026,
   "episodes": 8,
-  "fetched": "2026-10-09T17:10:36+00:00",
+  "fetched": "2026-10-09T23:14:32+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Mystery"
@@ -817,7 +817,7 @@
   ],
   "end_year": 2023,
   "episodes": 7,
-  "fetched": "2026-10-09T17:10:36+00:00",
+  "fetched": "2026-10-09T23:14:32+00:00",
   "genres": [
    "Documentary"
   ],
@@ -862,7 +862,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-09T17:10:36+00:00",
+  "fetched": "2026-10-09T23:14:32+00:00",
   "genres": [
    "Comedy"
   ],
@@ -906,7 +906,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-10-09T17:10:36+00:00",
+  "fetched": "2026-10-09T23:14:32+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -955,7 +955,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-09T17:10:36+00:00",
+  "fetched": "2026-10-09T23:14:32+00:00",
   "genres": [
    "Crime",
    "Drama"
@@ -1006,7 +1006,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-10-09T17:10:36+00:00",
+  "fetched": "2026-10-09T23:14:32+00:00",
   "genres": [
    "Drama",
    "Mystery"
@@ -1064,7 +1064,7 @@
   ],
   "end_year": null,
   "episodes": 20,
-  "fetched": "2026-10-09T17:10:36+00:00",
+  "fetched": "2026-10-09T23:14:32+00:00",
   "genres": [
    "Comedy"
   ],
@@ -1111,7 +1111,7 @@
   "creators": [],
   "end_year": 2026,
   "episodes": 6,
-  "fetched": "2026-10-09T17:10:36+00:00",
+  "fetched": "2026-10-09T23:14:32+00:00",
   "genres": [
    "Crime",
    "Drama",
@@ -1144,8 +1144,8 @@
   ],
   "title": "Last Seen",
   "tmdb": 258230,
-  "tmdb_score": 76,
-  "tmdb_votes": 44,
+  "tmdb_score": 77,
+  "tmdb_votes": 45,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/258230-last-seen/watch?locale=US",
   "wikidata_id": "Q133850043",
@@ -1161,7 +1161,7 @@
   ],
   "end_year": null,
   "episodes": 17,
-  "fetched": "2026-10-09T17:10:36+00:00",
+  "fetched": "2026-10-09T23:14:32+00:00",
   "genres": [
    "Comedy"
   ],
@@ -1209,7 +1209,7 @@
   ],
   "end_year": 2025,
   "episodes": 8,
-  "fetched": "2026-10-09T17:10:36+00:00",
+  "fetched": "2026-10-09T23:14:32+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -1243,7 +1243,7 @@
   "title": "Chespirito: Not Really on Purpose",
   "tmdb": 279060,
   "tmdb_score": 80,
-  "tmdb_votes": 472,
+  "tmdb_votes": 473,
   "type": "Miniseries",
   "watch_link": "https://www.themoviedb.org/tv/279060-chespirito-sin-querer-queriendo/watch?locale=US",
   "wikidata_id": "Q119742991",
@@ -1258,7 +1258,7 @@
   ],
   "end_year": null,
   "episodes": 10,
-  "fetched": "2026-10-09T17:10:37+00:00",
+  "fetched": "2026-10-09T23:14:32+00:00",
   "genres": [
    "Comedy"
   ],
@@ -1308,7 +1308,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-10-09T17:10:37+00:00",
+  "fetched": "2026-10-09T23:14:32+00:00",
   "genres": [
    "Drama",
    "Crime"
@@ -1355,7 +1355,7 @@
   ],
   "end_year": 2026,
   "episodes": 5,
-  "fetched": "2026-10-09T17:10:37+00:00",
+  "fetched": "2026-10-09T23:14:33+00:00",
   "genres": [
    "Documentary"
   ],
@@ -1399,7 +1399,7 @@
   ],
   "end_year": null,
   "episodes": 33,
-  "fetched": "2026-10-09T17:10:34+00:00",
+  "fetched": "2026-10-09T23:14:31+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama",
@@ -1444,7 +1444,7 @@
   "title": "Black Mirror",
   "tmdb": 42009,
   "tmdb_score": 83,
-  "tmdb_votes": 6578,
+  "tmdb_votes": 6580,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/42009-black-mirror/watch?locale=US",
   "wikidata_id": "Q558112",
@@ -1460,7 +1460,7 @@
   ],
   "end_year": 2017,
   "episodes": 31,
-  "fetched": "2026-10-09T17:10:34+00:00",
+  "fetched": "2026-10-09T23:14:31+00:00",
   "genres": [
    "Comedy",
    "Documentary"
@@ -1512,7 +1512,7 @@
   ],
   "end_year": 2022,
   "episodes": 63,
-  "fetched": "2026-10-09T17:10:34+00:00",
+  "fetched": "2026-10-09T23:14:31+00:00",
   "genres": [
    "Crime",
    "Drama"
@@ -1555,7 +1555,7 @@
   "title": "Better Call Saul",
   "tmdb": 60059,
   "tmdb_score": 87,
-  "tmdb_votes": 6953,
+  "tmdb_votes": 6955,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/60059-better-call-saul/watch?locale=US",
   "wikidata_id": "Q14925221",
@@ -1570,7 +1570,7 @@
   ],
   "end_year": 2026,
   "episodes": 164,
-  "fetched": "2026-10-09T17:10:34+00:00",
+  "fetched": "2026-10-09T23:14:31+00:00",
   "genres": [
    "Animation",
    "Comedy",
@@ -1634,7 +1634,7 @@
   ],
   "end_year": 2023,
   "episodes": 60,
-  "fetched": "2026-10-09T17:10:34+00:00",
+  "fetched": "2026-10-09T23:14:31+00:00",
   "genres": [
    "Drama"
   ],
@@ -1692,7 +1692,7 @@
   ],
   "end_year": 2022,
   "episodes": 44,
-  "fetched": "2026-10-09T17:10:34+00:00",
+  "fetched": "2026-10-09T23:14:31+00:00",
   "genres": [
    "Crime",
    "Drama"
@@ -1732,7 +1732,7 @@
   "title": "Ozark",
   "tmdb": 69740,
   "tmdb_score": 82,
-  "tmdb_votes": 2947,
+  "tmdb_votes": 2950,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/69740-ozark/watch?locale=US",
   "wikidata_id": "Q25205293",
@@ -1747,7 +1747,7 @@
   ],
   "end_year": 2023,
   "episodes": 39,
-  "fetched": "2026-10-09T17:10:35+00:00",
+  "fetched": "2026-10-09T23:14:31+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -1805,7 +1805,7 @@
   ],
   "end_year": null,
   "episodes": 15,
-  "fetched": "2026-10-09T17:10:35+00:00",
+  "fetched": "2026-10-09T23:14:31+00:00",
   "genres": [
    "Action & Adventure",
    "Sci-Fi & Fantasy",
@@ -1860,7 +1860,7 @@
   ],
   "end_year": null,
   "episodes": 30,
-  "fetched": "2026-10-09T17:10:35+00:00",
+  "fetched": "2026-10-09T23:14:31+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama"
@@ -1904,6 +1904,67 @@
   "wikidata_id": "Q56281007",
   "year": 2021
  },
+ "95350": {
+  "countries": [
+   "US"
+  ],
+  "creators": [
+   "Damon Lindelof",
+   "Chris Mundy",
+   "Tom King"
+  ],
+  "end_year": null,
+  "episodes": 8,
+  "fetched": "2026-10-09T23:14:31+00:00",
+  "genres": [
+   "Drama",
+   "Mystery",
+   "Sci-Fi & Fantasy"
+  ],
+  "hours": 8,
+  "imdb_id": "tt26545992",
+  "keywords": [
+   "parent child relationship",
+   "small town",
+   "superhero",
+   "based on comic",
+   "super power",
+   "ex-marine",
+   "murder investigation",
+   "buddy cop",
+   "trainee",
+   "nebraska",
+   "willpower",
+   "2010s",
+   "dc universe (dcu)",
+   "comforting",
+   "2020s"
+  ],
+  "language": "en",
+  "networks": [
+   "HBO"
+  ],
+  "next_episode": null,
+  "original_title": null,
+  "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+  "popularity": 312.3,
+  "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+  "runtime": 57,
+  "seasons": 1,
+  "status": "Ongoing",
+  "streaming": [
+   "HBO Max Amazon Channel",
+   "HBO Max"
+  ],
+  "title": "Lanterns",
+  "tmdb": 95350,
+  "tmdb_score": 83,
+  "tmdb_votes": 678,
+  "type": "Scripted",
+  "watch_link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=US",
+  "wikidata_id": "Q110556821",
+  "year": 2026
+ },
  "97546": {
   "countries": [
    "US"
@@ -1916,7 +1977,7 @@
   ],
   "end_year": null,
   "episodes": 44,
-  "fetched": "2026-10-09T17:10:35+00:00",
+  "fetched": "2026-10-09T23:14:31+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -1959,7 +2020,7 @@
   "title": "Ted Lasso",
   "tmdb": 97546,
   "tmdb_score": 84,
-  "tmdb_votes": 2729,
+  "tmdb_votes": 2730,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=US",
   "wikidata_id": "Q96407897",
