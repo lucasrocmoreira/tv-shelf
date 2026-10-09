@@ -323,6 +323,15 @@
    "added": "2026-10-08",
    "interest": 0,
    "watched": null
+  },
+  "tmdb:95350": {
+   "tmdb": 95350,
+   "title": "Lanterns",
+   "year": 2026,
+   "poster": "https://image.tmdb.org/t/p/w342/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+   "added": "2026-10-09",
+   "interest": 0,
+   "watched": null
   }
  }
 }
