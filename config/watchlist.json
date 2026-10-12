@@ -332,6 +332,15 @@
    "added": "2026-10-09",
    "interest": 0,
    "watched": null
+  },
+  "tmdb:288673": {
+   "tmdb": 288673,
+   "title": "Carrie",
+   "year": 2026,
+   "poster": "https://image.tmdb.org/t/p/w342/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg",
+   "added": "2026-10-11",
+   "interest": 0,
+   "watched": null
   }
  }
 }
