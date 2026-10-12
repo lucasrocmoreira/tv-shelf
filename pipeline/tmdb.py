@@ -103,6 +103,11 @@ def parse(d, region="US"):
     vote = d.get("vote_average") or 0
     votes = d.get("vote_count") or 0
     nxt = d.get("next_episode_to_air") or {}
+    # Years with new episodes: each season's premiere, plus the latest and next episode
+    # (a season can start in December and run into January).
+    air_years = {_year(s.get("air_date")) for s in d.get("seasons") or [] if (s.get("season_number") or 0) > 0}
+    air_years |= {_year(d.get("first_air_date")), _year(d.get("last_air_date")), _year(nxt.get("air_date"))}
+    air_years.discard(None)
     return {
         "tmdb": d["id"],
         "imdb_id": ext.get("imdb_id") or None,
@@ -131,6 +136,7 @@ def parse(d, region="US"):
         "streaming": streaming,
         "watch_link": prov.get("link"),
         "next_episode": nxt.get("air_date") if nxt else None,
+        "air_years": sorted(air_years),
     }
 
 

@@ -169,6 +169,7 @@ dialog::backdrop{background:rgba(10,12,20,.45)}
         <button data-v="watchlist" aria-pressed="true">Watchlist</button>
         <button data-v="watched" aria-pressed="false">Watched</button>
       </div>
+      <select id="f_year" aria-label="Year with new episodes"></select>
       <select id="group" aria-label="Group by"></select>
       <button class="iconbtn" id="pickBtn" type="button">Pick for me</button>
       <span class="count" id="count"></span>
@@ -219,7 +220,7 @@ const SORTS = [
   ["votes","Popularity (IMDb votes)"], ["trending","Trending now (TMDB)"], ["interest","My interest"],
   ["hours","Shortest to finish"], ["year","Newest"], ["added","Recently added"], ["title","Title A to Z"],
 ];
-const GROUPS = [["","No grouping"],["genres","Group by genre"],["streaming","Group by streaming service"],
+const GROUPS = [["","No grouping"],["genres","Group by genre"],["streaming","Group by streaming service"],["air_years","Group by year aired"],
   ["networks","Group by network"],["status","Group by status"],["keywords","Group by theme"]];
 const FILTERS = {genres:"All genres", keywords:"All themes", networks:"All networks"};
 const LINK_LABELS = {imdb:"IMDb",rt:"Rotten Tomatoes",metacritic:"Metacritic",tmdb:"TMDB",watch:"Where to watch"};
@@ -233,10 +234,35 @@ const store = {
 const prefs = store.get("tv-prefs", {});
 const state = {
   q:"", sort:prefs.sort||"avg", group:prefs.group||"", list:"watchlist", services:new Set(),
-  filters:{}, status:"", len:"", type:"", tags:[], hideUnscored:!!prefs.hideUnscored,
+  filters:{}, status:"", len:"", type:"", year:prefs.year||"", tags:[], hideUnscored:!!prefs.hideUnscored,
   srcOn:new Set(prefs.srcOn||Object.keys(SOURCES)), open:new Set(),
 };
-function savePrefs(){ store.set("tv-prefs",{sort:state.sort,group:state.group,hideUnscored:state.hideUnscored,srcOn:[...state.srcOn]}); }
+function savePrefs(){ store.set("tv-prefs",{sort:state.sort,group:state.group,year:state.year,hideUnscored:state.hideUnscored,srcOn:[...state.srcOn]}); }
+
+// Streaming: fold plans and add-on channels into the big services, drop the rest
+// (live-TV bundles, cable apps, local stations). "Paramount+ Amazon Channel" counts as Paramount+.
+const SERVICE_RULES = [
+  [/netflix/, "Netflix"], [/^(hbo )?max\b/, "HBO Max"], [/disney/, "Disney+"], [/hulu/, "Hulu"],
+  [/paramount/, "Paramount+"], [/peacock/, "Peacock"], [/^apple tv/, "Apple TV"], [/prime video/, "Prime Video"],
+];
+function bigServices(list){
+  const out = [];
+  for(const raw of list||[]){
+    const n = String(raw).toLowerCase().replace(/\s+(amazon channel|apple tv channel|roku premium channel)$/, "").trim();
+    const hit = SERVICE_RULES.find(([re])=>re.test(n));
+    if(hit && !out.includes(hit[1])) out.push(hit[1]);
+  }
+  return out;
+}
+// Years a show had new episodes. Built data lists them per season; older data falls back to the run's span.
+function airYears(s){
+  if(Array.isArray(s.air_years) && s.air_years.length) return s.air_years.map(String);
+  if(!s.year) return [];
+  const end = s.end_year || (s.status==="Ongoing" ? new Date().getFullYear() : s.year);
+  const ys = []; for(let y=s.year; y<=end; y++) ys.push(String(y));
+  return ys;
+}
+function tidy(s){ s.streaming = bigServices(s.streaming); s.air_years = airYears(s); return s; }
 
 // Which repository this site belongs to: <owner>.github.io/<repo>/
 const REPO = store.get("tv-repo", null) || (()=>{
@@ -304,13 +330,13 @@ async function act(mutate, message, okText, rebuild=false, undo=null){
 /* ---------------- Merge built data with the live watchlist ---------------- */
 function merge(){
   const byKey = new Map(DATA.shows.map(s=>[s.key, s]));
-  if(!liveWL){ SHOWS = DATA.shows.map(s=>({...s})); return; }
+  if(!liveWL){ SHOWS = DATA.shows.map(s=>tidy({...s})); return; }
   SHOWS = [];
   for(const [key, e] of Object.entries(WL.shows)){
     const built = byKey.get(key);
     const base = built ? {...built} : {key, title:e.title||key, year:e.year, poster:e.poster||null, matched:false, pending:true, scores:{}, links:{}};
     base.interest = e.interest||0; base.watched = e.watched||null; base.added = e.added||base.added;
-    SHOWS.push(base);
+    SHOWS.push(tidy(base));
   }
 }
 function setWatched(s, on){
@@ -366,6 +392,7 @@ function filtered(){
     inList(s) &&
     (!q || haystack(s).includes(q)) &&
     (!state.services.size || (s.streaming||[]).some(p=>state.services.has(p))) &&
+    (!state.year || s.air_years.includes(state.year)) &&
     Object.entries(state.filters).every(([f,v])=>!v || (s[f]||[]).includes(v)) &&
     state.tags.every(t=>(t.field==="streaming"||Array.isArray(s[t.field])) ? (s[t.field]||[]).includes(t.value) : s[t.field]===t.value) &&
     (!state.status || (state.status==="done" ? (s.status==="Ended"||s.status==="Canceled") : s.status===state.status)) &&
@@ -479,7 +506,7 @@ function renderServices(){
   $("services").hidden = !list.length;
 }
 function render(){
-  savePrefs(); renderActive(); renderServices();
+  savePrefs(); renderActive(); renderServices(); fillYears();
   const list = filtered();
   renderHero(list);
   const n = SHOWS.filter(s=>!s.watched).length;
@@ -497,7 +524,8 @@ function render(){
     const vals = Array.isArray(s[field]) ? s[field] : (s[field] ? [s[field]] : []);
     for(const v of (vals.length ? vals : ["None listed"])){ if(!by.has(v)) by.set(v,[]); by.get(v).push(s); }
   }
-  const groups = [...by.entries()].sort((a,b)=>(a[0]==="None listed")-(b[0]==="None listed") || b[1].length-a[1].length || a[0].localeCompare(b[0]));
+  const groups = [...by.entries()].sort((a,b)=>(a[0]==="None listed")-(b[0]==="None listed") ||
+    (field==="air_years" ? b[0].localeCompare(a[0]) : b[1].length-a[1].length || a[0].localeCompare(b[0])));
   $("out").innerHTML = groups.map(([name,ss])=>{
     const all = state.open.has("group:"+name), sl = sorted(ss);
     return `<section class="group"><h2>${esc(name)} <small>${ss.length}</small></h2>
@@ -641,7 +669,15 @@ function fillSelect(id, field, label){
   $(id).value = state.filters[field]||"";
 }
 function syncSeg(){ for(const x of $("listSeg").querySelectorAll("button")) x.setAttribute("aria-pressed", x.dataset.v===state.list); }
-function setupFilters(){ for(const [f,l] of Object.entries(FILTERS)) fillSelect("f_"+f, f, l); }
+function fillYears(){
+  const counts = new Map();
+  for(const s of SHOWS) if(inList(s)) for(const y of s.air_years) counts.set(y,(counts.get(y)||0)+1);
+  const years = [...counts.keys()].sort((a,b)=>b.localeCompare(a));
+  if(state.year && !counts.has(state.year)) years.unshift(state.year);
+  $("f_year").innerHTML = `<option value="">Any year</option>` + years.map(y=>`<option value="${y}">New episodes in ${y} (${counts.get(y)||0})</option>`).join("");
+  $("f_year").value = state.year;
+}
+function setupFilters(){ for(const [f,l] of Object.entries(FILTERS)) fillSelect("f_"+f, f, l); fillYears(); }
 function setup(){
   $("sort").innerHTML = SORTS.map(([k,l])=>`<option value="${k}">Rank by ${l.charAt(0).toLowerCase()+l.slice(1)}</option>`).join("");
   $("sort").value = state.sort;
@@ -658,6 +694,7 @@ function setup(){
   $("f_status").onchange = e=>{state.status=e.target.value;render()};
   $("f_len").onchange = e=>{state.len=e.target.value;render()};
   $("f_type").onchange = e=>{state.type=e.target.value;render()};
+  $("f_year").onchange = e=>{state.year=e.target.value;render()};
   $("hideUnscored").onchange = e=>{state.hideUnscored=e.target.checked;render()};
   $("listSeg").onclick = e=>{const b=e.target.closest("button"); if(!b) return; state.list=b.dataset.v; state.services.clear(); syncSeg(); render()};
   $("services").onclick = e=>{const b=e.target.closest("[data-p]"); if(!b) return;
