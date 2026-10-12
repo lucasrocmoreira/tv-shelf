@@ -59,6 +59,18 @@
   "rt_path": "tv/yellowjackets",
   "v": 1
  },
+ "tt11540908": {
+  "checked": "2026-10-12T02:28:36+00:00",
+  "mc_guessed": false,
+  "mc_path": "tv/carrie-2026",
+  "metacritic": 72,
+  "metacritic_user": 6.8,
+  "rt_audience": 83,
+  "rt_critics": 85,
+  "rt_guessed": false,
+  "rt_path": "tv/carrie",
+  "v": 1
+ },
  "tt12637874": {
   "checked": "2026-10-07T01:55:07+00:00",
   "mc_guessed": false,
