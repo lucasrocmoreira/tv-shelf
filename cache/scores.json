@@ -23,6 +23,18 @@
   "rt_path": "tv/foundation",
   "v": 1
  },
+ "tt10166622": {
+  "checked": "2026-10-13T07:35:23+00:00",
+  "mc_guessed": false,
+  "mc_path": "tv/the-dropout",
+  "metacritic": 75,
+  "metacritic_user": 7.4,
+  "rt_audience": 83,
+  "rt_critics": 90,
+  "rt_guessed": false,
+  "rt_path": "tv/the_dropout",
+  "v": 1
+ },
  "tt10802170": {
   "checked": "2026-10-07T01:56:24+00:00",
   "mc_guessed": false,
