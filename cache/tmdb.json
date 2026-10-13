@@ -14,7 +14,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-12T19:59:25+00:00",
+  "fetched": "2026-10-13T00:41:10+00:00",
   "genres": [
    "Action & Adventure",
    "Sci-Fi & Fantasy",
@@ -58,7 +58,7 @@
   "title": "Fallout",
   "tmdb": 106379,
   "tmdb_score": 81,
-  "tmdb_votes": 3167,
+  "tmdb_votes": 3170,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/106379-fallout/watch?locale=US",
   "wikidata_id": "Q113127312",
@@ -80,7 +80,7 @@
   ],
   "end_year": null,
   "episodes": 30,
-  "fetched": "2026-10-12T19:59:25+00:00",
+  "fetched": "2026-10-13T00:41:10+00:00",
   "genres": [
    "Drama",
    "Mystery"
@@ -150,7 +150,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-12T19:59:25+00:00",
+  "fetched": "2026-10-13T00:41:10+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Mystery",
@@ -213,7 +213,7 @@
   ],
   "end_year": null,
   "episodes": 96,
-  "fetched": "2026-10-12T19:59:25+00:00",
+  "fetched": "2026-10-13T00:41:11+00:00",
   "genres": [
    "Comedy"
   ],
@@ -252,7 +252,7 @@
   "title": "Abbott Elementary",
   "tmdb": 125935,
   "tmdb_score": 75,
-  "tmdb_votes": 341,
+  "tmdb_votes": 342,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/125935-abbott-elementary/watch?locale=US",
   "wikidata_id": "Q107072019",
@@ -273,7 +273,7 @@
   ],
   "end_year": null,
   "episodes": 31,
-  "fetched": "2026-10-12T19:59:25+00:00",
+  "fetched": "2026-10-13T00:41:11+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama"
@@ -330,7 +330,7 @@
   ],
   "end_year": 2024,
   "episodes": 15,
-  "fetched": "2026-10-12T19:59:25+00:00",
+  "fetched": "2026-10-13T00:41:11+00:00",
   "genres": [
    "Drama",
    "Sci-Fi & Fantasy"
@@ -402,7 +402,7 @@
   ],
   "end_year": 2026,
   "episodes": 46,
-  "fetched": "2026-10-12T19:59:25+00:00",
+  "fetched": "2026-10-13T00:41:11+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -446,7 +446,7 @@
   "title": "The Bear",
   "tmdb": 136315,
   "tmdb_score": 82,
-  "tmdb_votes": 1970,
+  "tmdb_votes": 1973,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/136315-the-bear/watch?locale=US",
   "wikidata_id": "Q112761982",
@@ -464,7 +464,7 @@
   ],
   "end_year": 2024,
   "episodes": 9,
-  "fetched": "2026-10-12T19:59:25+00:00",
+  "fetched": "2026-10-13T00:41:11+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Mystery"
@@ -502,7 +502,7 @@
   "title": "Agatha All Along",
   "tmdb": 138501,
   "tmdb_score": 74,
-  "tmdb_votes": 1057,
+  "tmdb_votes": 1058,
   "type": "Miniseries",
   "watch_link": "https://www.themoviedb.org/tv/138501-agatha-all-along/watch?locale=US",
   "wikidata_id": "Q108837156",
@@ -522,7 +522,7 @@
   ],
   "end_year": 2017,
   "episodes": 24,
-  "fetched": "2026-10-12T19:59:25+00:00",
+  "fetched": "2026-10-13T00:41:09+00:00",
   "genres": [
    "Crime",
    "Drama",
@@ -572,7 +572,7 @@
   "title": "Broadchurch",
   "tmdb": 1427,
   "tmdb_score": 79,
-  "tmdb_votes": 1054,
+  "tmdb_votes": 1055,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/1427-broadchurch/watch?locale=US",
   "wikidata_id": "Q4972159",
@@ -591,7 +591,7 @@
   ],
   "end_year": null,
   "episodes": 18,
-  "fetched": "2026-10-12T19:59:26+00:00",
+  "fetched": "2026-10-13T00:41:11+00:00",
   "genres": [
    "Comedy",
    "Drama"
@@ -652,7 +652,7 @@
   ],
   "end_year": 2024,
   "episodes": 8,
-  "fetched": "2026-10-12T19:59:26+00:00",
+  "fetched": "2026-10-13T00:41:11+00:00",
   "genres": [
    "Drama",
    "Crime"
@@ -696,7 +696,7 @@
   "title": "The Penguin",
   "tmdb": 194764,
   "tmdb_score": 84,
-  "tmdb_votes": 1531,
+  "tmdb_votes": 1532,
   "type": "Miniseries",
   "watch_link": "https://www.themoviedb.org/tv/194764-the-penguin/watch?locale=US",
   "wikidata_id": "Q111189743",
@@ -715,7 +715,7 @@
   ],
   "end_year": null,
   "episodes": 12,
-  "fetched": "2026-10-12T19:59:26+00:00",
+  "fetched": "2026-10-13T00:41:11+00:00",
   "genres": [
    "Comedy",
    "Documentary"
@@ -770,7 +770,7 @@
   ],
   "end_year": 2026,
   "episodes": 8,
-  "fetched": "2026-10-12T19:59:26+00:00",
+  "fetched": "2026-10-13T00:41:11+00:00",
   "genres": [
    "Drama",
    "Mystery",
@@ -833,7 +833,7 @@
   ],
   "end_year": 2026,
   "episodes": 8,
-  "fetched": "2026-10-12T19:59:26+00:00",
+  "fetched": "2026-10-13T00:41:11+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Mystery"
@@ -884,7 +884,7 @@
   ],
   "end_year": 2023,
   "episodes": 7,
-  "fetched": "2026-10-12T19:59:26+00:00",
+  "fetched": "2026-10-13T00:41:11+00:00",
   "genres": [
    "Documentary"
   ],
@@ -933,7 +933,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-12T19:59:26+00:00",
+  "fetched": "2026-10-13T00:41:12+00:00",
   "genres": [
    "Comedy"
   ],
@@ -980,7 +980,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-10-12T19:59:26+00:00",
+  "fetched": "2026-10-13T00:41:12+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -1033,7 +1033,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-12T19:59:26+00:00",
+  "fetched": "2026-10-13T00:41:12+00:00",
   "genres": [
    "Crime",
    "Drama"
@@ -1069,7 +1069,7 @@
   "title": "Paradise",
   "tmdb": 245927,
   "tmdb_score": 76,
-  "tmdb_votes": 557,
+  "tmdb_votes": 558,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/245927-paradise/watch?locale=US",
   "wikidata_id": "Q126126253",
@@ -1087,7 +1087,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-10-12T19:59:26+00:00",
+  "fetched": "2026-10-13T00:41:12+00:00",
   "genres": [
    "Drama",
    "Mystery"
@@ -1149,7 +1149,7 @@
   ],
   "end_year": null,
   "episodes": 20,
-  "fetched": "2026-10-12T19:59:26+00:00",
+  "fetched": "2026-10-13T00:41:12+00:00",
   "genres": [
    "Comedy"
   ],
@@ -1199,7 +1199,7 @@
   "creators": [],
   "end_year": 2026,
   "episodes": 6,
-  "fetched": "2026-10-12T19:59:26+00:00",
+  "fetched": "2026-10-13T00:41:12+00:00",
   "genres": [
    "Crime",
    "Drama",
@@ -1253,7 +1253,7 @@
   ],
   "end_year": null,
   "episodes": 17,
-  "fetched": "2026-10-12T19:59:26+00:00",
+  "fetched": "2026-10-13T00:41:12+00:00",
   "genres": [
    "Comedy"
   ],
@@ -1285,8 +1285,8 @@
   ],
   "title": "Adults",
   "tmdb": 260458,
-  "tmdb_score": 64,
-  "tmdb_votes": 97,
+  "tmdb_score": 65,
+  "tmdb_votes": 98,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/260458-adults/watch?locale=US",
   "wikidata_id": "Q134443783",
@@ -1304,7 +1304,7 @@
   ],
   "end_year": 2025,
   "episodes": 8,
-  "fetched": "2026-10-12T19:59:26+00:00",
+  "fetched": "2026-10-13T00:41:12+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -1356,7 +1356,7 @@
   ],
   "end_year": null,
   "episodes": 10,
-  "fetched": "2026-10-12T19:59:26+00:00",
+  "fetched": "2026-10-13T00:41:12+00:00",
   "genres": [
    "Comedy"
   ],
@@ -1409,7 +1409,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-10-12T19:59:27+00:00",
+  "fetched": "2026-10-13T00:41:12+00:00",
   "genres": [
    "Drama",
    "Crime"
@@ -1460,7 +1460,7 @@
   ],
   "end_year": 2026,
   "episodes": 8,
-  "fetched": "2026-10-12T19:59:27+00:00",
+  "fetched": "2026-10-13T00:41:13+00:00",
   "genres": [
    "Mystery",
    "Drama",
@@ -1522,7 +1522,7 @@
   ],
   "end_year": 2026,
   "episodes": 5,
-  "fetched": "2026-10-12T19:59:27+00:00",
+  "fetched": "2026-10-13T00:41:13+00:00",
   "genres": [
    "Documentary"
   ],
@@ -1557,6 +1557,73 @@
   "wikidata_id": null,
   "year": 2026
  },
+ "33880": {
+  "air_years": [
+   2012,
+   2013,
+   2014
+  ],
+  "countries": [
+   "US"
+  ],
+  "creators": [
+   "Bryan Konietzko",
+   "Michael Dante DiMartino"
+  ],
+  "end_year": 2014,
+  "episodes": 52,
+  "fetched": "2026-10-13T00:41:09+00:00",
+  "genres": [
+   "Animation",
+   "Action & Adventure",
+   "Sci-Fi & Fantasy"
+  ],
+  "hours": 20,
+  "imdb_id": "tt1695360",
+  "keywords": [
+   "buddhism",
+   "martial arts",
+   "asia",
+   "friendship",
+   "romance",
+   "steampunk",
+   "coming of age",
+   "spirituality",
+   "female protagonist",
+   "spirit",
+   "spin off",
+   "fantasy world",
+   "political corruption",
+   "anime inspired"
+  ],
+  "language": "en",
+  "networks": [
+   "Nickelodeon"
+  ],
+  "next_episode": null,
+  "original_title": null,
+  "overview": "Avatar Korra, a headstrong, rebellious, feisty young woman who continually challenges and breaks with tradition, is on her quest to become a fully realized Avatar. In this story, the Avatar struggles to find balance within herself.",
+  "popularity": 75.6,
+  "poster": "https://image.tmdb.org/t/p/w342/dZgYvSfuh1YHDrJuILlVQ5oA2hF.jpg",
+  "runtime": 23,
+  "seasons": 4,
+  "status": "Ended",
+  "streaming": [
+   "Paramount Plus Premium",
+   "Paramount Plus Essential",
+   "Paramount Plus Apple TV channel",
+   "Paramount+ Amazon Channel",
+   "Paramount+ Roku Premium Channel"
+  ],
+  "title": "The Legend of Korra",
+  "tmdb": 33880,
+  "tmdb_score": 82,
+  "tmdb_votes": 2445,
+  "type": "Scripted",
+  "watch_link": "https://www.themoviedb.org/tv/33880-the-legend-of-korra/watch?locale=US",
+  "wikidata_id": "Q18790",
+  "year": 2012
+ },
  "42009": {
   "air_years": [
    2011,
@@ -1575,7 +1642,7 @@
   ],
   "end_year": null,
   "episodes": 33,
-  "fetched": "2026-10-12T19:59:25+00:00",
+  "fetched": "2026-10-13T00:41:09+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama",
@@ -1620,7 +1687,7 @@
   "title": "Black Mirror",
   "tmdb": 42009,
   "tmdb_score": 83,
-  "tmdb_votes": 6590,
+  "tmdb_votes": 6594,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/42009-black-mirror/watch?locale=US",
   "wikidata_id": "Q558112",
@@ -1642,7 +1709,7 @@
   ],
   "end_year": 2017,
   "episodes": 31,
-  "fetched": "2026-10-12T19:59:25+00:00",
+  "fetched": "2026-10-13T00:41:09+00:00",
   "genres": [
    "Comedy",
    "Documentary"
@@ -1678,7 +1745,7 @@
   "title": "Nathan for You",
   "tmdb": 58957,
   "tmdb_score": 82,
-  "tmdb_votes": 333,
+  "tmdb_votes": 334,
   "type": "Reality",
   "watch_link": "https://www.themoviedb.org/tv/58957-nathan-for-you/watch?locale=US",
   "wikidata_id": "Q10935299",
@@ -1702,7 +1769,7 @@
   ],
   "end_year": 2022,
   "episodes": 63,
-  "fetched": "2026-10-12T19:59:25+00:00",
+  "fetched": "2026-10-13T00:41:09+00:00",
   "genres": [
    "Crime",
    "Drama"
@@ -1733,7 +1800,7 @@
   "next_episode": null,
   "original_title": null,
   "overview": "Six years before Saul Goodman meets Walter White. We meet him when the man who will become Saul Goodman is known as Jimmy McGill, a small-time lawyer searching for his destiny, and, more immediately, hustling to make ends meet. Working alongside, and, often, against Jimmy, is “fixer” Mike Ehrmantraut. The series tracks Jimmy’s transformation into Saul Goodman, the man who puts “criminal” in “criminal lawyer\".",
-  "popularity": 108.6,
+  "popularity": 112.4,
   "poster": "https://image.tmdb.org/t/p/w342/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg",
   "runtime": 70,
   "seasons": 6,
@@ -1745,7 +1812,7 @@
   "title": "Better Call Saul",
   "tmdb": 60059,
   "tmdb_score": 87,
-  "tmdb_votes": 6968,
+  "tmdb_votes": 6972,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/60059-better-call-saul/watch?locale=US",
   "wikidata_id": "Q14925221",
@@ -1772,7 +1839,7 @@
   ],
   "end_year": 2026,
   "episodes": 164,
-  "fetched": "2026-10-12T19:59:24+00:00",
+  "fetched": "2026-10-13T00:41:09+00:00",
   "genres": [
    "Animation",
    "Comedy",
@@ -1844,7 +1911,7 @@
   ],
   "end_year": 2023,
   "episodes": 60,
-  "fetched": "2026-10-12T19:59:25+00:00",
+  "fetched": "2026-10-13T00:41:09+00:00",
   "genres": [
    "Drama"
   ],
@@ -1886,7 +1953,7 @@
   "title": "The Crown",
   "tmdb": 65494,
   "tmdb_score": 82,
-  "tmdb_votes": 2444,
+  "tmdb_votes": 2445,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/65494-the-crown/watch?locale=US",
   "wikidata_id": "Q20707362",
@@ -1908,7 +1975,7 @@
   ],
   "end_year": 2022,
   "episodes": 44,
-  "fetched": "2026-10-12T19:59:25+00:00",
+  "fetched": "2026-10-13T00:41:09+00:00",
   "genres": [
    "Crime",
    "Drama"
@@ -1936,7 +2003,7 @@
   "next_episode": null,
   "original_title": null,
   "overview": "A financial adviser drags his family from Chicago to the Missouri Ozarks, where he must launder $500 million in five years to appease a drug boss.",
-  "popularity": 49.1,
+  "popularity": 47.9,
   "poster": "https://image.tmdb.org/t/p/w342/pCGyPVrI9Fzw6rE1Pvi4BIXF6ET.jpg",
   "runtime": 72,
   "seasons": 4,
@@ -1948,7 +2015,7 @@
   "title": "Ozark",
   "tmdb": 69740,
   "tmdb_score": 82,
-  "tmdb_votes": 2954,
+  "tmdb_votes": 2956,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/69740-ozark/watch?locale=US",
   "wikidata_id": "Q25205293",
@@ -1969,7 +2036,7 @@
   ],
   "end_year": 2023,
   "episodes": 39,
-  "fetched": "2026-10-12T19:59:25+00:00",
+  "fetched": "2026-10-13T00:41:10+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -2012,7 +2079,7 @@
   "title": "Succession",
   "tmdb": 76331,
   "tmdb_score": 83,
-  "tmdb_votes": 1805,
+  "tmdb_votes": 1806,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/76331-succession/watch?locale=US",
   "wikidata_id": "Q30599007",
@@ -2031,7 +2098,7 @@
   ],
   "end_year": null,
   "episodes": 15,
-  "fetched": "2026-10-12T19:59:25+00:00",
+  "fetched": "2026-10-13T00:41:10+00:00",
   "genres": [
    "Action & Adventure",
    "Sci-Fi & Fantasy",
@@ -2091,7 +2158,7 @@
   ],
   "end_year": null,
   "episodes": 30,
-  "fetched": "2026-10-12T19:59:25+00:00",
+  "fetched": "2026-10-13T00:41:10+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama"
@@ -2149,7 +2216,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-10-12T19:59:25+00:00",
+  "fetched": "2026-10-13T00:41:10+00:00",
   "genres": [
    "Drama",
    "Mystery",
@@ -2193,7 +2260,7 @@
   "title": "Lanterns",
   "tmdb": 95350,
   "tmdb_score": 83,
-  "tmdb_votes": 718,
+  "tmdb_votes": 722,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=US",
   "wikidata_id": "Q110556821",
@@ -2217,7 +2284,7 @@
   ],
   "end_year": null,
   "episodes": 44,
-  "fetched": "2026-10-12T19:59:25+00:00",
+  "fetched": "2026-10-13T00:41:10+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -2260,7 +2327,7 @@
   "title": "Ted Lasso",
   "tmdb": 97546,
   "tmdb_score": 84,
-  "tmdb_votes": 2748,
+  "tmdb_votes": 2752,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=US",
   "wikidata_id": "Q96407897",
