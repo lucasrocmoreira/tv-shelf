@@ -341,6 +341,15 @@
    "added": "2026-10-11",
    "interest": 0,
    "watched": null
+  },
+  "tmdb:33880": {
+   "tmdb": 33880,
+   "title": "The Legend of Korra",
+   "year": 2012,
+   "poster": "https://image.tmdb.org/t/p/w342/dZgYvSfuh1YHDrJuILlVQ5oA2hF.jpg",
+   "added": "2026-10-12",
+   "interest": 0,
+   "watched": null
   }
  }
 }
