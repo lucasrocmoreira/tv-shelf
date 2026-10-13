@@ -350,6 +350,15 @@
    "added": "2026-10-12",
    "interest": 0,
    "watched": null
+  },
+  "tmdb:122066": {
+   "tmdb": 122066,
+   "title": "The Dropout",
+   "year": 2022,
+   "poster": "https://image.tmdb.org/t/p/w342/9SkOJF92FE0H1UXeOgLz7lAnoMb.jpg",
+   "added": "2026-10-13",
+   "interest": 0,
+   "watched": null
   }
  }
 }
