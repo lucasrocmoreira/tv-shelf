@@ -14,7 +14,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-14T15:27:37+00:00",
+  "fetched": "2026-10-14T22:42:19+00:00",
   "genres": [
    "Action & Adventure",
    "Sci-Fi & Fantasy",
@@ -58,7 +58,7 @@
   "title": "Fallout",
   "tmdb": 106379,
   "tmdb_score": 81,
-  "tmdb_votes": 3173,
+  "tmdb_votes": 3172,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/106379-fallout/watch?locale=US",
   "wikidata_id": "Q113127312",
@@ -80,7 +80,7 @@
   ],
   "end_year": null,
   "episodes": 30,
-  "fetched": "2026-10-14T15:27:37+00:00",
+  "fetched": "2026-10-14T22:42:19+00:00",
   "genres": [
    "Drama",
    "Mystery"
@@ -130,7 +130,7 @@
   "title": "Yellowjackets",
   "tmdb": 117488,
   "tmdb_score": 74,
-  "tmdb_votes": 1053,
+  "tmdb_votes": 1052,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/117488-yellowjackets/watch?locale=US",
   "wikidata_id": "Q106830311",
@@ -150,7 +150,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-14T15:27:38+00:00",
+  "fetched": "2026-10-14T22:42:19+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Mystery",
@@ -191,7 +191,7 @@
   "title": "Wednesday",
   "tmdb": 119051,
   "tmdb_score": 83,
-  "tmdb_votes": 10881,
+  "tmdb_votes": 10882,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/119051-wednesday/watch?locale=US",
   "wikidata_id": "Q105553568",
@@ -209,7 +209,7 @@
   ],
   "end_year": 2022,
   "episodes": 8,
-  "fetched": "2026-10-14T15:27:38+00:00",
+  "fetched": "2026-10-14T22:42:19+00:00",
   "genres": [
    "Drama"
   ],
@@ -271,7 +271,7 @@
   ],
   "end_year": null,
   "episodes": 96,
-  "fetched": "2026-10-14T15:27:38+00:00",
+  "fetched": "2026-10-14T22:42:20+00:00",
   "genres": [
    "Comedy"
   ],
@@ -331,7 +331,7 @@
   ],
   "end_year": null,
   "episodes": 31,
-  "fetched": "2026-10-14T15:27:38+00:00",
+  "fetched": "2026-10-14T22:42:20+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama"
@@ -369,7 +369,7 @@
   "title": "Silo",
   "tmdb": 125988,
   "tmdb_score": 82,
-  "tmdb_votes": 2791,
+  "tmdb_votes": 2793,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/125988-silo/watch?locale=US",
   "wikidata_id": "Q108456738",
@@ -388,7 +388,7 @@
   ],
   "end_year": 2024,
   "episodes": 15,
-  "fetched": "2026-10-14T15:27:38+00:00",
+  "fetched": "2026-10-14T22:42:20+00:00",
   "genres": [
    "Drama",
    "Sci-Fi & Fantasy"
@@ -460,7 +460,7 @@
   ],
   "end_year": 2026,
   "episodes": 46,
-  "fetched": "2026-10-14T15:27:38+00:00",
+  "fetched": "2026-10-14T22:42:20+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -504,7 +504,7 @@
   "title": "The Bear",
   "tmdb": 136315,
   "tmdb_score": 82,
-  "tmdb_votes": 1974,
+  "tmdb_votes": 1975,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/136315-the-bear/watch?locale=US",
   "wikidata_id": "Q112761982",
@@ -522,7 +522,7 @@
   ],
   "end_year": 2024,
   "episodes": 9,
-  "fetched": "2026-10-14T15:27:38+00:00",
+  "fetched": "2026-10-14T22:42:20+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Mystery"
@@ -580,7 +580,7 @@
   ],
   "end_year": 2017,
   "episodes": 24,
-  "fetched": "2026-10-14T15:27:36+00:00",
+  "fetched": "2026-10-14T22:42:18+00:00",
   "genres": [
    "Crime",
    "Drama",
@@ -649,7 +649,7 @@
   ],
   "end_year": null,
   "episodes": 18,
-  "fetched": "2026-10-14T15:27:38+00:00",
+  "fetched": "2026-10-14T22:42:20+00:00",
   "genres": [
    "Comedy",
    "Drama"
@@ -710,7 +710,7 @@
   ],
   "end_year": 2024,
   "episodes": 8,
-  "fetched": "2026-10-14T15:27:38+00:00",
+  "fetched": "2026-10-14T22:42:20+00:00",
   "genres": [
    "Drama",
    "Crime"
@@ -773,7 +773,7 @@
   ],
   "end_year": null,
   "episodes": 12,
-  "fetched": "2026-10-14T15:27:38+00:00",
+  "fetched": "2026-10-14T22:42:20+00:00",
   "genres": [
    "Comedy",
    "Documentary"
@@ -828,7 +828,7 @@
   ],
   "end_year": 2026,
   "episodes": 8,
-  "fetched": "2026-10-14T15:27:38+00:00",
+  "fetched": "2026-10-14T22:42:20+00:00",
   "genres": [
    "Drama",
    "Mystery",
@@ -891,7 +891,7 @@
   ],
   "end_year": 2026,
   "episodes": 8,
-  "fetched": "2026-10-14T15:27:39+00:00",
+  "fetched": "2026-10-14T22:42:20+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Mystery"
@@ -924,7 +924,7 @@
   "title": "The Boroughs",
   "tmdb": 224941,
   "tmdb_score": 72,
-  "tmdb_votes": 292,
+  "tmdb_votes": 293,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/224941-the-boroughs/watch?locale=US",
   "wikidata_id": "Q131538168",
@@ -942,7 +942,7 @@
   ],
   "end_year": 2023,
   "episodes": 7,
-  "fetched": "2026-10-14T15:27:39+00:00",
+  "fetched": "2026-10-14T22:42:20+00:00",
   "genres": [
    "Documentary"
   ],
@@ -991,7 +991,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-14T15:27:39+00:00",
+  "fetched": "2026-10-14T22:42:20+00:00",
   "genres": [
    "Comedy"
   ],
@@ -1038,7 +1038,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-10-14T15:27:39+00:00",
+  "fetched": "2026-10-14T22:42:20+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -1091,7 +1091,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-14T15:27:39+00:00",
+  "fetched": "2026-10-14T22:42:20+00:00",
   "genres": [
    "Crime",
    "Drama"
@@ -1127,7 +1127,7 @@
   "title": "Paradise",
   "tmdb": 245927,
   "tmdb_score": 76,
-  "tmdb_votes": 558,
+  "tmdb_votes": 559,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/245927-paradise/watch?locale=US",
   "wikidata_id": "Q126126253",
@@ -1145,7 +1145,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-10-14T15:27:39+00:00",
+  "fetched": "2026-10-14T22:42:20+00:00",
   "genres": [
    "Drama",
    "Mystery"
@@ -1207,7 +1207,7 @@
   ],
   "end_year": null,
   "episodes": 20,
-  "fetched": "2026-10-14T15:27:39+00:00",
+  "fetched": "2026-10-14T22:42:20+00:00",
   "genres": [
    "Comedy"
   ],
@@ -1257,7 +1257,7 @@
   "creators": [],
   "end_year": 2026,
   "episodes": 6,
-  "fetched": "2026-10-14T15:27:39+00:00",
+  "fetched": "2026-10-14T22:42:21+00:00",
   "genres": [
    "Crime",
    "Drama",
@@ -1291,7 +1291,7 @@
   "title": "Last Seen",
   "tmdb": 258230,
   "tmdb_score": 76,
-  "tmdb_votes": 54,
+  "tmdb_votes": 55,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/258230-last-seen/watch?locale=US",
   "wikidata_id": "Q133850043",
@@ -1311,7 +1311,7 @@
   ],
   "end_year": null,
   "episodes": 17,
-  "fetched": "2026-10-14T15:27:39+00:00",
+  "fetched": "2026-10-14T22:42:21+00:00",
   "genres": [
    "Comedy"
   ],
@@ -1362,7 +1362,7 @@
   ],
   "end_year": 2025,
   "episodes": 8,
-  "fetched": "2026-10-14T15:27:39+00:00",
+  "fetched": "2026-10-14T22:42:21+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -1414,7 +1414,7 @@
   ],
   "end_year": null,
   "episodes": 10,
-  "fetched": "2026-10-14T15:27:40+00:00",
+  "fetched": "2026-10-14T22:42:21+00:00",
   "genres": [
    "Comedy"
   ],
@@ -1467,7 +1467,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-10-14T15:27:40+00:00",
+  "fetched": "2026-10-14T22:42:21+00:00",
   "genres": [
    "Drama",
    "Crime"
@@ -1518,7 +1518,7 @@
   ],
   "end_year": 2026,
   "episodes": 8,
-  "fetched": "2026-10-14T15:27:40+00:00",
+  "fetched": "2026-10-14T22:42:21+00:00",
   "genres": [
    "Mystery",
    "Drama",
@@ -1562,7 +1562,7 @@
   "title": "Carrie",
   "tmdb": 288673,
   "tmdb_score": 85,
-  "tmdb_votes": 237,
+  "tmdb_votes": 242,
   "type": "Miniseries",
   "watch_link": "https://www.themoviedb.org/tv/288673-carrie/watch?locale=US",
   "wikidata_id": "Q133852728",
@@ -1580,7 +1580,7 @@
   ],
   "end_year": 2026,
   "episodes": 5,
-  "fetched": "2026-10-14T15:27:40+00:00",
+  "fetched": "2026-10-14T22:42:21+00:00",
   "genres": [
    "Documentary"
   ],
@@ -1630,7 +1630,7 @@
   ],
   "end_year": 2014,
   "episodes": 52,
-  "fetched": "2026-10-14T15:27:36+00:00",
+  "fetched": "2026-10-14T22:42:19+00:00",
   "genres": [
    "Animation",
    "Action & Adventure",
@@ -1676,11 +1676,81 @@
   "title": "The Legend of Korra",
   "tmdb": 33880,
   "tmdb_score": 82,
-  "tmdb_votes": 2448,
+  "tmdb_votes": 2449,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/33880-the-legend-of-korra/watch?locale=US",
   "wikidata_id": "Q18790",
   "year": 2012
+ },
+ "4087": {
+  "air_years": [
+   1993,
+   1994,
+   1995,
+   1996,
+   1997,
+   1998,
+   1999,
+   2000,
+   2001,
+   2016,
+   2018
+  ],
+  "countries": [
+   "US"
+  ],
+  "creators": [
+   "Chris Carter"
+  ],
+  "end_year": 2018,
+  "episodes": 218,
+  "fetched": "2026-10-14T22:42:19+00:00",
+  "genres": [
+   "Mystery",
+   "Sci-Fi & Fantasy",
+   "Crime"
+  ],
+  "hours": 160,
+  "imdb_id": "tt0106179",
+  "keywords": [
+   "fbi",
+   "investigation",
+   "supernatural",
+   "ufo",
+   "alien",
+   "conspiracy",
+   "paranormal phenomena",
+   "paranormal investigation",
+   "government cover-up",
+   "phenomenon",
+   "american folklore",
+   "supernatural power",
+   "fbi agent"
+  ],
+  "language": "en",
+  "networks": [
+   "FOX"
+  ],
+  "next_episode": null,
+  "original_title": null,
+  "overview": "The exploits of FBI Special Agents Fox Mulder and Dana Scully who investigate X-Files: marginalized, unsolved cases involving paranormal phenomena. Mulder believes in the existence of aliens and the paranormal while Scully, a skeptic, is assigned to make scientific analyses of Mulder's discoveries that debunk Mulder's work and thus return him to mainstream cases.",
+  "popularity": 134.3,
+  "poster": "https://image.tmdb.org/t/p/w342/rcBx0p8h51LHceyhquYMxbspJQu.jpg",
+  "runtime": 44,
+  "seasons": 11,
+  "status": "Ended",
+  "streaming": [
+   "Disney Plus",
+   "Hulu"
+  ],
+  "title": "The X-Files",
+  "tmdb": 4087,
+  "tmdb_score": 84,
+  "tmdb_votes": 3746,
+  "type": "Scripted",
+  "watch_link": "https://www.themoviedb.org/tv/4087-the-x-files/watch?locale=US",
+  "wikidata_id": "Q2744",
+  "year": 1993
  },
  "42009": {
   "air_years": [
@@ -1700,7 +1770,7 @@
   ],
   "end_year": null,
   "episodes": 33,
-  "fetched": "2026-10-14T15:27:36+00:00",
+  "fetched": "2026-10-14T22:42:19+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama",
@@ -1745,7 +1815,7 @@
   "title": "Black Mirror",
   "tmdb": 42009,
   "tmdb_score": 83,
-  "tmdb_votes": 6599,
+  "tmdb_votes": 6598,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/42009-black-mirror/watch?locale=US",
   "wikidata_id": "Q558112",
@@ -1767,7 +1837,7 @@
   ],
   "end_year": 2017,
   "episodes": 31,
-  "fetched": "2026-10-14T15:27:36+00:00",
+  "fetched": "2026-10-14T22:42:19+00:00",
   "genres": [
    "Comedy",
    "Documentary"
@@ -1827,7 +1897,7 @@
   ],
   "end_year": 2022,
   "episodes": 63,
-  "fetched": "2026-10-14T15:27:36+00:00",
+  "fetched": "2026-10-14T22:42:19+00:00",
   "genres": [
    "Crime",
    "Drama"
@@ -1870,7 +1940,7 @@
   "title": "Better Call Saul",
   "tmdb": 60059,
   "tmdb_score": 87,
-  "tmdb_votes": 6974,
+  "tmdb_votes": 6976,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/60059-better-call-saul/watch?locale=US",
   "wikidata_id": "Q14925221",
@@ -1897,7 +1967,7 @@
   ],
   "end_year": 2026,
   "episodes": 164,
-  "fetched": "2026-10-14T15:27:36+00:00",
+  "fetched": "2026-10-14T22:42:18+00:00",
   "genres": [
    "Animation",
    "Comedy",
@@ -1945,7 +2015,7 @@
   "title": "Futurama",
   "tmdb": 615,
   "tmdb_score": 84,
-  "tmdb_votes": 3945,
+  "tmdb_votes": 3944,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/615-futurama/watch?locale=US",
   "wikidata_id": "Q73622",
@@ -1969,7 +2039,7 @@
   ],
   "end_year": 2023,
   "episodes": 60,
-  "fetched": "2026-10-14T15:27:37+00:00",
+  "fetched": "2026-10-14T22:42:19+00:00",
   "genres": [
    "Drama"
   ],
@@ -2033,7 +2103,7 @@
   ],
   "end_year": 2022,
   "episodes": 44,
-  "fetched": "2026-10-14T15:27:37+00:00",
+  "fetched": "2026-10-14T22:42:19+00:00",
   "genres": [
    "Crime",
    "Drama"
@@ -2094,7 +2164,7 @@
   ],
   "end_year": 2023,
   "episodes": 39,
-  "fetched": "2026-10-14T15:27:37+00:00",
+  "fetched": "2026-10-14T22:42:19+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -2156,7 +2226,7 @@
   ],
   "end_year": null,
   "episodes": 15,
-  "fetched": "2026-10-14T15:27:37+00:00",
+  "fetched": "2026-10-14T22:42:19+00:00",
   "genres": [
    "Action & Adventure",
    "Sci-Fi & Fantasy",
@@ -2195,7 +2265,7 @@
   "title": "Avatar: The Last Airbender",
   "tmdb": 82452,
   "tmdb_score": 78,
-  "tmdb_votes": 1387,
+  "tmdb_votes": 1388,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/82452-avatar-the-last-airbender/watch?locale=US",
   "wikidata_id": "Q109608844",
@@ -2216,7 +2286,7 @@
   ],
   "end_year": null,
   "episodes": 30,
-  "fetched": "2026-10-14T15:27:37+00:00",
+  "fetched": "2026-10-14T22:42:19+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama"
@@ -2274,7 +2344,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-10-14T15:27:37+00:00",
+  "fetched": "2026-10-14T22:42:19+00:00",
   "genres": [
    "Drama",
    "Mystery",
@@ -2318,7 +2388,7 @@
   "title": "Lanterns",
   "tmdb": 95350,
   "tmdb_score": 83,
-  "tmdb_votes": 734,
+  "tmdb_votes": 736,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=US",
   "wikidata_id": "Q110556821",
@@ -2342,7 +2412,7 @@
   ],
   "end_year": null,
   "episodes": 44,
-  "fetched": "2026-10-14T15:27:37+00:00",
+  "fetched": "2026-10-14T22:42:19+00:00",
   "genres": [
    "Drama",
    "Comedy"

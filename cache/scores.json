@@ -1,4 +1,16 @@
 {
+ "tt0106179": {
+  "checked": "2026-10-14T22:42:27+00:00",
+  "mc_guessed": false,
+  "mc_path": "tv/the-x-files",
+  "metacritic": 65,
+  "metacritic_user": 8.1,
+  "rt_audience": 85,
+  "rt_critics": 74,
+  "rt_guessed": false,
+  "rt_path": "tv/the_x_files",
+  "v": 1
+ },
  "tt0149460": {
   "checked": "2026-10-08T06:53:30+00:00",
   "mc_guessed": false,
@@ -324,12 +336,12 @@
   "v": 1
  },
  "tt32159809": {
-  "checked": "2026-10-07T22:30:34+00:00",
+  "checked": "2026-10-14T22:42:31+00:00",
   "mc_guessed": false,
   "mc_path": "tv/the-paper-2025",
   "metacritic": 67,
   "metacritic_user": 6.1,
-  "rt_audience": 78,
+  "rt_audience": 76,
   "rt_critics": 80,
   "rt_guessed": false,
   "rt_path": "tv/the_paper_2025",
