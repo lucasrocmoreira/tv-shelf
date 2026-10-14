@@ -359,6 +359,15 @@
    "added": "2026-10-13",
    "interest": 0,
    "watched": null
+  },
+  "tmdb:4087": {
+   "tmdb": 4087,
+   "title": "The X-Files",
+   "year": 1993,
+   "poster": "https://image.tmdb.org/t/p/w342/rcBx0p8h51LHceyhquYMxbspJQu.jpg",
+   "added": "2026-10-14",
+   "interest": 0,
+   "watched": null
   }
  }
 }
