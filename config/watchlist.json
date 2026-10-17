@@ -368,6 +368,15 @@
    "added": "2026-10-14",
    "interest": 0,
    "watched": null
+  },
+  "tmdb:42282": {
+   "tmdb": 42282,
+   "title": "Girls",
+   "year": 2012,
+   "poster": "https://image.tmdb.org/t/p/w342/ikyT3hnELofnYRsPIqVGgUhDbOT.jpg",
+   "added": "2026-10-17",
+   "interest": 0,
+   "watched": null
   }
  }
 }
