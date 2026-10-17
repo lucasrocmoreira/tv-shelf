@@ -199,6 +199,18 @@
   "rt_path": "tv/the-legend-of-korra",
   "v": 1
  },
+ "tt1723816": {
+  "checked": "2026-10-17T06:25:41+00:00",
+  "mc_guessed": false,
+  "mc_path": "tv/girls",
+  "metacritic": 80,
+  "metacritic_user": 6.4,
+  "rt_audience": 76,
+  "rt_critics": 89,
+  "rt_guessed": false,
+  "rt_path": "tv/girls",
+  "v": 1
+ },
  "tt2085059": {
   "checked": "2026-10-14T15:27:56+00:00",
   "mc_guessed": false,
@@ -236,12 +248,12 @@
   "v": 1
  },
  "tt26545992": {
-  "checked": "2026-10-09T23:14:42+00:00",
+  "checked": "2026-10-17T06:25:43+00:00",
   "mc_guessed": false,
   "mc_path": "tv/lanterns",
   "metacritic": 72,
-  "metacritic_user": 5.2,
-  "rt_audience": 70,
+  "metacritic_user": 5.1,
+  "rt_audience": 67,
   "rt_critics": 91,
   "rt_guessed": false,
   "rt_path": "tv/lanterns",
