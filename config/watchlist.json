@@ -377,6 +377,15 @@
    "added": "2026-10-17",
    "interest": 0,
    "watched": null
+  },
+  "tmdb:95665": {
+   "tmdb": 95665,
+   "title": "Inventing Anna",
+   "year": 2022,
+   "poster": "https://image.tmdb.org/t/p/w342/aZraQSnS9Dbvipv4WLJQ5xrhG3g.jpg",
+   "added": "2026-10-17",
+   "interest": 0,
+   "watched": null
   }
  }
 }
