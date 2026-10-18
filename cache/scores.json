@@ -467,6 +467,18 @@
   "rt_path": "tv/succession",
   "v": 1
  },
+ "tt8740976": {
+  "checked": "2026-10-18T02:03:11+00:00",
+  "mc_guessed": false,
+  "mc_path": "tv/inventing-anna",
+  "metacritic": 57,
+  "metacritic_user": 4.8,
+  "rt_audience": 38,
+  "rt_critics": 63,
+  "rt_guessed": false,
+  "rt_path": "tv/inventing_anna",
+  "v": 1
+ },
  "tt9018736": {
   "checked": "2026-10-14T15:27:54+00:00",
   "mc_guessed": false,
