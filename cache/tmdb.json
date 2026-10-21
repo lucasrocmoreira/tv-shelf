@@ -14,7 +14,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-21T07:00:47+00:00",
+  "fetched": "2026-10-21T15:35:48+00:00",
   "genres": [
    "Action & Adventure",
    "Sci-Fi & Fantasy",
@@ -58,7 +58,7 @@
   "title": "Fallout",
   "tmdb": 106379,
   "tmdb_score": 81,
-  "tmdb_votes": 3192,
+  "tmdb_votes": 3193,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/106379-fallout/watch?locale=US",
   "wikidata_id": "Q113127312",
@@ -78,7 +78,7 @@
   ],
   "end_year": 2024,
   "episodes": 10,
-  "fetched": "2026-10-21T07:00:47+00:00",
+  "fetched": "2026-10-21T15:35:48+00:00",
   "genres": [
    "Comedy",
    "Drama"
@@ -144,7 +144,7 @@
   ],
   "end_year": null,
   "episodes": 32,
-  "fetched": "2026-10-21T07:00:47+00:00",
+  "fetched": "2026-10-21T15:35:48+00:00",
   "genres": [
    "Drama",
    "Mystery"
@@ -214,7 +214,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-21T07:00:47+00:00",
+  "fetched": "2026-10-21T15:35:48+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Mystery",
@@ -255,7 +255,7 @@
   "title": "Wednesday",
   "tmdb": 119051,
   "tmdb_score": 83,
-  "tmdb_votes": 10904,
+  "tmdb_votes": 10906,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/119051-wednesday/watch?locale=US",
   "wikidata_id": "Q105553568",
@@ -273,7 +273,7 @@
   ],
   "end_year": 2022,
   "episodes": 8,
-  "fetched": "2026-10-21T07:00:47+00:00",
+  "fetched": "2026-10-21T15:35:48+00:00",
   "genres": [
    "Drama"
   ],
@@ -335,7 +335,7 @@
   ],
   "end_year": null,
   "episodes": 101,
-  "fetched": "2026-10-21T07:00:47+00:00",
+  "fetched": "2026-10-21T15:35:48+00:00",
   "genres": [
    "Comedy"
   ],
@@ -395,7 +395,7 @@
   ],
   "end_year": null,
   "episodes": 31,
-  "fetched": "2026-10-21T07:00:47+00:00",
+  "fetched": "2026-10-21T15:35:48+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama"
@@ -421,7 +421,7 @@
   "next_episode": "2027-07-08",
   "original_title": null,
   "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-  "popularity": 113.5,
+  "popularity": 129.3,
   "poster": "https://image.tmdb.org/t/p/w342/r2QXomqKjkKHVtYGGtkf2l2Y7go.jpg",
   "runtime": 61,
   "seasons": 4,
@@ -433,7 +433,7 @@
   "title": "Silo",
   "tmdb": 125988,
   "tmdb_score": 82,
-  "tmdb_votes": 2817,
+  "tmdb_votes": 2821,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/125988-silo/watch?locale=US",
   "wikidata_id": "Q108456738",
@@ -452,7 +452,7 @@
   ],
   "end_year": 2024,
   "episodes": 15,
-  "fetched": "2026-10-21T07:00:47+00:00",
+  "fetched": "2026-10-21T15:35:48+00:00",
   "genres": [
    "Drama",
    "Sci-Fi & Fantasy"
@@ -524,7 +524,7 @@
   ],
   "end_year": 2026,
   "episodes": 46,
-  "fetched": "2026-10-21T07:00:47+00:00",
+  "fetched": "2026-10-21T15:35:48+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -586,7 +586,7 @@
   ],
   "end_year": 2024,
   "episodes": 9,
-  "fetched": "2026-10-21T07:00:47+00:00",
+  "fetched": "2026-10-21T15:35:49+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Mystery"
@@ -624,7 +624,7 @@
   "title": "Agatha All Along",
   "tmdb": 138501,
   "tmdb_score": 74,
-  "tmdb_votes": 1063,
+  "tmdb_votes": 1065,
   "type": "Miniseries",
   "watch_link": "https://www.themoviedb.org/tv/138501-agatha-all-along/watch?locale=US",
   "wikidata_id": "Q108837156",
@@ -644,7 +644,7 @@
   ],
   "end_year": 2017,
   "episodes": 24,
-  "fetched": "2026-10-21T07:00:46+00:00",
+  "fetched": "2026-10-21T15:35:47+00:00",
   "genres": [
    "Crime",
    "Drama",
@@ -713,7 +713,7 @@
   ],
   "end_year": null,
   "episodes": 18,
-  "fetched": "2026-10-21T07:00:47+00:00",
+  "fetched": "2026-10-21T15:35:49+00:00",
   "genres": [
    "Comedy",
    "Drama"
@@ -774,7 +774,7 @@
   ],
   "end_year": 2022,
   "episodes": 6,
-  "fetched": "2026-10-21T07:00:47+00:00",
+  "fetched": "2026-10-21T15:35:49+00:00",
   "genres": [
    "Drama",
    "Crime"
@@ -835,7 +835,7 @@
   ],
   "end_year": 2024,
   "episodes": 8,
-  "fetched": "2026-10-21T07:00:47+00:00",
+  "fetched": "2026-10-21T15:35:49+00:00",
   "genres": [
    "Drama",
    "Crime"
@@ -898,7 +898,7 @@
   ],
   "end_year": null,
   "episodes": 12,
-  "fetched": "2026-10-21T07:00:47+00:00",
+  "fetched": "2026-10-21T15:35:49+00:00",
   "genres": [
    "Comedy",
    "Documentary"
@@ -923,7 +923,7 @@
   "next_episode": null,
   "original_title": null,
   "overview": "With a construction crew, a legion of actors, and seemingly unlimited resources, Nathan Fielder allows ordinary people to prepare for life's biggest moments by \"rehearsing\" them in carefully crafted simulations of his own design. When a single misstep could shatter your entire world, why leave life to chance?",
-  "popularity": 12.6,
+  "popularity": 13.1,
   "poster": "https://image.tmdb.org/t/p/w342/mIevNYxovnH4sR22qkUmAgS5vdv.jpg",
   "runtime": 59,
   "seasons": 2,
@@ -953,7 +953,7 @@
   ],
   "end_year": 2026,
   "episodes": 8,
-  "fetched": "2026-10-21T07:00:47+00:00",
+  "fetched": "2026-10-21T15:35:49+00:00",
   "genres": [
    "Drama",
    "Mystery",
@@ -997,7 +997,7 @@
   "title": "Spider-Noir",
   "tmdb": 220102,
   "tmdb_score": 83,
-  "tmdb_votes": 904,
+  "tmdb_votes": 905,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/220102-spider-noir/watch?locale=US",
   "wikidata_id": "Q123956515",
@@ -1016,7 +1016,7 @@
   ],
   "end_year": 2026,
   "episodes": 8,
-  "fetched": "2026-10-21T07:00:47+00:00",
+  "fetched": "2026-10-21T15:35:49+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Mystery"
@@ -1067,7 +1067,7 @@
   ],
   "end_year": 2023,
   "episodes": 7,
-  "fetched": "2026-10-21T07:00:48+00:00",
+  "fetched": "2026-10-21T15:35:49+00:00",
   "genres": [
    "Documentary"
   ],
@@ -1116,7 +1116,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-21T07:00:48+00:00",
+  "fetched": "2026-10-21T15:35:49+00:00",
   "genres": [
    "Comedy"
   ],
@@ -1163,7 +1163,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-10-21T07:00:48+00:00",
+  "fetched": "2026-10-21T15:35:49+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -1216,7 +1216,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-21T07:00:48+00:00",
+  "fetched": "2026-10-21T15:35:49+00:00",
   "genres": [
    "Crime",
    "Drama"
@@ -1270,7 +1270,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-10-21T07:00:48+00:00",
+  "fetched": "2026-10-21T15:35:49+00:00",
   "genres": [
    "Drama",
    "Mystery"
@@ -1332,7 +1332,7 @@
   ],
   "end_year": null,
   "episodes": 20,
-  "fetched": "2026-10-21T07:00:48+00:00",
+  "fetched": "2026-10-21T15:35:49+00:00",
   "genres": [
    "Comedy"
   ],
@@ -1382,7 +1382,7 @@
   "creators": [],
   "end_year": 2026,
   "episodes": 6,
-  "fetched": "2026-10-21T07:00:48+00:00",
+  "fetched": "2026-10-21T15:35:50+00:00",
   "genres": [
    "Crime",
    "Drama",
@@ -1415,8 +1415,8 @@
   ],
   "title": "Last Seen",
   "tmdb": 258230,
-  "tmdb_score": 76,
-  "tmdb_votes": 60,
+  "tmdb_score": 77,
+  "tmdb_votes": 61,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/258230-last-seen/watch?locale=US",
   "wikidata_id": "Q133850043",
@@ -1436,7 +1436,7 @@
   ],
   "end_year": null,
   "episodes": 17,
-  "fetched": "2026-10-21T07:00:48+00:00",
+  "fetched": "2026-10-21T15:35:50+00:00",
   "genres": [
    "Comedy"
   ],
@@ -1487,7 +1487,7 @@
   ],
   "end_year": 2025,
   "episodes": 8,
-  "fetched": "2026-10-21T07:00:48+00:00",
+  "fetched": "2026-10-21T15:35:50+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -1539,7 +1539,7 @@
   ],
   "end_year": null,
   "episodes": 10,
-  "fetched": "2026-10-21T07:00:48+00:00",
+  "fetched": "2026-10-21T15:35:50+00:00",
   "genres": [
    "Comedy"
   ],
@@ -1592,7 +1592,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-10-21T07:00:48+00:00",
+  "fetched": "2026-10-21T15:35:50+00:00",
   "genres": [
    "Drama",
    "Crime"
@@ -1643,7 +1643,7 @@
   ],
   "end_year": 2026,
   "episodes": 8,
-  "fetched": "2026-10-21T07:00:48+00:00",
+  "fetched": "2026-10-21T15:35:50+00:00",
   "genres": [
    "Mystery",
    "Drama",
@@ -1687,7 +1687,7 @@
   "title": "Carrie",
   "tmdb": 288673,
   "tmdb_score": 83,
-  "tmdb_votes": 390,
+  "tmdb_votes": 394,
   "type": "Miniseries",
   "watch_link": "https://www.themoviedb.org/tv/288673-carrie/watch?locale=US",
   "wikidata_id": "Q133852728",
@@ -1705,7 +1705,7 @@
   ],
   "end_year": 2026,
   "episodes": 5,
-  "fetched": "2026-10-21T07:00:48+00:00",
+  "fetched": "2026-10-21T15:35:50+00:00",
   "genres": [
    "Documentary"
   ],
@@ -1755,7 +1755,7 @@
   ],
   "end_year": 2014,
   "episodes": 52,
-  "fetched": "2026-10-21T07:00:46+00:00",
+  "fetched": "2026-10-21T15:35:47+00:00",
   "genres": [
    "Animation",
    "Action & Adventure",
@@ -1786,7 +1786,7 @@
   "next_episode": null,
   "original_title": null,
   "overview": "Avatar Korra, a headstrong, rebellious, feisty young woman who continually challenges and breaks with tradition, is on her quest to become a fully realized Avatar. In this story, the Avatar struggles to find balance within herself.",
-  "popularity": 70.0,
+  "popularity": 69.3,
   "poster": "https://image.tmdb.org/t/p/w342/dZgYvSfuh1YHDrJuILlVQ5oA2hF.jpg",
   "runtime": 23,
   "seasons": 4,
@@ -1829,7 +1829,7 @@
   ],
   "end_year": 2018,
   "episodes": 218,
-  "fetched": "2026-10-21T07:00:46+00:00",
+  "fetched": "2026-10-21T15:35:47+00:00",
   "genres": [
    "Mystery",
    "Sci-Fi & Fantasy",
@@ -1895,7 +1895,7 @@
   ],
   "end_year": null,
   "episodes": 33,
-  "fetched": "2026-10-21T07:00:46+00:00",
+  "fetched": "2026-10-21T15:35:47+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama",
@@ -1928,7 +1928,7 @@
   "next_episode": null,
   "original_title": null,
   "overview": "Twisted tales run wild in this mind-bending anthology series that reveals humanity's worst traits, greatest innovations and more.",
-  "popularity": 96.4,
+  "popularity": 97.5,
   "poster": "https://image.tmdb.org/t/p/w342/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
   "runtime": 90,
   "seasons": 7,
@@ -1940,7 +1940,7 @@
   "title": "Black Mirror",
   "tmdb": 42009,
   "tmdb_score": 83,
-  "tmdb_votes": 6610,
+  "tmdb_votes": 6612,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/42009-black-mirror/watch?locale=US",
   "wikidata_id": "Q558112",
@@ -1963,7 +1963,7 @@
   ],
   "end_year": 2017,
   "episodes": 62,
-  "fetched": "2026-10-21T07:00:46+00:00",
+  "fetched": "2026-10-21T15:35:47+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -2027,7 +2027,7 @@
   ],
   "end_year": 2017,
   "episodes": 31,
-  "fetched": "2026-10-21T07:00:46+00:00",
+  "fetched": "2026-10-21T15:35:47+00:00",
   "genres": [
    "Comedy",
    "Documentary"
@@ -2098,7 +2098,7 @@
   ],
   "end_year": 2022,
   "episodes": 63,
-  "fetched": "2026-10-21T07:00:46+00:00",
+  "fetched": "2026-10-21T15:35:47+00:00",
   "genres": [
    "Crime",
    "Drama"
@@ -2141,7 +2141,7 @@
   "title": "Better Call Saul",
   "tmdb": 60059,
   "tmdb_score": 87,
-  "tmdb_votes": 6998,
+  "tmdb_votes": 7000,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/60059-better-call-saul/watch?locale=US",
   "wikidata_id": "Q14925221",
@@ -2168,7 +2168,7 @@
   ],
   "end_year": 2026,
   "episodes": 164,
-  "fetched": "2026-10-21T07:00:46+00:00",
+  "fetched": "2026-10-21T15:35:47+00:00",
   "genres": [
    "Animation",
    "Comedy",
@@ -2240,7 +2240,7 @@
   ],
   "end_year": 2023,
   "episodes": 60,
-  "fetched": "2026-10-21T07:00:46+00:00",
+  "fetched": "2026-10-21T15:35:47+00:00",
   "genres": [
    "Drama"
   ],
@@ -2304,7 +2304,7 @@
   ],
   "end_year": 2022,
   "episodes": 44,
-  "fetched": "2026-10-21T07:00:46+00:00",
+  "fetched": "2026-10-21T15:35:47+00:00",
   "genres": [
    "Crime",
    "Drama"
@@ -2365,7 +2365,7 @@
   ],
   "end_year": 2023,
   "episodes": 39,
-  "fetched": "2026-10-21T07:00:46+00:00",
+  "fetched": "2026-10-21T15:35:47+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -2396,7 +2396,7 @@
   "next_episode": null,
   "original_title": null,
   "overview": "Follow the lives of the Roy family as they contemplate their future once their aging father begins to step back from the media and entertainment conglomerate they control.",
-  "popularity": 61.0,
+  "popularity": 59.6,
   "poster": "https://image.tmdb.org/t/p/w342/z0XiwdrCQ9yVIr4O0pxzaAYRxdW.jpg",
   "runtime": 89,
   "seasons": 4,
@@ -2427,7 +2427,7 @@
   ],
   "end_year": null,
   "episodes": 15,
-  "fetched": "2026-10-21T07:00:46+00:00",
+  "fetched": "2026-10-21T15:35:47+00:00",
   "genres": [
    "Action & Adventure",
    "Sci-Fi & Fantasy",
@@ -2484,7 +2484,7 @@
   ],
   "end_year": 2022,
   "episodes": 8,
-  "fetched": "2026-10-21T07:00:46+00:00",
+  "fetched": "2026-10-21T15:35:47+00:00",
   "genres": [
    "Drama",
    "Mystery",
@@ -2542,7 +2542,7 @@
   ],
   "end_year": null,
   "episodes": 30,
-  "fetched": "2026-10-21T07:00:46+00:00",
+  "fetched": "2026-10-21T15:35:48+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama"
@@ -2600,7 +2600,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-10-21T07:00:47+00:00",
+  "fetched": "2026-10-21T15:35:48+00:00",
   "genres": [
    "Drama",
    "Mystery",
@@ -2644,7 +2644,7 @@
   "title": "Lanterns",
   "tmdb": 95350,
   "tmdb_score": 82,
-  "tmdb_votes": 789,
+  "tmdb_votes": 791,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=US",
   "wikidata_id": "Q110556821",
@@ -2662,7 +2662,7 @@
   ],
   "end_year": 2022,
   "episodes": 9,
-  "fetched": "2026-10-21T07:00:47+00:00",
+  "fetched": "2026-10-21T15:35:48+00:00",
   "genres": [
    "Drama"
   ],
@@ -2719,7 +2719,7 @@
   ],
   "end_year": null,
   "episodes": 44,
-  "fetched": "2026-10-21T07:00:47+00:00",
+  "fetched": "2026-10-21T15:35:48+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -2762,7 +2762,7 @@
   "title": "Ted Lasso",
   "tmdb": 97546,
   "tmdb_score": 84,
-  "tmdb_votes": 2778,
+  "tmdb_votes": 2779,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=US",
   "wikidata_id": "Q96407897",

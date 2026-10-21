@@ -24,7 +24,7 @@
   "v": 1
  },
  "tt0804484": {
-  "checked": "2026-10-14T15:28:04+00:00",
+  "checked": "2026-10-21T15:36:11+00:00",
   "mc_guessed": false,
   "mc_path": "tv/foundation",
   "metacritic": 68,
@@ -48,7 +48,7 @@
   "v": 1
  },
  "tt10802170": {
-  "checked": "2026-10-14T15:28:19+00:00",
+  "checked": "2026-10-21T15:36:28+00:00",
   "mc_guessed": false,
   "mc_path": "tv/the-rehearsal",
   "metacritic": 87,
@@ -60,7 +60,7 @@
   "v": 1
  },
  "tt10986410": {
-  "checked": "2026-10-14T15:27:44+00:00",
+  "checked": "2026-10-21T15:35:54+00:00",
   "mc_guessed": false,
   "mc_path": "tv/ted-lasso",
   "metacritic": 74,
@@ -72,7 +72,7 @@
   "v": 1
  },
  "tt11041332": {
-  "checked": "2026-10-14T15:28:15+00:00",
+  "checked": "2026-10-21T15:36:22+00:00",
   "mc_guessed": false,
   "mc_path": "tv/yellowjackets",
   "metacritic": 74,
@@ -96,7 +96,7 @@
   "v": 1
  },
  "tt12637874": {
-  "checked": "2026-10-14T15:27:46+00:00",
+  "checked": "2026-10-21T15:35:56+00:00",
   "mc_guessed": false,
   "mc_path": "tv/fallout",
   "metacritic": 73,
@@ -108,7 +108,7 @@
   "v": 1
  },
  "tt13443470": {
-  "checked": "2026-10-14T15:27:49+00:00",
+  "checked": "2026-10-21T15:35:59+00:00",
   "mc_guessed": false,
   "mc_path": "tv/wednesday",
   "metacritic": 66,
@@ -132,7 +132,7 @@
   "v": 1
  },
  "tt14218830": {
-  "checked": "2026-10-14T15:28:13+00:00",
+  "checked": "2026-10-21T15:36:19+00:00",
   "rt_audience": 89,
   "rt_critics": 99,
   "rt_guessed": false,
@@ -140,7 +140,7 @@
   "v": 1
  },
  "tt14403178": {
-  "checked": "2026-10-14T15:27:52+00:00",
+  "checked": "2026-10-21T15:36:00+00:00",
   "mc_guessed": false,
   "mc_path": "tv/beef",
   "metacritic": 82,
@@ -164,7 +164,7 @@
   "v": 1
  },
  "tt14688458": {
-  "checked": "2026-10-14T15:27:58+00:00",
+  "checked": "2026-10-21T15:36:07+00:00",
   "mc_guessed": false,
   "mc_path": "tv/silo",
   "metacritic": 77,
@@ -224,7 +224,7 @@
   "v": 1
  },
  "tt2085059": {
-  "checked": "2026-10-14T15:27:56+00:00",
+  "checked": "2026-10-21T15:36:05+00:00",
   "mc_guessed": false,
   "mc_path": "tv/black-mirror",
   "metacritic": 74,
@@ -272,7 +272,7 @@
   "v": 1
  },
  "tt27444205": {
-  "checked": "2026-10-14T15:28:00+00:00",
+  "checked": "2026-10-21T15:36:09+00:00",
   "mc_guessed": false,
   "mc_path": "tv/paradise-2025",
   "metacritic": 70,
@@ -324,7 +324,7 @@
   "v": 1
  },
  "tt30826447": {
-  "checked": "2026-10-14T15:28:16+00:00",
+  "checked": "2026-10-21T15:36:26+00:00",
   "mc_guessed": false,
   "mc_path": "tv/the-four-seasons",
   "metacritic": 65,
@@ -336,19 +336,19 @@
   "v": 1
  },
  "tt31137273": {
-  "checked": "2026-10-14T15:28:06+00:00",
+  "checked": "2026-10-21T15:36:14+00:00",
   "mc_guessed": false,
   "mc_path": "tv/margos-got-money-troubles",
   "metacritic": 79,
-  "metacritic_user": 7.0,
-  "rt_audience": 81,
+  "metacritic_user": 6.9,
+  "rt_audience": 80,
   "rt_critics": 96,
   "rt_guessed": false,
   "rt_path": "tv/margos_got_money_troubles",
   "v": 1
  },
  "tt31974367": {
-  "checked": "2026-10-14T15:27:42+00:00",
+  "checked": "2026-10-21T15:35:52+00:00",
   "mc_guessed": false,
   "mc_path": "tv/the-beast-in-me",
   "metacritic": 71,
@@ -372,12 +372,12 @@
   "v": 1
  },
  "tt33049767": {
-  "checked": "2026-10-14T15:28:10+00:00",
+  "checked": "2026-10-21T15:36:18+00:00",
   "mc_guessed": false,
   "mc_path": "tv/adults",
   "metacritic": 69,
   "metacritic_user": 7.4,
-  "rt_audience": 94,
+  "rt_audience": 93,
   "rt_critics": 88,
   "rt_guessed": false,
   "rt_path": "tv/adults",
@@ -392,11 +392,11 @@
   "v": 1
  },
  "tt35946742": {
-  "checked": "2026-10-14T15:28:08+00:00",
+  "checked": "2026-10-21T15:36:16+00:00",
   "mc_guessed": false,
   "mc_path": "tv/maximum-pleasure-guaranteed",
   "metacritic": 72,
-  "metacritic_user": 7.0,
+  "metacritic_user": 6.9,
   "rt_audience": 84,
   "rt_critics": 93,
   "rt_guessed": false,
@@ -404,7 +404,7 @@
   "v": 1
  },
  "tt36303968": {
-  "checked": "2026-10-14T15:27:41+00:00",
+  "checked": "2026-10-21T15:35:51+00:00",
   "mc_guessed": false,
   "mc_path": "tv/furious-2026",
   "metacritic": 81,
@@ -516,12 +516,12 @@
   "v": 1
  },
  "tt9018736": {
-  "checked": "2026-10-14T15:27:54+00:00",
+  "checked": "2026-10-21T15:36:03+00:00",
   "mc_guessed": false,
   "mc_path": "tv/avatar-the-last-airbender-2024",
   "metacritic": 57,
   "metacritic_user": 6.2,
-  "rt_audience": 61,
+  "rt_audience": 60,
   "rt_critics": 66,
   "rt_guessed": false,
   "rt_path": "tv/avatar_the_last_airbender_2024",
