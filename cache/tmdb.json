@@ -14,7 +14,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-21T06:54:00+00:00",
+  "fetched": "2026-10-21T06:54:35+00:00",
   "genres": [
    "Action & Adventure",
    "Sci-Fi & Fantasy",
@@ -78,7 +78,7 @@
   ],
   "end_year": 2024,
   "episodes": 10,
-  "fetched": "2026-10-21T06:54:00+00:00",
+  "fetched": "2026-10-21T06:54:35+00:00",
   "genres": [
    "Comedy",
    "Drama"
@@ -144,7 +144,7 @@
   ],
   "end_year": null,
   "episodes": 32,
-  "fetched": "2026-10-21T06:54:00+00:00",
+  "fetched": "2026-10-21T06:54:35+00:00",
   "genres": [
    "Drama",
    "Mystery"
@@ -214,7 +214,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-21T06:54:00+00:00",
+  "fetched": "2026-10-21T06:54:35+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Mystery",
@@ -273,7 +273,7 @@
   ],
   "end_year": 2022,
   "episodes": 8,
-  "fetched": "2026-10-21T06:54:00+00:00",
+  "fetched": "2026-10-21T06:54:35+00:00",
   "genres": [
    "Drama"
   ],
@@ -335,7 +335,7 @@
   ],
   "end_year": null,
   "episodes": 101,
-  "fetched": "2026-10-21T06:54:00+00:00",
+  "fetched": "2026-10-21T06:54:35+00:00",
   "genres": [
    "Comedy"
   ],
@@ -395,7 +395,7 @@
   ],
   "end_year": null,
   "episodes": 31,
-  "fetched": "2026-10-21T06:54:00+00:00",
+  "fetched": "2026-10-21T06:54:35+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama"
@@ -452,7 +452,7 @@
   ],
   "end_year": 2024,
   "episodes": 15,
-  "fetched": "2026-10-21T06:54:00+00:00",
+  "fetched": "2026-10-21T06:54:35+00:00",
   "genres": [
    "Drama",
    "Sci-Fi & Fantasy"
@@ -524,7 +524,7 @@
   ],
   "end_year": 2026,
   "episodes": 46,
-  "fetched": "2026-10-21T06:54:01+00:00",
+  "fetched": "2026-10-21T06:54:36+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -586,7 +586,7 @@
   ],
   "end_year": 2024,
   "episodes": 9,
-  "fetched": "2026-10-21T06:54:01+00:00",
+  "fetched": "2026-10-21T06:54:36+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Mystery"
@@ -644,7 +644,7 @@
   ],
   "end_year": 2017,
   "episodes": 24,
-  "fetched": "2026-10-21T06:53:59+00:00",
+  "fetched": "2026-10-21T06:54:34+00:00",
   "genres": [
    "Crime",
    "Drama",
@@ -713,7 +713,7 @@
   ],
   "end_year": null,
   "episodes": 18,
-  "fetched": "2026-10-21T06:54:01+00:00",
+  "fetched": "2026-10-21T06:54:36+00:00",
   "genres": [
    "Comedy",
    "Drama"
@@ -762,6 +762,67 @@
   "wikidata_id": "Q112168983",
   "year": 2023
  },
+ "155537": {
+  "air_years": [
+   2022
+  ],
+  "countries": [
+   "US"
+  ],
+  "creators": [
+   "Dennis Lehane"
+  ],
+  "end_year": 2022,
+  "episodes": 6,
+  "fetched": "2026-10-21T06:54:36+00:00",
+  "genres": [
+   "Drama",
+   "Crime"
+  ],
+  "hours": 6,
+  "imdb_id": "tt4301160",
+  "keywords": [
+   "prison",
+   "detective",
+   "based on novel or book",
+   "illinois",
+   "indiana, usa",
+   "prisoner",
+   "oddball",
+   "investigation",
+   "missouri",
+   "based on true story",
+   "serial killer",
+   "miniseries",
+   "informant",
+   "criminal",
+   "inmate"
+  ],
+  "language": "en",
+  "networks": [
+   "Apple TV"
+  ],
+  "next_episode": null,
+  "original_title": null,
+  "overview": "As Jimmy Keene begins a 10-year prison sentence, he gets an incredible offer: If he can elicit a confession from suspected killer Larry Hall, Jimmy will be freed. Completing this mission becomes the challenge of a lifetime.",
+  "popularity": 21.8,
+  "poster": "https://image.tmdb.org/t/p/w342/qu312pwM61NPTr7nexvovCClDNP.jpg",
+  "runtime": 64,
+  "seasons": 1,
+  "status": "Ended",
+  "streaming": [
+   "Apple TV",
+   "Apple TV Amazon Channel"
+  ],
+  "title": "Black Bird",
+  "tmdb": 155537,
+  "tmdb_score": 81,
+  "tmdb_votes": 1104,
+  "type": "Miniseries",
+  "watch_link": "https://www.themoviedb.org/tv/155537-black-bird/watch?locale=US",
+  "wikidata_id": "Q106911884",
+  "year": 2022
+ },
  "194764": {
   "air_years": [
    2024
@@ -774,7 +835,7 @@
   ],
   "end_year": 2024,
   "episodes": 8,
-  "fetched": "2026-10-21T06:54:01+00:00",
+  "fetched": "2026-10-21T06:54:36+00:00",
   "genres": [
    "Drama",
    "Crime"
@@ -837,7 +898,7 @@
   ],
   "end_year": null,
   "episodes": 12,
-  "fetched": "2026-10-21T06:54:01+00:00",
+  "fetched": "2026-10-21T06:54:36+00:00",
   "genres": [
    "Comedy",
    "Documentary"
@@ -892,7 +953,7 @@
   ],
   "end_year": 2026,
   "episodes": 8,
-  "fetched": "2026-10-21T06:54:01+00:00",
+  "fetched": "2026-10-21T06:54:36+00:00",
   "genres": [
    "Drama",
    "Mystery",
@@ -955,7 +1016,7 @@
   ],
   "end_year": 2026,
   "episodes": 8,
-  "fetched": "2026-10-21T06:54:01+00:00",
+  "fetched": "2026-10-21T06:54:36+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Mystery"
@@ -1006,7 +1067,7 @@
   ],
   "end_year": 2023,
   "episodes": 7,
-  "fetched": "2026-10-21T06:54:01+00:00",
+  "fetched": "2026-10-21T06:54:36+00:00",
   "genres": [
    "Documentary"
   ],
@@ -1055,7 +1116,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-21T06:54:01+00:00",
+  "fetched": "2026-10-21T06:54:36+00:00",
   "genres": [
    "Comedy"
   ],
@@ -1102,7 +1163,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-10-21T06:54:01+00:00",
+  "fetched": "2026-10-21T06:54:36+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -1155,7 +1216,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-21T06:54:01+00:00",
+  "fetched": "2026-10-21T06:54:36+00:00",
   "genres": [
    "Crime",
    "Drama"
@@ -1209,7 +1270,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-10-21T06:54:01+00:00",
+  "fetched": "2026-10-21T06:54:36+00:00",
   "genres": [
    "Drama",
    "Mystery"
@@ -1271,7 +1332,7 @@
   ],
   "end_year": null,
   "episodes": 20,
-  "fetched": "2026-10-21T06:54:02+00:00",
+  "fetched": "2026-10-21T06:54:36+00:00",
   "genres": [
    "Comedy"
   ],
@@ -1321,7 +1382,7 @@
   "creators": [],
   "end_year": 2026,
   "episodes": 6,
-  "fetched": "2026-10-21T06:54:02+00:00",
+  "fetched": "2026-10-21T06:54:36+00:00",
   "genres": [
    "Crime",
    "Drama",
@@ -1375,7 +1436,7 @@
   ],
   "end_year": null,
   "episodes": 17,
-  "fetched": "2026-10-21T06:54:02+00:00",
+  "fetched": "2026-10-21T06:54:36+00:00",
   "genres": [
    "Comedy"
   ],
@@ -1426,7 +1487,7 @@
   ],
   "end_year": 2025,
   "episodes": 8,
-  "fetched": "2026-10-21T06:54:02+00:00",
+  "fetched": "2026-10-21T06:54:36+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -1478,7 +1539,7 @@
   ],
   "end_year": null,
   "episodes": 10,
-  "fetched": "2026-10-21T06:54:02+00:00",
+  "fetched": "2026-10-21T06:54:37+00:00",
   "genres": [
    "Comedy"
   ],
@@ -1531,7 +1592,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-10-21T06:54:02+00:00",
+  "fetched": "2026-10-21T06:54:37+00:00",
   "genres": [
    "Drama",
    "Crime"
@@ -1582,7 +1643,7 @@
   ],
   "end_year": 2026,
   "episodes": 8,
-  "fetched": "2026-10-21T06:54:02+00:00",
+  "fetched": "2026-10-21T06:54:37+00:00",
   "genres": [
    "Mystery",
    "Drama",
@@ -1644,7 +1705,7 @@
   ],
   "end_year": 2026,
   "episodes": 5,
-  "fetched": "2026-10-21T06:54:02+00:00",
+  "fetched": "2026-10-21T06:54:37+00:00",
   "genres": [
    "Documentary"
   ],
@@ -1694,7 +1755,7 @@
   ],
   "end_year": 2014,
   "episodes": 52,
-  "fetched": "2026-10-21T06:53:59+00:00",
+  "fetched": "2026-10-21T06:54:34+00:00",
   "genres": [
    "Animation",
    "Action & Adventure",
@@ -1768,7 +1829,7 @@
   ],
   "end_year": 2018,
   "episodes": 218,
-  "fetched": "2026-10-21T06:53:59+00:00",
+  "fetched": "2026-10-21T06:54:34+00:00",
   "genres": [
    "Mystery",
    "Sci-Fi & Fantasy",
@@ -1834,7 +1895,7 @@
   ],
   "end_year": null,
   "episodes": 33,
-  "fetched": "2026-10-21T06:53:59+00:00",
+  "fetched": "2026-10-21T06:54:35+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama",
@@ -1902,7 +1963,7 @@
   ],
   "end_year": 2017,
   "episodes": 62,
-  "fetched": "2026-10-21T06:53:59+00:00",
+  "fetched": "2026-10-21T06:54:35+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -1966,7 +2027,7 @@
   ],
   "end_year": 2017,
   "episodes": 31,
-  "fetched": "2026-10-21T06:53:59+00:00",
+  "fetched": "2026-10-21T06:54:35+00:00",
   "genres": [
    "Comedy",
    "Documentary"
@@ -2037,7 +2098,7 @@
   ],
   "end_year": 2022,
   "episodes": 63,
-  "fetched": "2026-10-21T06:53:59+00:00",
+  "fetched": "2026-10-21T06:54:35+00:00",
   "genres": [
    "Crime",
    "Drama"
@@ -2107,7 +2168,7 @@
   ],
   "end_year": 2026,
   "episodes": 164,
-  "fetched": "2026-10-21T06:53:59+00:00",
+  "fetched": "2026-10-21T06:54:34+00:00",
   "genres": [
    "Animation",
    "Comedy",
@@ -2179,7 +2240,7 @@
   ],
   "end_year": 2023,
   "episodes": 60,
-  "fetched": "2026-10-21T06:53:59+00:00",
+  "fetched": "2026-10-21T06:54:35+00:00",
   "genres": [
    "Drama"
   ],
@@ -2243,7 +2304,7 @@
   ],
   "end_year": 2022,
   "episodes": 44,
-  "fetched": "2026-10-21T06:53:59+00:00",
+  "fetched": "2026-10-21T06:54:35+00:00",
   "genres": [
    "Crime",
    "Drama"
@@ -2304,7 +2365,7 @@
   ],
   "end_year": 2023,
   "episodes": 39,
-  "fetched": "2026-10-21T06:53:59+00:00",
+  "fetched": "2026-10-21T06:54:35+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -2366,7 +2427,7 @@
   ],
   "end_year": null,
   "episodes": 15,
-  "fetched": "2026-10-21T06:53:59+00:00",
+  "fetched": "2026-10-21T06:54:35+00:00",
   "genres": [
    "Action & Adventure",
    "Sci-Fi & Fantasy",
@@ -2426,7 +2487,7 @@
   ],
   "end_year": null,
   "episodes": 30,
-  "fetched": "2026-10-21T06:54:00+00:00",
+  "fetched": "2026-10-21T06:54:35+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama"
@@ -2484,7 +2545,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-10-21T06:54:00+00:00",
+  "fetched": "2026-10-21T06:54:35+00:00",
   "genres": [
    "Drama",
    "Mystery",
@@ -2546,7 +2607,7 @@
   ],
   "end_year": 2022,
   "episodes": 9,
-  "fetched": "2026-10-21T06:54:00+00:00",
+  "fetched": "2026-10-21T06:54:35+00:00",
   "genres": [
    "Drama"
   ],
@@ -2603,7 +2664,7 @@
   ],
   "end_year": null,
   "episodes": 44,
-  "fetched": "2026-10-21T06:54:00+00:00",
+  "fetched": "2026-10-21T06:54:35+00:00",
   "genres": [
    "Drama",
    "Comedy"
