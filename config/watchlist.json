@@ -386,6 +386,15 @@
    "added": "2026-10-17",
    "interest": 0,
    "watched": null
+  },
+  "tmdb:114655": {
+   "tmdb": 114655,
+   "title": "The Curse",
+   "year": 2023,
+   "poster": "https://image.tmdb.org/t/p/w342/k2qJPaGFdyFXEEJpwG5HrmeNpjv.jpg",
+   "added": "2026-10-21",
+   "interest": 0,
+   "watched": null
   }
  }
 }
