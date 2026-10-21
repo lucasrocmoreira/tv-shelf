@@ -119,6 +119,18 @@
   "rt_path": "tv/wednesday",
   "v": 1
  },
+ "tt13623608": {
+  "checked": "2026-10-21T06:54:04+00:00",
+  "mc_guessed": false,
+  "mc_path": "tv/the-curse-2023",
+  "metacritic": 76,
+  "metacritic_user": 6.7,
+  "rt_audience": 45,
+  "rt_critics": 93,
+  "rt_guessed": false,
+  "rt_path": "tv/the_curse_2023",
+  "v": 1
+ },
  "tt14218830": {
   "checked": "2026-10-14T15:28:13+00:00",
   "rt_audience": 89,
