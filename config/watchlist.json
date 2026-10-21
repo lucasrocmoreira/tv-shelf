@@ -404,6 +404,15 @@
    "added": "2026-10-21",
    "interest": 0,
    "watched": null
+  },
+  "tmdb:83659": {
+   "tmdb": 83659,
+   "title": "Guillermo del Toro's Cabinet of Curiosities",
+   "year": 2022,
+   "poster": "https://image.tmdb.org/t/p/w342/a91e9hpWwfCqxJI4xM9Q2RhuxgI.jpg",
+   "added": "2026-10-21",
+   "interest": 0,
+   "watched": null
   }
  }
 }
