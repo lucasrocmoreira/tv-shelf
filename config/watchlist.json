@@ -413,6 +413,15 @@
    "added": "2026-10-21",
    "interest": 0,
    "watched": null
+  },
+  "tmdb:290826": {
+   "tmdb": 290826,
+   "title": "Dig",
+   "year": 2026,
+   "poster": "https://image.tmdb.org/t/p/w342/aJXgEVa3ZnTtc3gYyNUfNuXP6mF.jpg",
+   "added": "2026-10-27",
+   "interest": 0,
+   "watched": null
   }
  }
 }
