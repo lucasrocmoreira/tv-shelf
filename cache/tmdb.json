@@ -14,7 +14,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-28T03:45:27+00:00",
+  "fetched": "2026-10-28T16:48:52+00:00",
   "genres": [
    "Action & Adventure",
    "Sci-Fi & Fantasy",
@@ -58,7 +58,7 @@
   "title": "Fallout",
   "tmdb": 106379,
   "tmdb_score": 81,
-  "tmdb_votes": 3213,
+  "tmdb_votes": 3214,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/106379-fallout/watch?locale=US",
   "wikidata_id": "Q113127312",
@@ -78,7 +78,7 @@
   ],
   "end_year": 2024,
   "episodes": 10,
-  "fetched": "2026-10-28T03:45:27+00:00",
+  "fetched": "2026-10-28T16:48:52+00:00",
   "genres": [
    "Comedy",
    "Drama"
@@ -144,7 +144,7 @@
   ],
   "end_year": null,
   "episodes": 39,
-  "fetched": "2026-10-28T03:45:27+00:00",
+  "fetched": "2026-10-28T16:48:52+00:00",
   "genres": [
    "Drama",
    "Mystery"
@@ -176,7 +176,7 @@
   "next_episode": "2026-11-22",
   "original_title": null,
   "overview": "This equal parts survival epic, psychological horror story and coming-of-age drama tells the saga of a team of wildly talented high school girls soccer players who become the (un)lucky survivors of a plane crash deep in the remote northern wilderness. The series chronicles their descent from a complicated but thriving team to savage clans, while also tracking the lives they’ve attempted to piece back together nearly 25 years later.",
-  "popularity": 44.2,
+  "popularity": 42.7,
   "poster": "https://image.tmdb.org/t/p/w342/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
   "runtime": 60,
   "seasons": 4,
@@ -194,7 +194,7 @@
   "title": "Yellowjackets",
   "tmdb": 117488,
   "tmdb_score": 74,
-  "tmdb_votes": 1062,
+  "tmdb_votes": 1063,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/117488-yellowjackets/watch?locale=US",
   "wikidata_id": "Q106830311",
@@ -214,7 +214,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-28T03:45:27+00:00",
+  "fetched": "2026-10-28T16:48:52+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Mystery",
@@ -255,7 +255,7 @@
   "title": "Wednesday",
   "tmdb": 119051,
   "tmdb_score": 83,
-  "tmdb_votes": 10926,
+  "tmdb_votes": 10927,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/119051-wednesday/watch?locale=US",
   "wikidata_id": "Q105553568",
@@ -273,7 +273,7 @@
   ],
   "end_year": 2022,
   "episodes": 8,
-  "fetched": "2026-10-28T03:45:27+00:00",
+  "fetched": "2026-10-28T16:48:52+00:00",
   "genres": [
    "Drama"
   ],
@@ -301,7 +301,7 @@
   "next_episode": null,
   "original_title": null,
   "overview": "The story of Elizabeth Holmes, the enigmatic Stanford dropout who founded medical testing start-up Theranos. Lauded as a Steve Jobs for the next tech generation and once worth billions of dollars, the myth crumbled when it was revealed that none of the tech actually worked, putting thousands of people's health in grave danger.",
-  "popularity": 18.9,
+  "popularity": 18.1,
   "poster": "https://image.tmdb.org/t/p/w342/9SkOJF92FE0H1UXeOgLz7lAnoMb.jpg",
   "runtime": 53,
   "seasons": 1,
@@ -335,7 +335,7 @@
   ],
   "end_year": null,
   "episodes": 101,
-  "fetched": "2026-10-28T03:45:27+00:00",
+  "fetched": "2026-10-28T16:48:52+00:00",
   "genres": [
    "Comedy"
   ],
@@ -360,7 +360,7 @@
   "next_episode": "2026-10-28",
   "original_title": null,
   "overview": "In this workplace comedy, a group of dedicated, passionate teachers — and a slightly tone-deaf principal — are brought together in a Philadelphia public school where, despite the odds stacked against them, they are determined to help their students succeed in life. Though these incredible public servants may be outnumbered and underfunded, they love what they do — even if they don’t love the school district’s less-than-stellar attitude toward educating children.",
-  "popularity": 64.7,
+  "popularity": 62.6,
   "poster": "https://image.tmdb.org/t/p/w342/zk2aNVIHoapdWKOcaYp7PhX9SxD.jpg",
   "runtime": 22,
   "seasons": 6,
@@ -374,7 +374,7 @@
   "title": "Abbott Elementary",
   "tmdb": 125935,
   "tmdb_score": 75,
-  "tmdb_votes": 347,
+  "tmdb_votes": 348,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/125935-abbott-elementary/watch?locale=US",
   "wikidata_id": "Q107072019",
@@ -395,7 +395,7 @@
   ],
   "end_year": null,
   "episodes": 31,
-  "fetched": "2026-10-28T03:45:27+00:00",
+  "fetched": "2026-10-28T16:48:52+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama"
@@ -421,7 +421,7 @@
   "next_episode": "2027-07-08",
   "original_title": null,
   "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-  "popularity": 124.0,
+  "popularity": 122.3,
   "poster": "https://image.tmdb.org/t/p/w342/r2QXomqKjkKHVtYGGtkf2l2Y7go.jpg",
   "runtime": 61,
   "seasons": 4,
@@ -433,7 +433,7 @@
   "title": "Silo",
   "tmdb": 125988,
   "tmdb_score": 82,
-  "tmdb_votes": 2850,
+  "tmdb_votes": 2851,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/125988-silo/watch?locale=US",
   "wikidata_id": "Q108456738",
@@ -452,7 +452,7 @@
   ],
   "end_year": 2024,
   "episodes": 15,
-  "fetched": "2026-10-28T03:45:27+00:00",
+  "fetched": "2026-10-28T16:48:53+00:00",
   "genres": [
    "Drama",
    "Sci-Fi & Fantasy"
@@ -524,7 +524,7 @@
   ],
   "end_year": 2026,
   "episodes": 46,
-  "fetched": "2026-10-28T03:45:27+00:00",
+  "fetched": "2026-10-28T16:48:53+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -555,7 +555,7 @@
   "next_episode": null,
   "original_title": null,
   "overview": "Carmy, a young fine-dining chef, comes home to Chicago to run his family sandwich shop. As he fights to transform the shop and himself, he works alongside a rough-around-the-edges crew that ultimately reveal themselves as his chosen family.",
-  "popularity": 194.2,
+  "popularity": 66.1,
   "poster": "https://image.tmdb.org/t/p/w342/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
   "runtime": 62,
   "seasons": 5,
@@ -568,7 +568,7 @@
   "title": "The Bear",
   "tmdb": 136315,
   "tmdb_score": 82,
-  "tmdb_votes": 2006,
+  "tmdb_votes": 2008,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/136315-the-bear/watch?locale=US",
   "wikidata_id": "Q112761982",
@@ -586,7 +586,7 @@
   ],
   "end_year": 2024,
   "episodes": 9,
-  "fetched": "2026-10-28T03:45:27+00:00",
+  "fetched": "2026-10-28T16:48:53+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Mystery"
@@ -613,7 +613,7 @@
   "next_episode": null,
   "original_title": null,
   "overview": "Agatha Harkness gathers a coven of witches and sets off down, down, down The Witches' Road.",
-  "popularity": 27.4,
+  "popularity": 27.8,
   "poster": "https://image.tmdb.org/t/p/w342/mGsxKwXUjojitRv2E9qMTbxbBRd.jpg",
   "runtime": 42,
   "seasons": 1,
@@ -624,7 +624,7 @@
   "title": "Agatha All Along",
   "tmdb": 138501,
   "tmdb_score": 74,
-  "tmdb_votes": 1074,
+  "tmdb_votes": 1075,
   "type": "Miniseries",
   "watch_link": "https://www.themoviedb.org/tv/138501-agatha-all-along/watch?locale=US",
   "wikidata_id": "Q108837156",
@@ -644,7 +644,7 @@
   ],
   "end_year": 2017,
   "episodes": 24,
-  "fetched": "2026-10-28T03:45:26+00:00",
+  "fetched": "2026-10-28T16:48:51+00:00",
   "genres": [
    "Crime",
    "Drama",
@@ -676,7 +676,7 @@
   "next_episode": null,
   "original_title": null,
   "overview": "The murder of a young boy in a small coastal town brings a media frenzy, which threatens to tear the community apart.",
-  "popularity": 23.8,
+  "popularity": 20.0,
   "poster": "https://image.tmdb.org/t/p/w342/2NhBFUTg5KVBmGwafxtLwVdsqrr.jpg",
   "runtime": 47,
   "seasons": 3,
@@ -713,7 +713,7 @@
   ],
   "end_year": null,
   "episodes": 18,
-  "fetched": "2026-10-28T03:45:27+00:00",
+  "fetched": "2026-10-28T16:48:53+00:00",
   "genres": [
    "Comedy",
    "Drama"
@@ -744,7 +744,7 @@
   "next_episode": null,
   "original_title": null,
   "overview": "Minor conflicts spiral into consuming feuds between individuals, exposing pride, resentment, and hidden pain.",
-  "popularity": 27.9,
+  "popularity": 26.7,
   "poster": "https://image.tmdb.org/t/p/w342/25ih0Xq2zWbxhhKxwhvswKYQyEr.jpg",
   "runtime": 55,
   "seasons": 2,
@@ -756,7 +756,7 @@
   "title": "BEEF",
   "tmdb": 154385,
   "tmdb_score": 78,
-  "tmdb_votes": 1061,
+  "tmdb_votes": 1063,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/154385-beef/watch?locale=US",
   "wikidata_id": "Q112168983",
@@ -774,7 +774,7 @@
   ],
   "end_year": 2022,
   "episodes": 6,
-  "fetched": "2026-10-28T03:45:27+00:00",
+  "fetched": "2026-10-28T16:48:53+00:00",
   "genres": [
    "Drama",
    "Crime"
@@ -817,7 +817,7 @@
   "title": "Black Bird",
   "tmdb": 155537,
   "tmdb_score": 81,
-  "tmdb_votes": 1107,
+  "tmdb_votes": 1108,
   "type": "Miniseries",
   "watch_link": "https://www.themoviedb.org/tv/155537-black-bird/watch?locale=US",
   "wikidata_id": "Q106911884",
@@ -835,7 +835,7 @@
   ],
   "end_year": 2024,
   "episodes": 8,
-  "fetched": "2026-10-28T03:45:27+00:00",
+  "fetched": "2026-10-28T16:48:53+00:00",
   "genres": [
    "Drama",
    "Crime"
@@ -898,7 +898,7 @@
   ],
   "end_year": null,
   "episodes": 12,
-  "fetched": "2026-10-28T03:45:28+00:00",
+  "fetched": "2026-10-28T16:48:53+00:00",
   "genres": [
    "Comedy",
    "Documentary"
@@ -954,7 +954,7 @@
   ],
   "end_year": 2026,
   "episodes": 8,
-  "fetched": "2026-10-28T03:45:28+00:00",
+  "fetched": "2026-10-28T16:48:53+00:00",
   "genres": [
    "Drama",
    "Mystery",
@@ -998,7 +998,7 @@
   "title": "Spider-Noir",
   "tmdb": 220102,
   "tmdb_score": 83,
-  "tmdb_votes": 917,
+  "tmdb_votes": 919,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/220102-spider-noir/watch?locale=US",
   "wikidata_id": "Q123956515",
@@ -1017,7 +1017,7 @@
   ],
   "end_year": 2026,
   "episodes": 8,
-  "fetched": "2026-10-28T03:45:28+00:00",
+  "fetched": "2026-10-28T16:48:53+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Mystery"
@@ -1038,7 +1038,7 @@
   "next_episode": null,
   "original_title": null,
   "overview": "In a seemingly perfect retirement community, a crew of unlikely heroes must stop an otherworldly threat from stealing the one thing they don't have: time.",
-  "popularity": 17.8,
+  "popularity": 22.3,
   "poster": "https://image.tmdb.org/t/p/w342/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg",
   "runtime": 44,
   "seasons": 1,
@@ -1050,7 +1050,7 @@
   "title": "The Boroughs",
   "tmdb": 224941,
   "tmdb_score": 72,
-  "tmdb_votes": 303,
+  "tmdb_votes": 304,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/224941-the-boroughs/watch?locale=US",
   "wikidata_id": "Q131538168",
@@ -1068,7 +1068,7 @@
   ],
   "end_year": 2023,
   "episodes": 7,
-  "fetched": "2026-10-28T03:45:28+00:00",
+  "fetched": "2026-10-28T16:48:53+00:00",
   "genres": [
    "Documentary"
   ],
@@ -1087,7 +1087,7 @@
   "next_episode": null,
   "original_title": null,
   "overview": "The \"jogo do bicho\" (an illegal lottery of numbers) in Rio de Janeiro is controlled by families whose leaders are also patrons of samba schools. Two of these families are experiencing bloody wars of succession.",
-  "popularity": 2.4,
+  "popularity": 2.5,
   "poster": "https://image.tmdb.org/t/p/w342/qtlckAfiU6OLGTfSCTmtBoNxh1g.jpg",
   "runtime": 49,
   "seasons": 1,
@@ -1117,7 +1117,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-28T03:45:28+00:00",
+  "fetched": "2026-10-28T16:48:53+00:00",
   "genres": [
    "Comedy"
   ],
@@ -1134,7 +1134,7 @@
   "next_episode": null,
   "original_title": null,
   "overview": "The decades-long friendship between three married couples is tested when one divorces, complicating their tradition of quarterly weekend getaways.",
-  "popularity": 15.7,
+  "popularity": 15.0,
   "poster": "https://image.tmdb.org/t/p/w342/w09XeYl096pwES8riRMZwEA9rnh.jpg",
   "runtime": 35,
   "seasons": 2,
@@ -1146,7 +1146,7 @@
   "title": "The Four Seasons",
   "tmdb": 243316,
   "tmdb_score": 69,
-  "tmdb_votes": 197,
+  "tmdb_votes": 198,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/243316-the-four-seasons/watch?locale=US",
   "wikidata_id": "Q131384557",
@@ -1164,7 +1164,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-10-28T03:45:28+00:00",
+  "fetched": "2026-10-28T16:48:53+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -1217,7 +1217,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-10-28T03:45:28+00:00",
+  "fetched": "2026-10-28T16:48:53+00:00",
   "genres": [
    "Crime",
    "Drama"
@@ -1242,7 +1242,7 @@
   "next_episode": null,
   "original_title": null,
   "overview": "The tranquility in a serene, wealthy community inhabited by some of the world's most prominent individuals explodes when a shocking murder occurs and a high stakes investigation unfolds.",
-  "popularity": 37.2,
+  "popularity": 33.2,
   "poster": "https://image.tmdb.org/t/p/w342/l8RqfhqEk04W5sSOjQ9zeWU1DyM.jpg",
   "runtime": 53,
   "seasons": 2,
@@ -1271,7 +1271,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-10-28T03:45:28+00:00",
+  "fetched": "2026-10-28T16:48:53+00:00",
   "genres": [
    "Drama",
    "Mystery"
@@ -1313,7 +1313,7 @@
   "title": "The Beast in Me",
   "tmdb": 250504,
   "tmdb_score": 71,
-  "tmdb_votes": 330,
+  "tmdb_votes": 331,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/250504-the-beast-in-me/watch?locale=US",
   "wikidata_id": "Q130342708",
@@ -1333,7 +1333,7 @@
   ],
   "end_year": null,
   "episodes": 20,
-  "fetched": "2026-10-28T03:45:28+00:00",
+  "fetched": "2026-10-28T16:48:53+00:00",
   "genres": [
    "Comedy"
   ],
@@ -1383,7 +1383,7 @@
   "creators": [],
   "end_year": 2026,
   "episodes": 6,
-  "fetched": "2026-10-28T03:45:28+00:00",
+  "fetched": "2026-10-28T16:48:53+00:00",
   "genres": [
    "Crime",
    "Drama",
@@ -1405,7 +1405,7 @@
   "next_episode": null,
   "original_title": null,
   "overview": "When emergency dispatcher Ian Ridley receives a frantic call from a teenager he believes could be his long-missing daughter, he stops at nothing to find her.",
-  "popularity": 21.7,
+  "popularity": 20.6,
   "poster": "https://image.tmdb.org/t/p/w342/vozJZjHv0Yyv4PjoOxF5tVMUGFI.jpg",
   "runtime": 52,
   "seasons": 1,
@@ -1437,7 +1437,7 @@
   ],
   "end_year": null,
   "episodes": 17,
-  "fetched": "2026-10-28T03:45:28+00:00",
+  "fetched": "2026-10-28T16:48:53+00:00",
   "genres": [
    "Comedy"
   ],
@@ -1456,7 +1456,7 @@
   "next_episode": null,
   "original_title": null,
   "overview": "A group of twenty-somethings in New York trying to be good people, despite being neither \"good\" nor \"people\" yet.",
-  "popularity": 24.3,
+  "popularity": 23.9,
   "poster": "https://image.tmdb.org/t/p/w342/h8GrwttOjjQEoQJ72W9ugkyIVaB.jpg",
   "runtime": 27,
   "seasons": 2,
@@ -1488,7 +1488,7 @@
   ],
   "end_year": 2025,
   "episodes": 8,
-  "fetched": "2026-10-28T03:45:28+00:00",
+  "fetched": "2026-10-28T16:48:54+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -1540,7 +1540,7 @@
   ],
   "end_year": null,
   "episodes": 10,
-  "fetched": "2026-10-28T03:45:28+00:00",
+  "fetched": "2026-10-28T16:48:54+00:00",
   "genres": [
    "Comedy"
   ],
@@ -1563,7 +1563,7 @@
   "next_episode": null,
   "original_title": null,
   "overview": "A newly divorced mom falls down a dangerous rabbit hole of blackmail, murder, and youth soccer.",
-  "popularity": 13.5,
+  "popularity": 15.0,
   "poster": "https://image.tmdb.org/t/p/w342/oeD9rnfk7AohNiJTRoCx4SOKhXj.jpg",
   "runtime": 38,
   "seasons": 1,
@@ -1575,7 +1575,7 @@
   "title": "Maximum Pleasure Guaranteed",
   "tmdb": 285404,
   "tmdb_score": 68,
-  "tmdb_votes": 90,
+  "tmdb_votes": 91,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/285404-maximum-pleasure-guaranteed/watch?locale=US",
   "wikidata_id": "Q132852828",
@@ -1593,7 +1593,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-10-28T03:45:29+00:00",
+  "fetched": "2026-10-28T16:48:54+00:00",
   "genres": [
    "Drama",
    "Crime"
@@ -1613,7 +1613,7 @@
   "next_episode": null,
   "original_title": null,
   "overview": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
-  "popularity": 19.3,
+  "popularity": 20.1,
   "poster": "https://image.tmdb.org/t/p/w342/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
   "runtime": 46,
   "seasons": 1,
@@ -1625,7 +1625,7 @@
   "title": "Furious",
   "tmdb": 287238,
   "tmdb_score": 75,
-  "tmdb_votes": 166,
+  "tmdb_votes": 168,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/287238-furious/watch?locale=US",
   "wikidata_id": "Q140517950",
@@ -1644,7 +1644,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-10-28T03:45:29+00:00",
+  "fetched": "2026-10-28T16:48:54+00:00",
   "genres": [
    "Mystery",
    "Drama",
@@ -1676,7 +1676,7 @@
   "next_episode": null,
   "original_title": null,
   "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
-  "popularity": 137.1,
+  "popularity": 138.8,
   "poster": "https://image.tmdb.org/t/p/w342/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
   "runtime": 49,
   "seasons": 2,
@@ -1688,7 +1688,7 @@
   "title": "Carrie",
   "tmdb": 288673,
   "tmdb_score": 83,
-  "tmdb_votes": 485,
+  "tmdb_votes": 490,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/288673-carrie/watch?locale=US",
   "wikidata_id": "Q133852728",
@@ -1707,7 +1707,7 @@
   ],
   "end_year": null,
   "episodes": 10,
-  "fetched": "2026-10-28T03:45:29+00:00",
+  "fetched": "2026-10-28T16:48:54+00:00",
   "genres": [
    "Comedy"
   ],
@@ -1727,7 +1727,7 @@
   "next_episode": "2026-11-23",
   "original_title": null,
   "overview": "Follow four women who work at an archeological dig in Greece. When the team uncovers a long-buried secret with the potential to rewrite history, they find themselves at the center of a high-stakes international conspiracy.",
-  "popularity": 4.9,
+  "popularity": 6.6,
   "poster": "https://image.tmdb.org/t/p/w342/aJXgEVa3ZnTtc3gYyNUfNuXP6mF.jpg",
   "runtime": null,
   "seasons": 1,
@@ -1754,7 +1754,7 @@
   ],
   "end_year": 2026,
   "episodes": 5,
-  "fetched": "2026-10-28T03:45:29+00:00",
+  "fetched": "2026-10-28T16:48:54+00:00",
   "genres": [
    "Documentary"
   ],
@@ -1804,7 +1804,7 @@
   ],
   "end_year": 2014,
   "episodes": 52,
-  "fetched": "2026-10-28T03:45:26+00:00",
+  "fetched": "2026-10-28T16:48:51+00:00",
   "genres": [
    "Animation",
    "Action & Adventure",
@@ -1835,7 +1835,7 @@
   "next_episode": null,
   "original_title": null,
   "overview": "Avatar Korra, a headstrong, rebellious, feisty young woman who continually challenges and breaks with tradition, is on her quest to become a fully realized Avatar. In this story, the Avatar struggles to find balance within herself.",
-  "popularity": 72.2,
+  "popularity": 74.6,
   "poster": "https://image.tmdb.org/t/p/w342/dZgYvSfuh1YHDrJuILlVQ5oA2hF.jpg",
   "runtime": 23,
   "seasons": 4,
@@ -1878,7 +1878,7 @@
   ],
   "end_year": 2018,
   "episodes": 218,
-  "fetched": "2026-10-28T03:45:26+00:00",
+  "fetched": "2026-10-28T16:48:51+00:00",
   "genres": [
    "Mystery",
    "Sci-Fi & Fantasy",
@@ -1920,7 +1920,7 @@
   "title": "The X-Files",
   "tmdb": 4087,
   "tmdb_score": 84,
-  "tmdb_votes": 3764,
+  "tmdb_votes": 3765,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/4087-the-x-files/watch?locale=US",
   "wikidata_id": "Q2744",
@@ -1944,7 +1944,7 @@
   ],
   "end_year": null,
   "episodes": 33,
-  "fetched": "2026-10-28T03:45:26+00:00",
+  "fetched": "2026-10-28T16:48:51+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama",
@@ -2012,7 +2012,7 @@
   ],
   "end_year": 2017,
   "episodes": 62,
-  "fetched": "2026-10-28T03:45:26+00:00",
+  "fetched": "2026-10-28T16:48:52+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -2043,7 +2043,7 @@
   "next_episode": null,
   "original_title": null,
   "overview": "The assorted humiliations, disasters and rare triumphs of four very different twenty-something girls: Hannah, an aspiring writer; Marnie, an art gallery assistant and cousins Jessa and Shoshanna.",
-  "popularity": 34.3,
+  "popularity": 35.0,
   "poster": "https://image.tmdb.org/t/p/w342/ikyT3hnELofnYRsPIqVGgUhDbOT.jpg",
   "runtime": 28,
   "seasons": 6,
@@ -2076,7 +2076,7 @@
   ],
   "end_year": 2017,
   "episodes": 31,
-  "fetched": "2026-10-28T03:45:26+00:00",
+  "fetched": "2026-10-28T16:48:52+00:00",
   "genres": [
    "Comedy",
    "Documentary"
@@ -2108,7 +2108,7 @@
   "original_title": null,
   "overview": "Nathan Fielder uses his business degree and life experiences to help real small businesses turn a profit.",
   "popularity": 15.3,
-  "poster": "https://image.tmdb.org/t/p/w342/6tGXlz61c44onUg6EdRkbhjcaPA.jpg",
+  "poster": "https://image.tmdb.org/t/p/w342/nuyeyn2ZY5UOvklQinHsQnhs1QN.jpg",
   "runtime": 21,
   "seasons": 4,
   "status": "Ended",
@@ -2148,7 +2148,7 @@
   ],
   "end_year": 2022,
   "episodes": 63,
-  "fetched": "2026-10-28T03:45:26+00:00",
+  "fetched": "2026-10-28T16:48:52+00:00",
   "genres": [
    "Crime",
    "Drama"
@@ -2191,7 +2191,7 @@
   "title": "Better Call Saul",
   "tmdb": 60059,
   "tmdb_score": 87,
-  "tmdb_votes": 7034,
+  "tmdb_votes": 7035,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/60059-better-call-saul/watch?locale=US",
   "wikidata_id": "Q14925221",
@@ -2218,7 +2218,7 @@
   ],
   "end_year": 2026,
   "episodes": 164,
-  "fetched": "2026-10-28T03:45:26+00:00",
+  "fetched": "2026-10-28T16:48:51+00:00",
   "genres": [
    "Animation",
    "Comedy",
@@ -2290,7 +2290,7 @@
   ],
   "end_year": 2023,
   "episodes": 60,
-  "fetched": "2026-10-28T03:45:26+00:00",
+  "fetched": "2026-10-28T16:48:52+00:00",
   "genres": [
    "Drama"
   ],
@@ -2320,7 +2320,7 @@
   "next_episode": null,
   "original_title": null,
   "overview": "The gripping, decades-spanning inside story of Her Majesty Queen Elizabeth II and the Prime Ministers who shaped Britain's post-war destiny. \n\nThe Crown tells the inside story of two of the most famous addresses in the world – Buckingham Palace and 10 Downing Street – and the intrigues, love lives and machinations behind the great events that shaped the second half of the 20th century. Two houses, two courts, one Crown.",
-  "popularity": 3093.7,
+  "popularity": 5625.7,
   "poster": "https://image.tmdb.org/t/p/w342/1M876KPjulVwppEpldhdc8V4o68.jpg",
   "runtime": 73,
   "seasons": 6,
@@ -2332,7 +2332,7 @@
   "title": "The Crown",
   "tmdb": 65494,
   "tmdb_score": 82,
-  "tmdb_votes": 2462,
+  "tmdb_votes": 2463,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/65494-the-crown/watch?locale=US",
   "wikidata_id": "Q20707362",
@@ -2354,7 +2354,7 @@
   ],
   "end_year": 2022,
   "episodes": 44,
-  "fetched": "2026-10-28T03:45:26+00:00",
+  "fetched": "2026-10-28T16:48:52+00:00",
   "genres": [
    "Crime",
    "Drama"
@@ -2394,7 +2394,7 @@
   "title": "Ozark",
   "tmdb": 69740,
   "tmdb_score": 82,
-  "tmdb_votes": 2973,
+  "tmdb_votes": 2974,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/69740-ozark/watch?locale=US",
   "wikidata_id": "Q25205293",
@@ -2415,7 +2415,7 @@
   ],
   "end_year": 2023,
   "episodes": 39,
-  "fetched": "2026-10-28T03:45:26+00:00",
+  "fetched": "2026-10-28T16:48:52+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -2446,7 +2446,7 @@
   "next_episode": null,
   "original_title": null,
   "overview": "Follow the lives of the Roy family as they contemplate their future once their aging father begins to step back from the media and entertainment conglomerate they control.",
-  "popularity": 59.5,
+  "popularity": 53.9,
   "poster": "https://image.tmdb.org/t/p/w342/z0XiwdrCQ9yVIr4O0pxzaAYRxdW.jpg",
   "runtime": 89,
   "seasons": 4,
@@ -2458,7 +2458,7 @@
   "title": "Succession",
   "tmdb": 76331,
   "tmdb_score": 83,
-  "tmdb_votes": 1829,
+  "tmdb_votes": 1830,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/76331-succession/watch?locale=US",
   "wikidata_id": "Q30599007",
@@ -2477,7 +2477,7 @@
   ],
   "end_year": null,
   "episodes": 15,
-  "fetched": "2026-10-28T03:45:26+00:00",
+  "fetched": "2026-10-28T16:48:52+00:00",
   "genres": [
    "Action & Adventure",
    "Sci-Fi & Fantasy",
@@ -2504,7 +2504,7 @@
   "next_episode": null,
   "original_title": null,
   "overview": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enemy bent on stopping him.",
-  "popularity": 55.9,
+  "popularity": 54.0,
   "poster": "https://image.tmdb.org/t/p/w342/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
   "runtime": 69,
   "seasons": 2,
@@ -2534,7 +2534,7 @@
   ],
   "end_year": 2022,
   "episodes": 8,
-  "fetched": "2026-10-28T03:45:26+00:00",
+  "fetched": "2026-10-28T16:48:52+00:00",
   "genres": [
    "Drama",
    "Mystery",
@@ -2592,7 +2592,7 @@
   ],
   "end_year": null,
   "episodes": 30,
-  "fetched": "2026-10-28T03:45:26+00:00",
+  "fetched": "2026-10-28T16:48:52+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama"
@@ -2650,7 +2650,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-10-28T03:45:26+00:00",
+  "fetched": "2026-10-28T16:48:52+00:00",
   "genres": [
    "Drama",
    "Mystery",
@@ -2682,7 +2682,7 @@
   "next_episode": null,
   "original_title": null,
   "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-  "popularity": 70.3,
+  "popularity": 69.1,
   "poster": "https://image.tmdb.org/t/p/w342/rb94rKVIzLyfWufIN7WqLvadBDH.jpg",
   "runtime": 57,
   "seasons": 1,
@@ -2694,7 +2694,7 @@
   "title": "Lanterns",
   "tmdb": 95350,
   "tmdb_score": 82,
-  "tmdb_votes": 823,
+  "tmdb_votes": 826,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=US",
   "wikidata_id": "Q110556821",
@@ -2712,7 +2712,7 @@
   ],
   "end_year": 2022,
   "episodes": 9,
-  "fetched": "2026-10-28T03:45:27+00:00",
+  "fetched": "2026-10-28T16:48:52+00:00",
   "genres": [
    "Drama"
   ],
@@ -2769,7 +2769,7 @@
   ],
   "end_year": null,
   "episodes": 44,
-  "fetched": "2026-10-28T03:45:27+00:00",
+  "fetched": "2026-10-28T16:48:52+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -2800,7 +2800,7 @@
   "next_episode": null,
   "original_title": null,
   "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-  "popularity": 143.9,
+  "popularity": 139.4,
   "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
   "runtime": 56,
   "seasons": 4,
@@ -2812,7 +2812,7 @@
   "title": "Ted Lasso",
   "tmdb": 97546,
   "tmdb_score": 84,
-  "tmdb_votes": 2800,
+  "tmdb_votes": 2801,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=US",
   "wikidata_id": "Q96407897",
