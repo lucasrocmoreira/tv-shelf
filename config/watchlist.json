@@ -422,6 +422,15 @@
    "added": "2026-10-27",
    "interest": 0,
    "watched": null
+  },
+  "tmdb:60572": {
+   "tmdb": 60572,
+   "title": "Pokémon",
+   "year": 1997,
+   "poster": "https://image.tmdb.org/t/p/w342/lP4zwr0F7hWTbAFltfoFTc2AxRG.jpg",
+   "added": "2026-11-01",
+   "interest": 0,
+   "watched": null
   }
  }
 }
