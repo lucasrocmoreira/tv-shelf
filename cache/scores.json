@@ -23,6 +23,14 @@
   "rt_path": "tv/futurama",
   "v": 1
  },
+ "tt0168366": {
+  "checked": "2026-11-01T22:30:38+00:00",
+  "rt_audience": 78,
+  "rt_critics": 78,
+  "rt_guessed": false,
+  "rt_path": "tv/pokemon_the_series",
+  "v": 1
+ },
  "tt0804484": {
   "checked": "2026-10-28T16:49:28+00:00",
   "mc_guessed": false,
