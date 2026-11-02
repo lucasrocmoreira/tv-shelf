@@ -431,6 +431,15 @@
    "added": "2026-11-01",
    "interest": 0,
    "watched": null
+  },
+  "tmdb:258165": {
+   "tmdb": 258165,
+   "title": "East of Eden",
+   "year": 2026,
+   "poster": "https://image.tmdb.org/t/p/w342/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+   "added": "2026-11-01",
+   "interest": 0,
+   "watched": null
   }
  }
 }
