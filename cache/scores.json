@@ -243,6 +243,18 @@
   "rt_path": "tv/black_mirror",
   "v": 1
  },
+ "tt21097264": {
+  "checked": "2026-11-02T01:07:52+00:00",
+  "mc_guessed": false,
+  "mc_path": "tv/east-of-eden-2026",
+  "metacritic": 80,
+  "metacritic_user": 7.5,
+  "rt_audience": 86,
+  "rt_critics": 88,
+  "rt_guessed": false,
+  "rt_path": "tv/east_of_eden_2026",
+  "v": 1
+ },
  "tt2249364": {
   "checked": "2026-10-07T05:47:17+00:00",
   "mc_guessed": false,

@@ -14,7 +14,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-11-01T22:30:33+00:00",
+  "fetched": "2026-11-02T01:07:48+00:00",
   "genres": [
    "Action & Adventure",
    "Sci-Fi & Fantasy",
@@ -78,7 +78,7 @@
   ],
   "end_year": 2024,
   "episodes": 10,
-  "fetched": "2026-11-01T22:30:33+00:00",
+  "fetched": "2026-11-02T01:07:48+00:00",
   "genres": [
    "Comedy",
    "Drama"
@@ -144,7 +144,7 @@
   ],
   "end_year": null,
   "episodes": 39,
-  "fetched": "2026-11-01T22:30:33+00:00",
+  "fetched": "2026-11-02T01:07:48+00:00",
   "genres": [
    "Drama",
    "Mystery"
@@ -214,7 +214,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-11-01T22:30:33+00:00",
+  "fetched": "2026-11-02T01:07:48+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Mystery",
@@ -273,7 +273,7 @@
   ],
   "end_year": 2022,
   "episodes": 8,
-  "fetched": "2026-11-01T22:30:33+00:00",
+  "fetched": "2026-11-02T01:07:48+00:00",
   "genres": [
    "Drama"
   ],
@@ -335,7 +335,7 @@
   ],
   "end_year": null,
   "episodes": 101,
-  "fetched": "2026-11-01T22:30:33+00:00",
+  "fetched": "2026-11-02T01:07:48+00:00",
   "genres": [
    "Comedy"
   ],
@@ -395,7 +395,7 @@
   ],
   "end_year": null,
   "episodes": 31,
-  "fetched": "2026-11-01T22:30:33+00:00",
+  "fetched": "2026-11-02T01:07:49+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama"
@@ -421,7 +421,7 @@
   "next_episode": "2027-07-08",
   "original_title": null,
   "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-  "popularity": 112.0,
+  "popularity": 105.8,
   "poster": "https://image.tmdb.org/t/p/w342/r2QXomqKjkKHVtYGGtkf2l2Y7go.jpg",
   "runtime": 61,
   "seasons": 4,
@@ -433,7 +433,7 @@
   "title": "Silo",
   "tmdb": 125988,
   "tmdb_score": 82,
-  "tmdb_votes": 2873,
+  "tmdb_votes": 2874,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/125988-silo/watch?locale=US",
   "wikidata_id": "Q108456738",
@@ -452,7 +452,7 @@
   ],
   "end_year": 2024,
   "episodes": 15,
-  "fetched": "2026-11-01T22:30:33+00:00",
+  "fetched": "2026-11-02T01:07:49+00:00",
   "genres": [
    "Drama",
    "Sci-Fi & Fantasy"
@@ -524,7 +524,7 @@
   ],
   "end_year": 2026,
   "episodes": 46,
-  "fetched": "2026-11-01T22:30:33+00:00",
+  "fetched": "2026-11-02T01:07:49+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -586,7 +586,7 @@
   ],
   "end_year": 2024,
   "episodes": 9,
-  "fetched": "2026-11-01T22:30:34+00:00",
+  "fetched": "2026-11-02T01:07:49+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Mystery"
@@ -624,7 +624,7 @@
   "title": "Agatha All Along",
   "tmdb": 138501,
   "tmdb_score": 74,
-  "tmdb_votes": 1081,
+  "tmdb_votes": 1082,
   "type": "Miniseries",
   "watch_link": "https://www.themoviedb.org/tv/138501-agatha-all-along/watch?locale=US",
   "wikidata_id": "Q108837156",
@@ -644,7 +644,7 @@
   ],
   "end_year": 2017,
   "episodes": 24,
-  "fetched": "2026-11-01T22:30:31+00:00",
+  "fetched": "2026-11-02T01:07:47+00:00",
   "genres": [
    "Crime",
    "Drama",
@@ -713,7 +713,7 @@
   ],
   "end_year": null,
   "episodes": 18,
-  "fetched": "2026-11-01T22:30:34+00:00",
+  "fetched": "2026-11-02T01:07:49+00:00",
   "genres": [
    "Comedy",
    "Drama"
@@ -774,7 +774,7 @@
   ],
   "end_year": 2022,
   "episodes": 6,
-  "fetched": "2026-11-01T22:30:34+00:00",
+  "fetched": "2026-11-02T01:07:49+00:00",
   "genres": [
    "Drama",
    "Crime"
@@ -835,7 +835,7 @@
   ],
   "end_year": 2024,
   "episodes": 8,
-  "fetched": "2026-11-01T22:30:34+00:00",
+  "fetched": "2026-11-02T01:07:49+00:00",
   "genres": [
    "Drama",
    "Crime"
@@ -898,7 +898,7 @@
   ],
   "end_year": null,
   "episodes": 12,
-  "fetched": "2026-11-01T22:30:34+00:00",
+  "fetched": "2026-11-02T01:07:49+00:00",
   "genres": [
    "Comedy",
    "Documentary"
@@ -954,7 +954,7 @@
   ],
   "end_year": 2026,
   "episodes": 8,
-  "fetched": "2026-11-01T22:30:34+00:00",
+  "fetched": "2026-11-02T01:07:49+00:00",
   "genres": [
    "Drama",
    "Mystery",
@@ -1017,7 +1017,7 @@
   ],
   "end_year": 2026,
   "episodes": 8,
-  "fetched": "2026-11-01T22:30:34+00:00",
+  "fetched": "2026-11-02T01:07:49+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Mystery"
@@ -1068,7 +1068,7 @@
   ],
   "end_year": 2023,
   "episodes": 7,
-  "fetched": "2026-11-01T22:30:34+00:00",
+  "fetched": "2026-11-02T01:07:49+00:00",
   "genres": [
    "Documentary"
   ],
@@ -1117,7 +1117,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-11-01T22:30:34+00:00",
+  "fetched": "2026-11-02T01:07:49+00:00",
   "genres": [
    "Comedy"
   ],
@@ -1164,7 +1164,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-11-01T22:30:35+00:00",
+  "fetched": "2026-11-02T01:07:49+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -1217,7 +1217,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-11-01T22:30:35+00:00",
+  "fetched": "2026-11-02T01:07:49+00:00",
   "genres": [
    "Crime",
    "Drama"
@@ -1271,7 +1271,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-11-01T22:30:35+00:00",
+  "fetched": "2026-11-02T01:07:49+00:00",
   "genres": [
    "Drama",
    "Mystery"
@@ -1333,7 +1333,7 @@
   ],
   "end_year": null,
   "episodes": 20,
-  "fetched": "2026-11-01T22:30:35+00:00",
+  "fetched": "2026-11-02T01:07:49+00:00",
   "genres": [
    "Comedy"
   ],
@@ -1373,6 +1373,66 @@
   "wikidata_id": "Q125893974",
   "year": 2025
  },
+ "258165": {
+  "air_years": [
+   2026
+  ],
+  "countries": [
+   "US"
+  ],
+  "creators": [
+   "Zoe Kazan"
+  ],
+  "end_year": 2026,
+  "episodes": 7,
+  "fetched": "2026-11-02T01:07:50+00:00",
+  "genres": [
+   "Drama"
+  ],
+  "hours": 8,
+  "imdb_id": "tt21097264",
+  "keywords": [
+   "california",
+   "based on novel or book",
+   "dysfunctional family",
+   "sibling rivalry",
+   "miniseries",
+   "period drama",
+   "american civil war",
+   "social issues",
+   "19th century",
+   "family saga",
+   "1900s",
+   "cain & abel",
+   "1860s",
+   "20th century",
+   "period piece"
+  ],
+  "language": "en",
+  "networks": [
+   "Netflix"
+  ],
+  "next_episode": null,
+  "original_title": null,
+  "overview": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
+  "popularity": 40.6,
+  "poster": "https://image.tmdb.org/t/p/w342/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+  "runtime": 68,
+  "seasons": 1,
+  "status": "Ended",
+  "streaming": [
+   "Netflix",
+   "Netflix Standard with Ads"
+  ],
+  "title": "East of Eden",
+  "tmdb": 258165,
+  "tmdb_score": 80,
+  "tmdb_votes": 131,
+  "type": "Miniseries",
+  "watch_link": "https://www.themoviedb.org/tv/258165-east-of-eden/watch?locale=US",
+  "wikidata_id": "Q130633026",
+  "year": 2026
+ },
  "258230": {
   "air_years": [
    2026
@@ -1383,7 +1443,7 @@
   "creators": [],
   "end_year": 2026,
   "episodes": 6,
-  "fetched": "2026-11-01T22:30:35+00:00",
+  "fetched": "2026-11-02T01:07:50+00:00",
   "genres": [
    "Crime",
    "Drama",
@@ -1437,7 +1497,7 @@
   ],
   "end_year": null,
   "episodes": 17,
-  "fetched": "2026-11-01T22:30:35+00:00",
+  "fetched": "2026-11-02T01:07:50+00:00",
   "genres": [
    "Comedy"
   ],
@@ -1488,7 +1548,7 @@
   ],
   "end_year": 2025,
   "episodes": 8,
-  "fetched": "2026-11-01T22:30:35+00:00",
+  "fetched": "2026-11-02T01:07:50+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -1540,7 +1600,7 @@
   ],
   "end_year": null,
   "episodes": 10,
-  "fetched": "2026-11-01T22:30:35+00:00",
+  "fetched": "2026-11-02T01:07:50+00:00",
   "genres": [
    "Comedy"
   ],
@@ -1593,7 +1653,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-11-01T22:30:35+00:00",
+  "fetched": "2026-11-02T01:07:50+00:00",
   "genres": [
    "Drama",
    "Crime"
@@ -1644,7 +1704,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-11-01T22:30:35+00:00",
+  "fetched": "2026-11-02T01:07:50+00:00",
   "genres": [
    "Mystery",
    "Drama",
@@ -1707,7 +1767,7 @@
   ],
   "end_year": null,
   "episodes": 10,
-  "fetched": "2026-11-01T22:30:36+00:00",
+  "fetched": "2026-11-02T01:07:50+00:00",
   "genres": [
    "Comedy"
   ],
@@ -1754,7 +1814,7 @@
   ],
   "end_year": 2026,
   "episodes": 5,
-  "fetched": "2026-11-01T22:30:36+00:00",
+  "fetched": "2026-11-02T01:07:50+00:00",
   "genres": [
    "Documentary"
   ],
@@ -1804,7 +1864,7 @@
   ],
   "end_year": 2014,
   "episodes": 52,
-  "fetched": "2026-11-01T22:30:31+00:00",
+  "fetched": "2026-11-02T01:07:47+00:00",
   "genres": [
    "Animation",
    "Action & Adventure",
@@ -1878,7 +1938,7 @@
   ],
   "end_year": 2018,
   "episodes": 218,
-  "fetched": "2026-11-01T22:30:31+00:00",
+  "fetched": "2026-11-02T01:07:47+00:00",
   "genres": [
    "Mystery",
    "Sci-Fi & Fantasy",
@@ -1944,7 +2004,7 @@
   ],
   "end_year": null,
   "episodes": 33,
-  "fetched": "2026-11-01T22:30:31+00:00",
+  "fetched": "2026-11-02T01:07:47+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama",
@@ -2012,7 +2072,7 @@
   ],
   "end_year": 2017,
   "episodes": 62,
-  "fetched": "2026-11-01T22:30:31+00:00",
+  "fetched": "2026-11-02T01:07:47+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -2076,7 +2136,7 @@
   ],
   "end_year": 2017,
   "episodes": 31,
-  "fetched": "2026-11-01T22:30:32+00:00",
+  "fetched": "2026-11-02T01:07:47+00:00",
   "genres": [
    "Comedy",
    "Documentary"
@@ -2148,7 +2208,7 @@
   ],
   "end_year": 2022,
   "episodes": 63,
-  "fetched": "2026-11-01T22:30:32+00:00",
+  "fetched": "2026-11-02T01:07:47+00:00",
   "genres": [
    "Crime",
    "Drama"
@@ -2230,7 +2290,7 @@
   "creators": [],
   "end_year": 2023,
   "episodes": 1235,
-  "fetched": "2026-11-01T22:30:32+00:00",
+  "fetched": "2026-11-02T01:07:48+00:00",
   "genres": [
    "Animation",
    "Action & Adventure",
@@ -2302,7 +2362,7 @@
   ],
   "end_year": 2026,
   "episodes": 164,
-  "fetched": "2026-11-01T22:30:31+00:00",
+  "fetched": "2026-11-02T01:07:47+00:00",
   "genres": [
    "Animation",
    "Comedy",
@@ -2374,7 +2434,7 @@
   ],
   "end_year": 2023,
   "episodes": 60,
-  "fetched": "2026-11-01T22:30:32+00:00",
+  "fetched": "2026-11-02T01:07:48+00:00",
   "genres": [
    "Drama"
   ],
@@ -2416,7 +2476,7 @@
   "title": "The Crown",
   "tmdb": 65494,
   "tmdb_score": 82,
-  "tmdb_votes": 2471,
+  "tmdb_votes": 2472,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/65494-the-crown/watch?locale=US",
   "wikidata_id": "Q20707362",
@@ -2438,7 +2498,7 @@
   ],
   "end_year": 2022,
   "episodes": 44,
-  "fetched": "2026-11-01T22:30:32+00:00",
+  "fetched": "2026-11-02T01:07:48+00:00",
   "genres": [
    "Crime",
    "Drama"
@@ -2499,7 +2559,7 @@
   ],
   "end_year": 2023,
   "episodes": 39,
-  "fetched": "2026-11-01T22:30:32+00:00",
+  "fetched": "2026-11-02T01:07:48+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -2561,7 +2621,7 @@
   ],
   "end_year": null,
   "episodes": 15,
-  "fetched": "2026-11-01T22:30:32+00:00",
+  "fetched": "2026-11-02T01:07:48+00:00",
   "genres": [
    "Action & Adventure",
    "Sci-Fi & Fantasy",
@@ -2588,7 +2648,7 @@
   "next_episode": null,
   "original_title": null,
   "overview": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enemy bent on stopping him.",
-  "popularity": 44.5,
+  "popularity": 44.7,
   "poster": "https://image.tmdb.org/t/p/w342/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
   "runtime": 69,
   "seasons": 2,
@@ -2600,7 +2660,7 @@
   "title": "Avatar: The Last Airbender",
   "tmdb": 82452,
   "tmdb_score": 78,
-  "tmdb_votes": 1402,
+  "tmdb_votes": 1404,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/82452-avatar-the-last-airbender/watch?locale=US",
   "wikidata_id": "Q109608844",
@@ -2618,7 +2678,7 @@
   ],
   "end_year": 2022,
   "episodes": 8,
-  "fetched": "2026-11-01T22:30:32+00:00",
+  "fetched": "2026-11-02T01:07:48+00:00",
   "genres": [
    "Drama",
    "Mystery",
@@ -2676,7 +2736,7 @@
   ],
   "end_year": null,
   "episodes": 30,
-  "fetched": "2026-11-01T22:30:32+00:00",
+  "fetched": "2026-11-02T01:07:48+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama"
@@ -2702,7 +2762,7 @@
   "next_episode": null,
   "original_title": null,
   "overview": "Follow a band of exiles on their monumental journey to save humanity and rebuild civilization amid the fall of the Galactic Empire.",
-  "popularity": 46.4,
+  "popularity": 46.0,
   "poster": "https://image.tmdb.org/t/p/w342/tg9I5pOY4M9CKj8U0cxVBTsm5eh.jpg",
   "runtime": 52,
   "seasons": 3,
@@ -2734,7 +2794,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-11-01T22:30:32+00:00",
+  "fetched": "2026-11-02T01:07:48+00:00",
   "genres": [
    "Drama",
    "Mystery",
@@ -2796,7 +2856,7 @@
   ],
   "end_year": 2022,
   "episodes": 9,
-  "fetched": "2026-11-01T22:30:32+00:00",
+  "fetched": "2026-11-02T01:07:48+00:00",
   "genres": [
    "Drama"
   ],
@@ -2853,7 +2913,7 @@
   ],
   "end_year": null,
   "episodes": 44,
-  "fetched": "2026-11-01T22:30:33+00:00",
+  "fetched": "2026-11-02T01:07:48+00:00",
   "genres": [
    "Drama",
    "Comedy"
