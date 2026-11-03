@@ -471,6 +471,18 @@
   "rt_path": "tv/black_bird",
   "v": 1
  },
+ "tt4406178": {
+  "checked": "2026-11-03T04:27:03+00:00",
+  "mc_guessed": false,
+  "mc_path": "tv/the-gilded-age",
+  "metacritic": 72,
+  "metacritic_user": 6.3,
+  "rt_audience": 70,
+  "rt_critics": 92,
+  "rt_guessed": false,
+  "rt_path": "tv/the_gilded_age",
+  "v": 1
+ },
  "tt4786824": {
   "checked": "2026-10-07T05:47:18+00:00",
   "mc_guessed": false,
