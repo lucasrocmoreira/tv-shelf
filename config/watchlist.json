@@ -440,6 +440,15 @@
    "added": "2026-11-01",
    "interest": 0,
    "watched": null
+  },
+  "tmdb:81723": {
+   "tmdb": 81723,
+   "title": "The Gilded Age",
+   "year": 2022,
+   "poster": "https://image.tmdb.org/t/p/w342/tdsuFe0JVLqjxfptElRA9YFJcUE.jpg",
+   "added": "2026-11-02",
+   "interest": 0,
+   "watched": null
   }
  }
 }
