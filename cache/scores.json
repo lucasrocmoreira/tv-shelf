@@ -380,12 +380,12 @@
   "v": 1
  },
  "tt32159809": {
-  "checked": "2026-10-29T17:03:49+00:00",
+  "checked": "2026-11-05T18:15:40+00:00",
   "mc_guessed": false,
   "mc_path": "tv/the-paper-2025",
   "metacritic": 67,
   "metacritic_user": 6.1,
-  "rt_audience": 78,
+  "rt_audience": null,
   "rt_critics": 81,
   "rt_guessed": false,
   "rt_path": "tv/the_paper_2025",
