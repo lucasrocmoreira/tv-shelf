@@ -92,12 +92,12 @@
   "v": 1
  },
  "tt11540908": {
-  "checked": "2026-10-30T16:49:06+00:00",
+  "checked": "2026-11-06T17:40:47+00:00",
   "mc_guessed": false,
   "mc_path": "tv/carrie-2026",
   "metacritic": 71,
   "metacritic_user": 6.9,
-  "rt_audience": 82,
+  "rt_audience": null,
   "rt_critics": 85,
   "rt_guessed": false,
   "rt_path": "tv/carrie",
@@ -160,12 +160,12 @@
   "v": 1
  },
  "tt14452776": {
-  "checked": "2026-10-07T01:56:22+00:00",
+  "checked": "2026-11-06T17:40:45+00:00",
   "mc_guessed": false,
   "mc_path": "tv/the-bear",
   "metacritic": 83,
   "metacritic_user": 7.7,
-  "rt_audience": 78,
+  "rt_audience": null,
   "rt_critics": 93,
   "rt_guessed": false,
   "rt_path": "tv/the_bear",
@@ -184,24 +184,24 @@
   "v": 1
  },
  "tt15435876": {
-  "checked": "2026-10-07T01:56:16+00:00",
+  "checked": "2026-11-06T17:40:31+00:00",
   "mc_guessed": false,
   "mc_path": "tv/the-penguin",
   "metacritic": 72,
   "metacritic_user": 8.2,
-  "rt_audience": 85,
+  "rt_audience": null,
   "rt_critics": 95,
   "rt_guessed": false,
   "rt_path": "tv/the_penguin",
   "v": 1
  },
  "tt15571732": {
-  "checked": "2026-10-07T01:56:51+00:00",
+  "checked": "2026-11-06T17:40:17+00:00",
   "mc_guessed": false,
   "mc_path": "tv/agatha-all-along",
   "metacritic": 66,
   "metacritic_user": 5.7,
-  "rt_audience": 82,
+  "rt_audience": null,
   "rt_critics": 84,
   "rt_guessed": false,
   "rt_path": "tv/agatha_all_along",
@@ -256,24 +256,24 @@
   "v": 1
  },
  "tt2249364": {
-  "checked": "2026-10-07T05:47:17+00:00",
+  "checked": "2026-11-06T17:40:18+00:00",
   "mc_guessed": false,
   "mc_path": "tv/broadchurch",
   "metacritic": 84,
   "metacritic_user": 8.0,
-  "rt_audience": 91,
+  "rt_audience": null,
   "rt_critics": 92,
   "rt_guessed": false,
   "rt_path": "tv/broadchurch",
   "v": 1
  },
  "tt2297757": {
-  "checked": "2026-10-07T01:56:19+00:00",
+  "checked": "2026-11-06T17:40:33+00:00",
   "mc_guessed": false,
   "mc_path": "tv/nathan-for-you",
   "metacritic": 90,
   "metacritic_user": 8.8,
-  "rt_audience": 92,
+  "rt_audience": null,
   "rt_critics": 97,
   "rt_guessed": false,
   "rt_path": "tv/nathan-for-you",
@@ -304,40 +304,40 @@
   "v": 1
  },
  "tt27557289": {
-  "checked": "2026-10-07T05:44:49+00:00",
+  "checked": "2026-11-06T17:40:26+00:00",
   "mc_guessed": false,
   "mc_path": "tv/the-boroughs",
   "metacritic": 71,
-  "metacritic_user": 6.8,
-  "rt_audience": 78,
+  "metacritic_user": 6.9,
+  "rt_audience": null,
   "rt_critics": 96,
   "rt_guessed": false,
   "rt_path": "tv/the_boroughs",
   "v": 1
  },
  "tt29719218": {
-  "checked": "2026-10-07T02:32:56+00:00",
+  "checked": "2026-11-06T17:40:41+00:00",
   "v": 1
  },
  "tt3032476": {
-  "checked": "2026-10-07T05:46:16+00:00",
+  "checked": "2026-11-06T17:40:22+00:00",
   "mc_guessed": false,
   "mc_path": "tv/better-call-saul",
   "metacritic": 86,
   "metacritic_user": 9.0,
-  "rt_audience": 96,
+  "rt_audience": null,
   "rt_critics": 98,
   "rt_guessed": false,
   "rt_path": "tv/better_call_saul",
   "v": 1
  },
  "tt30460310": {
-  "checked": "2026-10-07T01:55:02+00:00",
+  "checked": "2026-11-06T17:40:29+00:00",
   "mc_guessed": false,
   "mc_path": "tv/spider-noir",
   "metacritic": 72,
   "metacritic_user": 7.3,
-  "rt_audience": 90,
+  "rt_audience": null,
   "rt_critics": 92,
   "rt_guessed": false,
   "rt_path": "tv/spider_noir",
@@ -404,8 +404,8 @@
   "v": 1
  },
  "tt34755671": {
-  "checked": "2026-10-07T01:56:54+00:00",
-  "rt_audience": 69,
+  "checked": "2026-11-06T17:40:20+00:00",
+  "rt_audience": null,
   "rt_critics": 69,
   "rt_guessed": false,
   "rt_path": "tv/chespirito_not_really_on_purpose",
@@ -444,19 +444,19 @@
   "v": 1
  },
  "tt3960394": {
-  "checked": "2026-10-07T01:58:32+00:00",
+  "checked": "2026-11-06T17:40:39+00:00",
   "mc_guessed": false,
   "mc_path": "tv/interview-with-the-vampire",
   "metacritic": 83,
   "metacritic_user": 7.3,
-  "rt_audience": 79,
+  "rt_audience": null,
   "rt_critics": 99,
   "rt_guessed": false,
   "rt_path": "tv/interview_with_the_vampire",
   "v": 1
  },
  "tt40191089": {
-  "checked": "2026-10-07T02:34:04+00:00",
+  "checked": "2026-11-06T17:40:38+00:00",
   "v": 1
  },
  "tt4301160": {
@@ -484,24 +484,24 @@
   "v": 1
  },
  "tt4786824": {
-  "checked": "2026-10-07T05:47:18+00:00",
+  "checked": "2026-11-06T17:40:34+00:00",
   "mc_guessed": false,
   "mc_path": "tv/the-crown",
   "metacritic": 78,
   "metacritic_user": 8.3,
-  "rt_audience": 92,
+  "rt_audience": null,
   "rt_critics": 81,
   "rt_guessed": false,
   "rt_path": "tv/the_crown",
   "v": 1
  },
  "tt5071412": {
-  "checked": "2026-10-07T05:47:20+00:00",
+  "checked": "2026-11-06T17:40:43+00:00",
   "mc_guessed": false,
   "mc_path": "tv/ozark",
   "metacritic": 69,
   "metacritic_user": 8.1,
-  "rt_audience": 86,
+  "rt_audience": null,
   "rt_critics": 82,
   "rt_guessed": false,
   "rt_path": "tv/ozark",
@@ -520,12 +520,12 @@
   "v": 1
  },
  "tt7660850": {
-  "checked": "2026-10-07T01:55:04+00:00",
+  "checked": "2026-11-06T17:40:24+00:00",
   "mc_guessed": false,
   "mc_path": "tv/succession",
   "metacritic": 86,
   "metacritic_user": 8.6,
-  "rt_audience": 88,
+  "rt_audience": null,
   "rt_critics": 95,
   "rt_guessed": false,
   "rt_path": "tv/succession",
