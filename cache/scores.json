@@ -12,12 +12,12 @@
   "v": 1
  },
  "tt0149460": {
-  "checked": "2026-10-08T06:53:30+00:00",
+  "checked": "2026-11-07T16:37:22+00:00",
   "mc_guessed": false,
   "mc_path": "tv/futurama",
   "metacritic": 72,
   "metacritic_user": 8.6,
-  "rt_audience": 85,
+  "rt_audience": null,
   "rt_critics": 88,
   "rt_guessed": false,
   "rt_path": "tv/futurama",
@@ -280,12 +280,12 @@
   "v": 1
  },
  "tt26545992": {
-  "checked": "2026-10-31T15:51:39+00:00",
+  "checked": "2026-11-07T16:37:24+00:00",
   "mc_guessed": false,
   "mc_path": "tv/lanterns",
   "metacritic": 72,
   "metacritic_user": 5.2,
-  "rt_audience": 67,
+  "rt_audience": null,
   "rt_critics": 92,
   "rt_guessed": false,
   "rt_path": "tv/lanterns",
@@ -508,13 +508,13 @@
   "v": 1
  },
  "tt6037988": {
-  "checked": "2026-10-07T22:36:28+00:00",
+  "checked": "2026-11-07T16:37:20+00:00",
   "mc_guessed": false,
   "mc_path": "tv/last-seen",
   "metacritic": 78,
-  "metacritic_user": 4.9,
-  "rt_audience": 71,
-  "rt_critics": 88,
+  "metacritic_user": 5.1,
+  "rt_audience": null,
+  "rt_critics": 89,
   "rt_guessed": false,
   "rt_path": "tv/last_seen",
   "v": 1
