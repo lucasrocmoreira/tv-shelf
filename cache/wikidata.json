@@ -180,7 +180,7 @@
   "rt": "tv/chespirito_not_really_on_purpose"
  },
  "tt35768911": {
-  "checked": "2026-11-09T16:08:14+00:00",
+  "checked": "2026-11-09T16:11:36+00:00",
   "mc": "tv/tip-toe",
   "rt": "tv/tip_toe"
  },
@@ -253,5 +253,10 @@
   "checked": "2026-10-07T01:57:21+00:00",
   "mc": "tv/avatar-the-last-airbender-2024",
   "rt": "tv/avatar_the_last_airbender_2024"
+ },
+ "tt9140342": {
+  "checked": "2026-11-09T16:11:36+00:00",
+  "mc": "tv/its-a-sin",
+  "rt": "tv/its_a_sin"
  }
 }

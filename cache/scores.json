@@ -412,7 +412,7 @@
   "v": 1
  },
  "tt35768911": {
-  "checked": "2026-11-09T16:08:15+00:00",
+  "checked": "2026-11-09T16:11:37+00:00",
   "mc_guessed": false,
   "mc_path": "tv/tip-toe",
   "metacritic": 84,
@@ -577,6 +577,18 @@
   "rt_critics": 66,
   "rt_guessed": false,
   "rt_path": "tv/avatar_the_last_airbender_2024",
+  "v": 1
+ },
+ "tt9140342": {
+  "checked": "2026-11-09T16:11:38+00:00",
+  "mc_guessed": false,
+  "mc_path": "tv/its-a-sin",
+  "metacritic": 91,
+  "metacritic_user": 8.1,
+  "rt_audience": null,
+  "rt_critics": 97,
+  "rt_guessed": false,
+  "rt_path": "tv/its_a_sin",
   "v": 1
  }
 }
