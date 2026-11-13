@@ -279,6 +279,18 @@
   "rt_path": "tv/nathan-for-you",
   "v": 1
  },
+ "tt23112594": {
+  "checked": "2026-11-13T15:14:18+00:00",
+  "mc_guessed": false,
+  "mc_path": "tv/visionquest",
+  "metacritic": 64,
+  "metacritic_user": 7.3,
+  "rt_audience": null,
+  "rt_critics": 86,
+  "rt_guessed": false,
+  "rt_path": "tv/visionquest",
+  "v": 1
+ },
  "tt26545992": {
   "checked": "2026-11-07T16:37:24+00:00",
   "mc_guessed": false,
