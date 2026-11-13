@@ -467,6 +467,15 @@
    "added": "2026-11-09",
    "interest": 0,
    "watched": null
+  },
+  "tmdb:213375": {
+   "tmdb": 213375,
+   "title": "VisionQuest",
+   "year": 2026,
+   "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+   "added": "2026-11-13",
+   "interest": 0,
+   "watched": null
   }
  }
 }
