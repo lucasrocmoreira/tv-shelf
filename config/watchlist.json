@@ -476,6 +476,15 @@
    "added": "2026-11-13",
    "interest": 0,
    "watched": null
+  },
+  "tmdb:84773": {
+   "tmdb": 84773,
+   "title": "The Lord of the Rings: The Rings of Power",
+   "year": 2022,
+   "poster": "https://image.tmdb.org/t/p/w342/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
+   "added": "2026-11-13",
+   "interest": 0,
+   "watched": null
   }
  }
 }
