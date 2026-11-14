@@ -1,11 +1,11 @@
 {
  "tt0106179": {
-  "checked": "2026-10-14T22:42:27+00:00",
+  "checked": "2026-11-14T03:01:04+00:00",
   "mc_guessed": false,
   "mc_path": "tv/the-x-files",
   "metacritic": 65,
   "metacritic_user": 8.1,
-  "rt_audience": 85,
+  "rt_audience": null,
   "rt_critics": 74,
   "rt_guessed": false,
   "rt_path": "tv/the_x_files",
@@ -541,6 +541,18 @@
   "rt_critics": 89,
   "rt_guessed": false,
   "rt_path": "tv/last_seen",
+  "v": 1
+ },
+ "tt7631058": {
+  "checked": "2026-11-14T03:01:04+00:00",
+  "mc_guessed": false,
+  "mc_path": "tv/the-lord-of-the-rings-the-rings-of-power",
+  "metacritic": 70,
+  "metacritic_user": 3.0,
+  "rt_audience": null,
+  "rt_critics": 83,
+  "rt_guessed": false,
+  "rt_path": "tv/the_lord_of_the_rings_the_rings_of_power",
   "v": 1
  },
  "tt7660850": {
