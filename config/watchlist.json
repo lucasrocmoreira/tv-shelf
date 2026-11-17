@@ -494,6 +494,15 @@
    "added": "2026-11-17",
    "interest": 0,
    "watched": null
+  },
+  "tmdb:1705": {
+   "tmdb": 1705,
+   "title": "Fringe",
+   "year": 2008,
+   "poster": "https://image.tmdb.org/t/p/w342/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg",
+   "added": "2026-11-17",
+   "interest": 0,
+   "watched": null
   }
  }
 }
