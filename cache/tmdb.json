@@ -14,7 +14,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-11-17T14:18:37+00:00",
+  "fetched": "2026-11-17T19:21:57+00:00",
   "genres": [
    "Action & Adventure",
    "Sci-Fi & Fantasy",
@@ -78,7 +78,7 @@
   ],
   "end_year": 2024,
   "episodes": 10,
-  "fetched": "2026-11-17T14:18:37+00:00",
+  "fetched": "2026-11-17T19:21:57+00:00",
   "genres": [
    "Comedy",
    "Drama"
@@ -140,7 +140,7 @@
   ],
   "end_year": 2021,
   "episodes": 5,
-  "fetched": "2026-11-17T14:18:37+00:00",
+  "fetched": "2026-11-17T19:21:57+00:00",
   "genres": [
    "Comedy",
    "Drama"
@@ -204,7 +204,7 @@
   ],
   "end_year": null,
   "episodes": 39,
-  "fetched": "2026-11-17T14:18:37+00:00",
+  "fetched": "2026-11-17T19:21:57+00:00",
   "genres": [
    "Drama",
    "Mystery"
@@ -274,7 +274,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-11-17T14:18:37+00:00",
+  "fetched": "2026-11-17T19:21:57+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Mystery",
@@ -333,7 +333,7 @@
   ],
   "end_year": 2022,
   "episodes": 8,
-  "fetched": "2026-11-17T14:18:38+00:00",
+  "fetched": "2026-11-17T19:21:57+00:00",
   "genres": [
    "Drama"
   ],
@@ -395,7 +395,7 @@
   ],
   "end_year": null,
   "episodes": 101,
-  "fetched": "2026-11-17T14:18:38+00:00",
+  "fetched": "2026-11-17T19:21:57+00:00",
   "genres": [
    "Comedy"
   ],
@@ -453,7 +453,7 @@
   ],
   "end_year": null,
   "episodes": 31,
-  "fetched": "2026-11-17T14:18:38+00:00",
+  "fetched": "2026-11-17T19:21:57+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama"
@@ -491,7 +491,7 @@
   "title": "Silo",
   "tmdb": 125988,
   "tmdb_score": 82,
-  "tmdb_votes": 2922,
+  "tmdb_votes": 2921,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/125988-silo/watch?locale=US",
   "wikidata_id": "Q108456738",
@@ -510,7 +510,7 @@
   ],
   "end_year": 2024,
   "episodes": 15,
-  "fetched": "2026-11-17T14:18:38+00:00",
+  "fetched": "2026-11-17T19:21:57+00:00",
   "genres": [
    "Drama",
    "Sci-Fi & Fantasy"
@@ -582,7 +582,7 @@
   ],
   "end_year": 2026,
   "episodes": 46,
-  "fetched": "2026-11-17T14:18:38+00:00",
+  "fetched": "2026-11-17T19:21:57+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -644,7 +644,7 @@
   ],
   "end_year": 2024,
   "episodes": 9,
-  "fetched": "2026-11-17T14:18:38+00:00",
+  "fetched": "2026-11-17T19:21:58+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Mystery"
@@ -702,7 +702,7 @@
   ],
   "end_year": 2017,
   "episodes": 24,
-  "fetched": "2026-11-17T14:18:36+00:00",
+  "fetched": "2026-11-17T19:21:54+00:00",
   "genres": [
    "Crime",
    "Drama",
@@ -769,7 +769,7 @@
   ],
   "end_year": null,
   "episodes": 18,
-  "fetched": "2026-11-17T14:18:38+00:00",
+  "fetched": "2026-11-17T19:21:58+00:00",
   "genres": [
    "Comedy",
    "Drama"
@@ -830,7 +830,7 @@
   ],
   "end_year": 2022,
   "episodes": 6,
-  "fetched": "2026-11-17T14:18:38+00:00",
+  "fetched": "2026-11-17T19:21:58+00:00",
   "genres": [
    "Drama",
    "Crime"
@@ -873,7 +873,7 @@
   "title": "Black Bird",
   "tmdb": 155537,
   "tmdb_score": 81,
-  "tmdb_votes": 1125,
+  "tmdb_votes": 1126,
   "type": "Miniseries",
   "watch_link": "https://www.themoviedb.org/tv/155537-black-bird/watch?locale=US",
   "wikidata_id": "Q106911884",
@@ -898,7 +898,7 @@
   ],
   "end_year": 2013,
   "episodes": 100,
-  "fetched": "2026-11-17T14:18:36+00:00",
+  "fetched": "2026-11-17T19:21:55+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama",
@@ -951,7 +951,7 @@
   ],
   "end_year": 2024,
   "episodes": 8,
-  "fetched": "2026-11-17T14:18:38+00:00",
+  "fetched": "2026-11-17T19:21:58+00:00",
   "genres": [
    "Drama",
    "Crime"
@@ -1014,7 +1014,7 @@
   ],
   "end_year": null,
   "episodes": 12,
-  "fetched": "2026-11-17T14:18:38+00:00",
+  "fetched": "2026-11-17T19:21:58+00:00",
   "genres": [
    "Comedy",
    "Documentary"
@@ -1070,7 +1070,7 @@
   ],
   "end_year": 2026,
   "episodes": 8,
-  "fetched": "2026-11-17T14:18:38+00:00",
+  "fetched": "2026-11-17T19:21:58+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama"
@@ -1108,7 +1108,7 @@
   "title": "VisionQuest",
   "tmdb": 213375,
   "tmdb_score": 83,
-  "tmdb_votes": 511,
+  "tmdb_votes": 515,
   "type": "Miniseries",
   "watch_link": "https://www.themoviedb.org/tv/213375-visionquest/watch?locale=US",
   "wikidata_id": "Q126092795",
@@ -1126,7 +1126,7 @@
   ],
   "end_year": 2026,
   "episodes": 8,
-  "fetched": "2026-11-17T14:18:38+00:00",
+  "fetched": "2026-11-17T19:21:58+00:00",
   "genres": [
    "Drama",
    "Mystery",
@@ -1189,7 +1189,7 @@
   ],
   "end_year": 2026,
   "episodes": 8,
-  "fetched": "2026-11-17T14:18:38+00:00",
+  "fetched": "2026-11-17T19:21:58+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Mystery"
@@ -1240,7 +1240,7 @@
   ],
   "end_year": 2023,
   "episodes": 7,
-  "fetched": "2026-11-17T14:18:38+00:00",
+  "fetched": "2026-11-17T19:21:58+00:00",
   "genres": [
    "Documentary"
   ],
@@ -1289,7 +1289,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-11-17T14:18:38+00:00",
+  "fetched": "2026-11-17T19:21:58+00:00",
   "genres": [
    "Comedy"
   ],
@@ -1336,7 +1336,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-11-17T14:18:38+00:00",
+  "fetched": "2026-11-17T19:21:59+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -1389,7 +1389,7 @@
   ],
   "end_year": null,
   "episodes": 16,
-  "fetched": "2026-11-17T14:18:38+00:00",
+  "fetched": "2026-11-17T19:21:59+00:00",
   "genres": [
    "Crime",
    "Drama"
@@ -1443,7 +1443,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-11-17T14:18:38+00:00",
+  "fetched": "2026-11-17T19:21:59+00:00",
   "genres": [
    "Drama",
    "Mystery"
@@ -1505,7 +1505,7 @@
   ],
   "end_year": null,
   "episodes": 20,
-  "fetched": "2026-11-17T14:18:38+00:00",
+  "fetched": "2026-11-17T19:21:59+00:00",
   "genres": [
    "Comedy"
   ],
@@ -1557,7 +1557,7 @@
   ],
   "end_year": 2026,
   "episodes": 7,
-  "fetched": "2026-11-17T14:18:38+00:00",
+  "fetched": "2026-11-17T19:21:59+00:00",
   "genres": [
    "Drama"
   ],
@@ -1615,7 +1615,7 @@
   "creators": [],
   "end_year": 2026,
   "episodes": 6,
-  "fetched": "2026-11-17T14:18:39+00:00",
+  "fetched": "2026-11-17T19:21:59+00:00",
   "genres": [
    "Crime",
    "Drama",
@@ -1669,7 +1669,7 @@
   ],
   "end_year": null,
   "episodes": 17,
-  "fetched": "2026-11-17T14:18:39+00:00",
+  "fetched": "2026-11-17T19:21:59+00:00",
   "genres": [
    "Comedy"
   ],
@@ -1720,7 +1720,7 @@
   ],
   "end_year": 2025,
   "episodes": 8,
-  "fetched": "2026-11-17T14:18:39+00:00",
+  "fetched": "2026-11-17T19:21:59+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -1772,7 +1772,7 @@
   ],
   "end_year": null,
   "episodes": 10,
-  "fetched": "2026-11-17T14:18:39+00:00",
+  "fetched": "2026-11-17T19:21:59+00:00",
   "genres": [
    "Comedy"
   ],
@@ -1825,7 +1825,7 @@
   ],
   "end_year": 2026,
   "episodes": 5,
-  "fetched": "2026-11-17T14:18:39+00:00",
+  "fetched": "2026-11-17T19:21:59+00:00",
   "genres": [
    "Drama"
   ],
@@ -1882,7 +1882,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-11-17T14:18:39+00:00",
+  "fetched": "2026-11-17T19:22:00+00:00",
   "genres": [
    "Drama",
    "Crime"
@@ -1933,7 +1933,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-11-17T14:18:39+00:00",
+  "fetched": "2026-11-17T19:22:00+00:00",
   "genres": [
    "Mystery",
    "Drama",
@@ -1996,7 +1996,7 @@
   ],
   "end_year": null,
   "episodes": 10,
-  "fetched": "2026-11-17T14:18:39+00:00",
+  "fetched": "2026-11-17T19:22:00+00:00",
   "genres": [
    "Comedy"
   ],
@@ -2043,7 +2043,7 @@
   ],
   "end_year": 2026,
   "episodes": 5,
-  "fetched": "2026-11-17T14:18:39+00:00",
+  "fetched": "2026-11-17T19:22:00+00:00",
   "genres": [
    "Documentary"
   ],
@@ -2093,7 +2093,7 @@
   ],
   "end_year": 2014,
   "episodes": 52,
-  "fetched": "2026-11-17T14:18:36+00:00",
+  "fetched": "2026-11-17T19:21:55+00:00",
   "genres": [
    "Animation",
    "Action & Adventure",
@@ -2139,7 +2139,7 @@
   "title": "The Legend of Korra",
   "tmdb": 33880,
   "tmdb_score": 82,
-  "tmdb_votes": 2503,
+  "tmdb_votes": 2504,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/33880-the-legend-of-korra/watch?locale=US",
   "wikidata_id": "Q18790",
@@ -2167,7 +2167,7 @@
   ],
   "end_year": 2018,
   "episodes": 218,
-  "fetched": "2026-11-17T14:18:36+00:00",
+  "fetched": "2026-11-17T19:21:55+00:00",
   "genres": [
    "Mystery",
    "Sci-Fi & Fantasy",
@@ -2234,7 +2234,7 @@
   ],
   "end_year": null,
   "episodes": 33,
-  "fetched": "2026-11-17T14:18:36+00:00",
+  "fetched": "2026-11-17T19:21:55+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama",
@@ -2302,7 +2302,7 @@
   ],
   "end_year": 2017,
   "episodes": 62,
-  "fetched": "2026-11-17T14:18:36+00:00",
+  "fetched": "2026-11-17T19:21:55+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -2368,7 +2368,7 @@
   ],
   "end_year": 2017,
   "episodes": 50,
-  "fetched": "2026-11-17T14:18:37+00:00",
+  "fetched": "2026-11-17T19:21:55+00:00",
   "genres": [
    "Drama",
    "Sci-Fi & Fantasy"
@@ -2428,7 +2428,7 @@
   ],
   "end_year": 2017,
   "episodes": 31,
-  "fetched": "2026-11-17T14:18:37+00:00",
+  "fetched": "2026-11-17T19:21:55+00:00",
   "genres": [
    "Comedy",
    "Documentary"
@@ -2500,7 +2500,7 @@
   ],
   "end_year": 2022,
   "episodes": 63,
-  "fetched": "2026-11-17T14:18:37+00:00",
+  "fetched": "2026-11-17T19:21:55+00:00",
   "genres": [
    "Crime",
    "Drama"
@@ -2582,7 +2582,7 @@
   "creators": [],
   "end_year": 2023,
   "episodes": 1235,
-  "fetched": "2026-11-17T14:18:37+00:00",
+  "fetched": "2026-11-17T19:21:55+00:00",
   "genres": [
    "Animation",
    "Action & Adventure",
@@ -2654,7 +2654,7 @@
   ],
   "end_year": 2026,
   "episodes": 164,
-  "fetched": "2026-11-17T14:18:36+00:00",
+  "fetched": "2026-11-17T19:21:54+00:00",
   "genres": [
    "Animation",
    "Comedy",
@@ -2726,7 +2726,7 @@
   ],
   "end_year": 2023,
   "episodes": 60,
-  "fetched": "2026-11-17T14:18:37+00:00",
+  "fetched": "2026-11-17T19:21:55+00:00",
   "genres": [
    "Drama"
   ],
@@ -2768,7 +2768,7 @@
   "title": "The Crown",
   "tmdb": 65494,
   "tmdb_score": 82,
-  "tmdb_votes": 2480,
+  "tmdb_votes": 2481,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/65494-the-crown/watch?locale=US",
   "wikidata_id": "Q20707362",
@@ -2790,7 +2790,7 @@
   ],
   "end_year": 2022,
   "episodes": 44,
-  "fetched": "2026-11-17T14:18:37+00:00",
+  "fetched": "2026-11-17T19:21:56+00:00",
   "genres": [
    "Crime",
    "Drama"
@@ -2851,7 +2851,7 @@
   ],
   "end_year": 2023,
   "episodes": 39,
-  "fetched": "2026-11-17T14:18:37+00:00",
+  "fetched": "2026-11-17T19:21:56+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -2894,7 +2894,7 @@
   "title": "Succession",
   "tmdb": 76331,
   "tmdb_score": 83,
-  "tmdb_votes": 1855,
+  "tmdb_votes": 1856,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/76331-succession/watch?locale=US",
   "wikidata_id": "Q30599007",
@@ -2915,7 +2915,7 @@
   ],
   "end_year": null,
   "episodes": 33,
-  "fetched": "2026-11-17T14:18:37+00:00",
+  "fetched": "2026-11-17T19:21:56+00:00",
   "genres": [
    "Drama"
   ],
@@ -2977,7 +2977,7 @@
   ],
   "end_year": null,
   "episodes": 15,
-  "fetched": "2026-11-17T14:18:37+00:00",
+  "fetched": "2026-11-17T19:21:56+00:00",
   "genres": [
    "Action & Adventure",
    "Sci-Fi & Fantasy",
@@ -3034,7 +3034,7 @@
   ],
   "end_year": 2022,
   "episodes": 8,
-  "fetched": "2026-11-17T14:18:37+00:00",
+  "fetched": "2026-11-17T19:21:56+00:00",
   "genres": [
    "Drama",
    "Mystery",
@@ -3092,7 +3092,7 @@
   ],
   "end_year": null,
   "episodes": 24,
-  "fetched": "2026-11-17T14:18:37+00:00",
+  "fetched": "2026-11-17T19:21:56+00:00",
   "genres": [
    "Action & Adventure",
    "Sci-Fi & Fantasy"
@@ -3135,7 +3135,7 @@
   "title": "The Lord of the Rings: The Rings of Power",
   "tmdb": 84773,
   "tmdb_score": 72,
-  "tmdb_votes": 4090,
+  "tmdb_votes": 4091,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/84773-the-lord-of-the-rings-the-rings-of-power/watch?locale=US",
   "wikidata_id": "Q59149852",
@@ -3156,7 +3156,7 @@
   ],
   "end_year": null,
   "episodes": 30,
-  "fetched": "2026-11-17T14:18:37+00:00",
+  "fetched": "2026-11-17T19:21:56+00:00",
   "genres": [
    "Sci-Fi & Fantasy",
    "Drama"
@@ -3214,7 +3214,7 @@
   ],
   "end_year": null,
   "episodes": 8,
-  "fetched": "2026-11-17T14:18:37+00:00",
+  "fetched": "2026-11-17T19:21:56+00:00",
   "genres": [
    "Drama",
    "Mystery",
@@ -3276,7 +3276,7 @@
   ],
   "end_year": 2022,
   "episodes": 9,
-  "fetched": "2026-11-17T14:18:37+00:00",
+  "fetched": "2026-11-17T19:21:56+00:00",
   "genres": [
    "Drama"
   ],
@@ -3333,7 +3333,7 @@
   ],
   "end_year": null,
   "episodes": 44,
-  "fetched": "2026-11-17T14:18:37+00:00",
+  "fetched": "2026-11-17T19:21:56+00:00",
   "genres": [
    "Drama",
    "Comedy"
@@ -3376,7 +3376,7 @@
   "title": "Ted Lasso",
   "tmdb": 97546,
   "tmdb_score": 84,
-  "tmdb_votes": 2864,
+  "tmdb_votes": 2863,
   "type": "Scripted",
   "watch_link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=US",
   "wikidata_id": "Q96407897",
