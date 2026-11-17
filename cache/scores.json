@@ -255,6 +255,18 @@
   "rt_path": "tv/east_of_eden_2026",
   "v": 1
  },
+ "tt2234222": {
+  "checked": "2026-11-17T14:17:32+00:00",
+  "mc_guessed": false,
+  "mc_path": "tv/orphan-black",
+  "metacritic": 76,
+  "metacritic_user": 8.4,
+  "rt_audience": null,
+  "rt_critics": 93,
+  "rt_guessed": false,
+  "rt_path": "tv/orphan-black",
+  "v": 1
+ },
  "tt2249364": {
   "checked": "2026-11-06T17:40:18+00:00",
   "mc_guessed": false,
@@ -580,12 +592,12 @@
   "v": 1
  },
  "tt8740976": {
-  "checked": "2026-10-18T02:03:11+00:00",
+  "checked": "2026-11-17T14:17:34+00:00",
   "mc_guessed": false,
   "mc_path": "tv/inventing-anna",
   "metacritic": 57,
   "metacritic_user": 4.8,
-  "rt_audience": 38,
+  "rt_audience": null,
   "rt_critics": 63,
   "rt_guessed": false,
   "rt_path": "tv/inventing_anna",
